@@ -1,0 +1,77 @@
+Level;Family;Genus;Species;ProxyName
+2;Pinaceae;Abies ;NA;Abies
+3;Sapindaceae;Acer ;Acer Campestre;Acer_Campestre
+2;Alismataceae;Alisma;NA;Alisma
+2;Betulaceae;Alnus;NA;Alnus
+2;Plumbaginaceae;Armeria;NA;Armeria
+2;Asteraceae;Artemisia;NA;Artemisia
+2;Betulaceae;Betula;NA;Betula
+1;Boraginaceae;NA;NA;Boraginaceae
+2;Ophioglossaceae;Botrychium;NA;Botrychium
+2;Ericaceae;Erica;Erica Spiculifolia;Erica_Spiculifolia
+2;Buxaceae;Buxus;NA;Buxus
+3;Ericaceae;Calluna;Calluna Vulgaris;Vulgaris
+1;Campanulaceae;NA;NA;Campanulaceae
+2;Betulaceae;Carpinus;NA;Carpinus
+1;Caryophyllaceae;NA;NA;Caryophyllaceae
+2;Pinaceae;Cedrus;NA;Cedrus
+2;Asteraceae;Centaurea;NA;Centaurea
+1;Amaranthaceae;NA;NA;Amaranthaceae
+2;Betulaceae;Corylus;NA;Corylus
+1;Crassulaceae;NA;NA;Crassulaceae
+1;Cyperaceae;NA;NA;Cyperaceae
+1;Caprifoliaceae;NA;NA;Caprifoliaceae
+2;Ephedraceae;Ephedra;NA;Ephedra
+1;Ericaceae;NA;NA;Ericaceae
+2;Fagaceae;Fagus;NA;Fagus
+2;Rosaceae;Filipendula;NA;Filipendula
+2;Oleaceae;Fraxinus;NA;Fraxinus
+2;Gentianaceae;Gentiana;NA;Gentiana
+1;Poaceae;NA;NA;Poaceae
+2;Araliaceae;Hedera;NA;Hedera
+2;Cistaceae;Helianthemum;NA;Helianthemum
+2;Elaeagnaceae;Hippophae;NA;Hippophae
+2;Aquifoliaceae;Ilex;NA;Ilex
+2;Isoetaceae;Isoetes;NA;Isoetes
+2;Cupressaceae;Juniperus;NA;Juniperus
+1;Lamiaceae;NA;NA;Lamiaceae
+1;Fabaceae;NA;NA;Fabaceae
+2;Araceae;Lemna;NA;Lemna
+1;Liliaceae;NA;NA;Liliaceae
+2;Lycopodiaceae;Lycopodium;NA;Lycopodium
+3;Menyanthaceae;Menyanthes;Menyanthes Trifoliata;Trifoliata
+2;Euphorbiaceae;Mercurialis;NA;Mercurialis
+2;Haloragaceae;Myriophyllum;NA;Myriophyllum
+2;Nymphaeaceae;Nymphaea;NA;Nymphaea
+2;Osmundaceae;Osmunda;NA;Osmunda
+2;Pinaceae;Picea;NA;Picea
+2;Pinaceae;Pinus;NA;Pinus
+2;Plantaginaceae;Plantago;NA;Plantago
+2;Plantaginaceae;Plantago;Plantago Lanceolata;Plantago_Lanceolata
+3;Polygonaceae;Polygonum;NA;Polygonum
+2;Polypodiaceae;Polypodium;NA;Polypodium
+2;Salicaceae;Populus;NA;Populus
+2;Potamogetonaceae;Potamogeton;NA;Potamogeton
+3;Fagaceae;Quercus;Quercus Robur;Quercus_Robur
+3;Fagaceae;Quercus ;Quercus Ilex;Quercus_Ilex
+1;Ranunculaceae;NA;NA;Ranunculaceae
+2;Ranunculaceae;Ranunculus;NA;Ranunculus
+2;Rhamnaceae;Rhamnus;NA;Rhamnus
+1;Rosaceae;NA;NA;Rosaceae
+1;Rubiaceae;NA;NA;Rubiaceae
+2;Polygonaceae;Rumex;NA;Rumex
+2;Salicaceae;Salix;NA;Salix
+3;Rosaceae;Sanguisorba;Sanguisorba Minor;Minor
+3;Rosaceae;Sanguisorba ;Sanguisorba Officinalis;Officinalis
+2;Saxifragaceae;Saxifraga;NA;Saxifraga
+2;Scrophulariaceae;Scrophularia;NA;Scrophularia
+2;Selaginellaceae;Selaginella;NA;Selaginella
+2;Sphagnaceae;Sphagnum;NA;Sphagnum
+2;Taxaceae;Taxus;NA;Taxus
+2;Ranunculaceae;Thalictrum;NA;Thalictrum
+2;Malvaceae;Tilia;NA;Tilia
+3;Typhaceae;Typha;Typha Angustifolia;Angustifolia
+2;Ulmaceae;Ulmus;NA;Ulmus
+1;Apiaceae;NA;NA;Apiaceae
+2;Caprifoliaceae;Valeriana;NA;Valeriana
+2;Vitaceae;Vitis;NA;Vitis
