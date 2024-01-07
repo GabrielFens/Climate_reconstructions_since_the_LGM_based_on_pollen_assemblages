@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="eventStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<IconStyle>
+<scale>1.0</scale>
+<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>ff00aaff</color>
+<colorMode>normal</colorMode>
+<width>2</width>
+</LineStyle>
+<ListStyle>
+<listItemType>checkHideChildren</listItemType>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<Style id="eventStartStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<IconStyle>
+<scale>1.0</scale>
+<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>ff00aaff</color>
+<colorMode>normal</colorMode>
+<width>2</width>
+</LineStyle>
+<ListStyle>
+<listItemType>checkHideChildren</listItemType>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<Style id="eventEndStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<IconStyle>
+<scale>1.0</scale>
+<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>ff00aaff</color>
+<colorMode>normal</colorMode>
+<width>2</width>
+</LineStyle>
+<ListStyle>
+<listItemType>checkHideChildren</listItemType>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<name>Eurasian Modern Pollen Database (former European Modern Pollen Database)</name>
+<atom:author>
+<atom:name>Chevalier, Manuel; Davis, Basil A S; Sommer, Philipp S; Zanon, Marco; Carter, Vachel A; Phelps, Leanne N; Mauri, Achille; Finsinger, Walter</atom:name>
+</atom:author>
+<atom:link href="https://doi.pangaea.de/10.1594/PANGAEA.909130"/>
+<Snippet maxLines="1">https://doi.org/10.1594/PANGAEA.909130</Snippet>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><strong><a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Chevalier, Manuel&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0002-8183-9881&quot;&gt;https://orcid.org/0000-0002-8183-9881&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:chevalier.manuel@gmail.com&quot;&gt;chevalier.manuel@gmail.com&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Chevalier, Manuel</a>; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Davis, Basil A S&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0002-7148-1863&quot;&gt;https://orcid.org/0000-0002-7148-1863&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Davis, Basil A S</a>; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Sommer, Philipp S&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0001-6171-7716&quot;&gt;https://orcid.org/0000-0001-6171-7716&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:philipp.sommer@hzg.de&quot;&gt;philipp.sommer@hzg.de&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Sommer, Philipp S</a>; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Zanon, Marco&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0001-6146-5379&quot;&gt;https://orcid.org/0000-0001-6146-5379&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:mzanon@gshdl.uni-kiel.de&quot;&gt;mzanon@gshdl.uni-kiel.de&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Zanon, Marco</a>; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Carter, Vachel A&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0002-0610-0091&quot;&gt;https://orcid.org/0000-0002-0610-0091&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:vachel.carter@gmail.de&quot;&gt;vachel.carter@gmail.de&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Carter, Vachel A</a>; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Phelps, Leanne N&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0002-7385-3907&quot;&gt;https://orcid.org/0000-0002-7385-3907&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:lnphel@gmail.com&quot;&gt;lnphel@gmail.com&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Phelps, Leanne N</a>; Mauri, Achille; <a class="popover-link link-unstyled" href="#" data-title="&lt;span&gt;Finsinger, Walter&lt;/span&gt;" data-content="&lt;div&gt;&lt;div&gt;&lt;a class=&quot;orcid-link text-nowrap wide-icon-link&quot; target=&quot;_blank&quot; href=&quot;https://orcid.org/0000-0002-8297-0574&quot;&gt;https://orcid.org/0000-0002-8297-0574&lt;/a&gt;&lt;/div&gt;&#10;&lt;div&gt;&lt;a class=&quot;mail-link text-nowrap wide-icon-link&quot; href=&quot;mailto:walter.finsinger@univ-montp2.fr&quot;&gt;walter.finsinger@univ-montp2.fr&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;">Finsinger, Walter</a> (2019):</strong> Eurasian Modern Pollen Database (former European Modern Pollen Database). <em>PANGAEA</em>, <a id="citation-doi-link" rel="nofollow bookmark" href="https://doi.org/10.1594/PANGAEA.909130" data-pubstatus="4" class="text-linkwrap popover-link doi-link">https://doi.org/10.1594/PANGAEA.909130</a></div>
+]]></description>
+<Placemark id="event2921667">
+<name>AlbaSanchez_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>AlbaSanchez_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1192.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-5.042,36.664</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921668">
+<name>Antipina_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Antipina_EMPD</strong></div>
+<div><b>ELEVATION:</b> 220.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>60.07,59.5</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921669">
+<name>Atanassova_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Atanassova_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1310.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Bulgaria</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>25.341,42.741</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921670">
+<name>Bakker_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Bakker_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1241.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Turkey</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>30.401,37.591</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921671">
+<name>Barboni_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Barboni_EMPD</strong></div>
+<div><b>ELEVATION:</b> 200.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Bulgaria</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>27.11,44.08</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921672">
+<name>Beaudouin_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Beaudouin_EMPD</strong></div>
+<div><b>ELEVATION:</b> 0.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>France</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>4.842,43.31</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921673">
+<name>Binney2017_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Binney2017_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2204.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>89.61,50.27</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921674">
+<name>Bjune_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Bjune_EMPD</strong></div>
+<div><b>ELEVATION:</b> 174.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Norway</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>27.065,70.552</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921675">
+<name>Blyakharchuk_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Blyakharchuk_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1380.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>95.012,50.269</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921676">
+<name>Bunting_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Bunting_EMPD</strong></div>
+<div><b>ELEVATION:</b> 87.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>United Kingdom</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-5.093,58.253</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921677">
+<name>Champvillair_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Champvillair_EMPD</strong></div>
+<div><b>ELEVATION:</b> 983.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>7.036,45.751</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921678">
+<name>Colombaroli_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Colombaroli_EMPD</strong></div>
+<div><b>ELEVATION:</b> 38.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>12.837,37.584</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921679">
+<name>Connor_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Connor_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1550.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Georgia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>44.021,41.64</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921680">
+<name>Dambach_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Dambach_EMPD</strong></div>
+<div><b>ELEVATION:</b> 500.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Austria</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>15.45,48.317</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921681">
+<name>Desprat_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Desprat_EMPD</strong></div>
+<div><b>ELEVATION:</b> 119.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Tunisia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>9.992,37.129</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921682">
+<name>Di_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Di_EMPD</strong></div>
+<div><b>ELEVATION:</b> 665.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>12.502,42.246</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921683">
+<name>Djamali_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Djamali_EMPD</strong></div>
+<div><b>ELEVATION:</b> 900.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Iran, Islamic Republic Of</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>55.929,37.372</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921686">
+<name>Edwards_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Edwards_EMPD</strong></div>
+<div><b>ELEVATION:</b> 0.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>United Kingdom</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-7.433,57.224</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921687">
+<name>Ejarque_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Ejarque_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2541.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Andorra</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>1.638,42.493</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921684">
+<name>EMBSECBIO_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>EMBSECBIO_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1430.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Georgia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>42.83,41.78</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921685">
+<name>EPDcoretop_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>EPDcoretop_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1750.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Georgia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>41.333,43.306</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921688">
+<name>Fall_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Fall_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1700.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Jordan</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>35.499,30.407</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921689">
+<name>Feurdean_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Feurdean_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1360.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Romania</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>24.545,47.574</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921690">
+<name>Finsinger_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Finsinger_EMPD</strong></div>
+<div><b>ELEVATION:</b> 143.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>10.896,42.988</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921691">
+<name>Fletcher_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Fletcher_EMPD</strong></div>
+<div><b>ELEVATION:</b> 3.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Portugal</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-7.442,37.266</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921692">
+<name>Furlanetto_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Furlanetto_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1244.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>9.798,46.025</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921693">
+<name>Galka_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Galka_EMPD</strong></div>
+<div><b>ELEVATION:</b> 158.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>24.16,53.082</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921694">
+<name>Grant_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Grant_EMPD</strong></div>
+<div><b>ELEVATION:</b> 88.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>United Kingdom</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>0.835,52.182</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921695">
+<name>Hallsdottir_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Hallsdottir_EMPD</strong></div>
+<div><b>ELEVATION:</b> 80.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span><a target="_blank" href="http://en.wikipedia.org/wiki/Iceland">Iceland</a></span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-20.681,64.239</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921696">
+<name>Hjelle_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Hjelle_EMPD</strong></div>
+<div><b>ELEVATION:</b> 24.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Norway</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>5.08,60.327</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921697">
+<name>Jahns_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Jahns_EMPD</strong></div>
+<div><b>ELEVATION:</b> 50.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Greece</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>21.213,38.652</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921698">
+<name>Jimenez-Moreno_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Jimenez-Moreno_EMPD</strong></div>
+<div><b>ELEVATION:</b> 752.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-3.534,37.153</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921699">
+<name>Joannin_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Joannin_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1056.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>16.023,39.549</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921700">
+<name>Karpinska_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Karpinska_EMPD</strong></div>
+<div><b>ELEVATION:</b> 230.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>19.844,50.088</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921701">
+<name>Klemm_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Klemm_EMPD</strong></div>
+<div><b>ELEVATION:</b> 5.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>103.213,71.949</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921702">
+<name>Knaap_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Knaap_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2000.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Switzerland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>8.026,46.391</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921703">
+<name>Kolaczek_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Kolaczek_EMPD</strong></div>
+<div><b>ELEVATION:</b> 177.8 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>22.51,50.165</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921704">
+<name>Kuehl_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Kuehl_EMPD</strong></div>
+<div><b>ELEVATION:</b> 455.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>6.883,50.117</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921705">
+<name>Kunes_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Kunes_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1992.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>88.036,49.961</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921706">
+<name>Lapteva_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Lapteva_EMPD</strong></div>
+<div><b>ELEVATION:</b> 254.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>61.353,54.943</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921707">
+<name>Lazarova_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Lazarova_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1550.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Bulgaria</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>24.091,41.853</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921708">
+<name>Leipe_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Leipe_EMPD</strong></div>
+<div><b>ELEVATION:</b> 4529.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>India</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>78.272,33.016</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921709">
+<name>Leroy_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Leroy_EMPD</strong></div>
+<div><b>ELEVATION:</b> -25.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Iran, Islamic Republic Of</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>49.482,37.413</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921710">
+<name>Lopatina_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Lopatina_EMPD</strong></div>
+<div><b>ELEVATION:</b> 11.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>161.399,68.74</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921711">
+<name>Lopez_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Lopez_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1200.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-0.441,38.776</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921712">
+<name>Matthias_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Matthias_EMPD</strong></div>
+<div><b>ELEVATION:</b> 70.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>13.363,53.235</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921713">
+<name>Mazier_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Mazier_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1333.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Switzerland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>6.177,46.51</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921714">
+<name>Meltsov_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Meltsov_EMPD</strong></div>
+<div><b>ELEVATION:</b> 61.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Estonia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>26.273,57.895</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921715">
+<name>Mercuri_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Mercuri_EMPD</strong></div>
+<div><b>ELEVATION:</b> -77.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>15.668,42.667</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921716">
+<name>Mikishin-Gvozdeva_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Mikishin-Gvozdeva_EMPD</strong></div>
+<div><b>ELEVATION:</b> 5.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>142.7,53.917</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921717">
+<name>Milecka_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Milecka_EMPD</strong></div>
+<div><b>ELEVATION:</b> 54.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>16.304,52.764</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921718">
+<name>Miras_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Miras_EMPD</strong></div>
+<div><b>ELEVATION:</b> 812.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>France</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>2.017,45.592</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921719">
+<name>Mitchell_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Mitchell_EMPD</strong></div>
+<div><b>ELEVATION:</b> 30.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Ireland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-9.542,52.021</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921720">
+<name>Montanari_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Montanari_EMPD</strong></div>
+<div><b>ELEVATION:</b> 400.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>7.692,45.669</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921721">
+<name>Morales_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Morales_EMPD</strong></div>
+<div><b>ELEVATION:</b> 780.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-6.07,42.126</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921722">
+<name>Mrotzek_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Mrotzek_EMPD</strong></div>
+<div><b>ELEVATION:</b> 7.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>13.27,54.134</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921723">
+<name>Muller_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Muller_EMPD</strong></div>
+<div><b>ELEVATION:</b> 20.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>114.077,72.478</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921724">
+<name>MunozSobrino_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>MunozSobrino_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-7.37,42.357</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921725">
+<name>Naidina_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Naidina_EMPD</strong></div>
+<div><b>ELEVATION:</b> 73.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Kazakhstan</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>54.05,49.3</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921726">
+<name>Nakagawa_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Nakagawa_EMPD</strong></div>
+<div><b>ELEVATION:</b> 523.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Japan</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>133.655,35.3</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921727">
+<name>Naughton_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Naughton_EMPD</strong></div>
+<div><b>ELEVATION:</b> -2120.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Spain</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-9.7,42.15</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921728">
+<name>Nielsen_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Nielsen_EMPD</strong></div>
+<div><b>ELEVATION:</b> 69.2 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Denmark</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>11.888,55.565</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921729">
+<name>Niemeyer_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Niemeyer_EMPD</strong></div>
+<div><b>ELEVATION:</b> 9.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>105.881,72.668</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921730">
+<name>Novenko_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Novenko_EMPD</strong></div>
+<div><b>ELEVATION:</b> 258.1 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>32.626,56.494</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921731">
+<name>Odgaard_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Odgaard_EMPD</strong></div>
+<div><b>ELEVATION:</b> 50.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Denmark</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>12.304,55.987</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921732">
+<name>Ortu_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Ortu_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2240.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>7.133,44.233</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921733">
+<name>Overballe_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Overballe_EMPD</strong></div>
+<div><b>ELEVATION:</b> 46.3 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Denmark</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>12.334,56.014</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921734">
+<name>Panajiotidis_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Panajiotidis_EMPD</strong></div>
+<div><b>ELEVATION:</b> 779.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Greece</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>23.491,40.433</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921735">
+<name>Panova_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Panova_EMPD</strong></div>
+<div><b>ELEVATION:</b> 310.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>60.19,56.54</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921736">
+<name>Pardoe_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Pardoe_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1350.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Norway</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>8.169,61.585</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921737">
+<name>Pedziszewska_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Pedziszewska_EMPD</strong></div>
+<div><b>ELEVATION:</b> 163.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>17.797,54.183</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921738">
+<name>Pidek_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Pidek_EMPD</strong></div>
+<div><b>ELEVATION:</b> 243.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>23.064,50.593</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921739">
+<name>Remazani_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Remazani_EMPD</strong></div>
+<div><b>ELEVATION:</b> 75.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Iran, Islamic Republic Of</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>51.526,36.611</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921740">
+<name>Roesch_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Roesch_EMPD</strong></div>
+<div><b>ELEVATION:</b> 790.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>8.245,48.502</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921741">
+<name>Ryabogina_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Ryabogina_EMPD</strong></div>
+<div><b>ELEVATION:</b> 59.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>68.993,57.934</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921742">
+<name>Sadori_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Sadori_EMPD</strong></div>
+<div><b>ELEVATION:</b> 600.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Italy</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>12.036,46.268</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921743">
+<name>Salonen_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Salonen_EMPD</strong></div>
+<div><b>ELEVATION:</b> 110.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>62.75,67.36</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921744">
+<name>Schofield_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Schofield_EMPD</strong></div>
+<div><b>ELEVATION:</b> 113.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Greenland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-45.409,61.158</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921745">
+<name>Seppa_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Seppa_EMPD</strong></div>
+<div><b>ELEVATION:</b> 316.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Finland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>24.08,68.43</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921746">
+<name>Severova_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Severova_EMPD</strong></div>
+<div><b>ELEVATION:</b> 190.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Russian Federation</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>36.75,55.683</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921747">
+<name>Shaw_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Shaw_EMPD</strong></div>
+<div><b>ELEVATION:</b> 285.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>United Kingdom</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>-5.028,57.254</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921748">
+<name>Shumilovskikh_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Shumilovskikh_EMPD</strong></div>
+<div><b>ELEVATION:</b> 376.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Turkey</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>37.216,41.036</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921749">
+<name>Stivrins_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Stivrins_EMPD</strong></div>
+<div><b>ELEVATION:</b> 96.2 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Latvia</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>27.133,56.75</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921750">
+<name>Stojakowits_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Stojakowits_EMPD</strong></div>
+<div><b>ELEVATION:</b> 850.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>10.475,47.72</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921751">
+<name>Svobodova_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Svobodova_EMPD</strong></div>
+<div><b>ELEVATION:</b> 1378.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Czech Republic</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>13.858,48.771</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921752">
+<name>Swieta_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Swieta_EMPD</strong></div>
+<div><b>ELEVATION:</b> 168.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>17.8,54.367</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921753">
+<name>Tantau_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Tantau_EMPD</strong></div>
+<div><b>ELEVATION:</b> 540.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Romania</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>24.652,45.717</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921754">
+<name>Theuerkauf_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Theuerkauf_EMPD</strong></div>
+<div><b>ELEVATION:</b> 42.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Germany</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>13.715,53.96</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921755">
+<name>Tinner_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Tinner_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2554.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Kyrgyzstan</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>73.55,39.983</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921756">
+<name>Tonkov_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Tonkov_EMPD</strong></div>
+<div><b>ELEVATION:</b> 2200.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Bulgaria</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>23.495,42.118</coordinates>
+</Point>
+</Placemark>
+<Placemark id="event2921757">
+<name>Zimny_EMPD</name>
+<Snippet maxLines="0"/>
+<description><![CDATA[<div style="font:normal 9pt sans-serif; margin:0; padding:0;"><div style="font-size:130%; font-weight:bold; margin-bottom:.3em;"><em>Event:</em> <strong>Zimny_EMPD</strong></div>
+<div><b>ELEVATION:</b> 202.0 <span class="unit">m</span></div>
+<div><b>LOCATION:</b> <span>Poland</span></div>
+</div>
+]]></description>
+<styleUrl>#eventStyle</styleUrl>
+<Point>
+<coordinates>17.718,54.257</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
