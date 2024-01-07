@@ -1,0 +1,5 @@
+https://www.neotomadb.org/data/db-snapshots
+https://epdweblog.org/epd_data/
+https://shs.hal.science/EPD/browse/latest-publications
+https://empd2.github.io/
+https://doi.pangaea.de/10.1594/PANGAEA.909130?format=html#download
