@@ -1,3 +1,3 @@
 # LGP_LGM_Taxons_PollenRecord
 
-https://github.com/cran/fxTWAPLS.git 
+❗ This is a read-only mirror of the CRAN R package repository. fxTWAPLS — An Improved Version of WA-PLS. Homepage: https://github.com/special-uor/fxTWAPLS/, https://special-uor.github.io/fxTWAPLS/, https://research.reading.ac.uk/palaeoclimate/ Report bugs for this package: https://github.com/special-uor/f ...
