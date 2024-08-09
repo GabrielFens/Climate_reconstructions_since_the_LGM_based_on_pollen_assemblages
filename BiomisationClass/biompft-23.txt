@@ -1,0 +1,16 @@
+RECN	BS	BSAA	BEC	BCTC	CTC1	TSAA	TSBS	TS	TS1	TS2	WTE	WTE1	WTE2	EC	AA	COGS	WAGS	H	SF	DF	GR	SFDF	AQ	AN
+CLDE	BS	BS				BS	BS											H						
+TAIG	BS	BS	BEC	BCTC	CTC1	BS	BS							BCTC				H						
+CLMX	BS	BS		BCTC	CTC1	TS1	TS1		TS1					BCTC				H						
+COCO	BS	BS	BEC	BCTC	CTC1	TS1	TS1		TS1					BCTC				H						
+TEDE	BS	BS		BCTC	CTC1	TS	TS	TS	TS1	TS2		WTE1		BCTC				H						
+COMX	BS	BS	BEC	BCTC	CTC1	TS	TS	TS	TS1	TS2				BCTC				H						
+WAMX						TS	TS	TS	TS1	TS2	WTE	WTE1		WTE				WTE						
+XERO											WTE		WTE2	WTE										
+TUND		AA				AA									AA			AA			AA			
+COST																COGS			COGS			COGS		
+WAST																	WAGS		WAGS			WAGS		
+CODE																				DF		DF		
+HODE																				DF		DF		
+AQUA																							AQ	
+ANTH																					AN			AN
