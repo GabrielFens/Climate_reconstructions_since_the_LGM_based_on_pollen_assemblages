@@ -1,0 +1,278 @@
+/* DATA DESCRIPTION:
+Citation:	Müller, Ulrich C (2014): Pollen profile FURAMOOS, Baden-Württemberg, Germany [dataset]. European Pollen Database (EPD), PANGAEA, https://doi.org/10.1594/PANGAEA.835950
+Related to:	Müller, Ulrich C; Pross, Jörg; Bibus, Erhard (2003): Vegetation response to rapid climate change in central europe during the past 140,000 yr based on evidence from the Füramoos pollen record. Quaternary Research, 59(2), 235-245, https://doi.org/10.1016/S0033-5894(03)00005-X
+Coverage:	LATITUDE: 47.983330 * LONGITUDE: 9.883330
+	MINIMUM DEPTH, sediment/rock: 0.100 m * MAXIMUM DEPTH, sediment/rock: 14.100 m
+Event(s):	FURAMOOS (Füramoos) * LATITUDE: 47.983330 * LONGITUDE: 9.883330 * ELEVATION: 662.0 m * LOCATION: Füramoos, Germany * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: Between two moraine ridges. Physiography: basin. Dune Dammed Lake
+Comment:	This dataset was archived on 2014-09-12 from the EPD database (http://www.europeanpollendatabase.net).
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	Abies [#] (Abi) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Acer [#] (Ace) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Alnus [#] (Aln) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Artemisia [#] (Art) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Betula [#] (Bet) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Buxus [#] (Bux) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Campanula [#] (Cam) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Carpinus [#] (Car) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Caryophyllaceae [#] (Cphae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Centaurea montana-type [#] (Cen.m-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Chenopodiaceae [#] (Cheae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Corylus [#] (Cor) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Cyperaceae [#] (Cypae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Drosera [#] (Dro) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ephedra distachya [#] (Eph.d) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ericaceae [#] (Eriae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Euphorbiaceae [#] (Eupae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Fagus [#] (Fag) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Filipendula [#] (Flp) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Fraxinus [#] (Frx) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Gentiana [#] (Gen) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Gentianaceae [#] (Genae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Gramineae [#] (Graae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Hedera [#] (Hed) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Helianthemum [#] (Hel) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ilex [#] (Ile) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Juniperus [#] (Jun) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Larix [#] (Lar) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Littorella uniflora [#] (Ltt.u) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Melampyrum [#] (Mel) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Menyanthes trifoliata [#] (Mey.t) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Myriophyllum alterniflorum [#] (Myo.a) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Myriophyllum spicatum [#] (Myo.s) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Myriophyllum verticillatum [#] (Myo.v) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Nymphaea [#] (Nym) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Onobrychis-type [#] (Onb-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Picea [#] (Pic) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Pinus [#] (Pin) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Plantago lanceolata [#] (Pla.l) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Plantago maritima-type [#] (Pla.m-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Polemonium [#] (Poe) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Polygonum aviculare [#] (Pol.i) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Polygonum bistorta [#] (Pol.b) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Populus [#] (Pop) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Potentilla-type [#] (Pti-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Quercus [#] (Que) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ranunculaceae [#] (Ranae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Rhinanthus [#] (Rhi) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Rosaceae [#] (Rosae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Rubiaceae [#] (Rubae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Salix [#] (Sal) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Sanguisorba officinalis [#] (San.o) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Saxifraga oppositifolia-type [#] (Sax.o-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Saxifragaceae [#] (Saxae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Scabiosa [#] (Sca) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Sparganium-type [#] (Spa-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Stachys-type [#] (Sta-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Succisa [#] (Suc) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Taxus [#] (Tax) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Thalictrum [#] (Tha) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Tilia [#] (Til) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Trifolium-type [#] (Tri-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ulmus [#] (Ulm) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Urtica [#] (Urt) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Valeriana officinalis [#] (Val.o) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Vicia-type [#] (Vic-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Viscum [#] (Vis) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Botrychium [#] (Bot) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Lycopodium annotinum [#] (Lyc.a) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Lycopodium clavatum [#] (Lyc.c) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Selaginella [#] (Sel) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Sphagnum [#] (Sph) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Botryococcus [#] (Bot) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Pediastrum [#] (Pdi) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Armeria maritima (type B) [#] (Arm.m.TB) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Pinus cembra [#] (Pin.c) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Varia [#] (Varia) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Armeria maritima (type A) [#] (Arm.m-TA) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Hippophae rhamnoides [#] (Hip.r) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Rumex-type [#] (Rum-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Saxifraga hirsuta-type [#] (Sxi.h-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Gentianella campestris-type [#] (Gen.c-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Valeriana dioica [#] (Val.d) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Bruckenthalia [#] (Brk) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Cichorioideae [#] (Cicoid) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Apiaceae [#] (Apiae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Fabaceae [#] (Fabae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Brassicaceae [#] (Braae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Ranunculus aquatilis-type [#] (Rau.a-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Cerealia [#] (Crl) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Plantago major/media-type [#] (Pla.m/m-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Cannabis/Humulus [#] (Can/Hum) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Asteraceae [#] (Astae) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Cryptogramma [#] (Cry) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Osmunda [#] (Osmu) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Lycopodium inundatum [#] (Lyc.in) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+	Diphasiastrum alpinum-type [#] (Dipt.a-T) * PI: Müller, Ulrich C (ulrich_c.mueller@yahoo.de) * METHOD/DEVICE: Counting, palynology
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	16393 data points
+*/
+Depth sed [m]	Abi [#]	Ace [#]	Aln [#]	Art [#]	Bet [#]	Bux [#]	Cam [#]	Car [#]	Cphae [#]	Cen.m-T [#]	Cheae [#]	Cor [#]	Cypae [#]	Dro [#]	Eph.d [#]	Eriae [#]	Eupae [#]	Fag [#]	Flp [#]	Frx [#]	Gen [#]	Genae [#]	Graae [#]	Hed [#]	Hel [#]	Ile [#]	Jun [#]	Lar [#]	Ltt.u [#]	Mel [#]	Mey.t [#]	Myo.a [#]	Myo.s [#]	Myo.v [#]	Nym [#]	Onb-T [#]	Pic [#]	Pin [#]	Pla.l [#]	Pla.m-T [#]	Poe [#]	Pol.i [#]	Pol.b [#]	Pop [#]	Pti-T [#]	Que [#]	Ranae [#]	Rhi [#]	Rosae [#]	Rubae [#]	Sal [#]	San.o [#]	Sax.o-T [#]	Saxae [#]	Sca [#]	Spa-T [#]	Sta-T [#]	Suc [#]	Tax [#]	Tha [#]	Til [#]	Tri-T [#]	Ulm [#]	Urt [#]	Val.o [#]	Vic-T [#]	Vis [#]	Bot [#]	Lyc.a [#]	Lyc.c [#]	Sel [#]	Sph [#]	Bot [#]	Pdi [#]	Arm.m.TB [#]	Pin.c [#]	Varia [#]	Arm.m-TA [#]	Hip.r [#]	Rum-T [#]	Sxi.h-T [#]	Gen.c-T [#]	Val.d [#]	Brk [#]	Cicoid [#]	Apiae [#]	Fabae [#]	Braae [#]	Rau.a-T [#]	Crl [#]	Pla.m/m-T [#]	Can/Hum [#]	Astae [#]	Cry [#]	Osmu [#]	Lyc.in [#]	Dipt.a-T [#]
+0.100	3	0	17	2	33	0	0	2	0	0	1	9	14	0	0	13	0	21	0	1	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	27	322	5	0	0	0	0	0	0	9	1	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	2	0	0	0	0	1	5	2	1	1	8	0	0	0	0	0	0	0
+0.200	4	2	81	4	83	0	1	18	0	0	0	93	6	0	0	7	0	198	0	3	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	20	71	4	0	0	1	0	0	0	53	1	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	1	2	0	0	0	0	0	2	0	0	0	4	0	0	2	0	0	4	0
+0.300	10	1	115	0	97	0	0	6	0	0	2	60	14	0	0	0	0	177	0	11	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	15	22	2	0	0	0	0	0	1	33	2	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	28	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	3	0	1	0	0	0	1	0
+0.400	9	2	155	7	235	0	0	10	0	0	1	96	35	0	0	2	0	289	2	16	0	0	56	0	0	0	1	0	0	0	0	0	0	0	0	0	10	47	7	1	0	0	0	2	0	68	2	0	0	1	6	0	0	0	0	0	0	0	2	1	3	0	4	9	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	2	0	0	0	0	0	6	0	0	0	11	0	1	3	0	0	0	0
+0.500	10	1	93	5	205	0	0	3	0	0	1	48	7	0	0	0	0	155	2	2	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	0	0	0	0	1	0	13	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	15	0	0	0	0	4	0	0	2	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0
+0.600	7	0	77	5	55	0	0	2	0	0	0	42	13	0	0	0	0	254	0	6	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	9	14	9	1	0	0	0	1	1	22	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	7	1	0	0	0	0	0	0	0	5	0	0	0	0	2	0	0	5	0	0	0	0	0	0	0	1	0	8	0	1	1	0	0	0	0
+0.800	3	0	106	3	75	0	0	1	0	0	0	55	7	0	0	0	0	255	0	9	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	3	1	0	0	0	0	1	22	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	0	0	0	12	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0
+0.900	5	0	112	3	77	0	0	5	0	0	0	76	20	0	0	0	0	390	0	18	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	9	13	2	0	0	0	0	0	0	31	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	9	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0	5	0	0	0	0	0	0	0
+1.000	1	0	56	1	44	0	0	0	0	0	1	41	12	0	0	1	0	220	1	8	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	8	13	1	0	0	0	0	0	1	11	0	0	0	0	3	0	0	0	0	0	0	0	2	0	1	0	8	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1.100	1	0	73	2	50	0	0	0	0	0	0	47	8	0	0	5	0	220	2	12	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	7	20	3	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	5	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1.200	6	1	111	0	43	0	0	0	0	0	0	93	13	0	0	5	0	455	0	10	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	9	27	1	0	0	0	0	1	1	28	0	0	1	0	1	0	0	0	0	0	0	0	0	0	5	0	10	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	1	0	1	0	1	0	0	0	0	0
+1.300	0	1	75	1	56	0	0	0	0	0	0	49	16	0	0	4	0	174	1	8	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	9	5	1	0	0	0	0	0	0	11	0	0	2	0	2	0	0	0	0	0	0	0	0	0	2	0	6	0	0	0	0	0	0	0	0	12	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0
+1.400	2	0	89	1	148	0	0	2	0	0	0	57	13	0	0	3	0	153	2	6	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	10	28	4	0	0	0	0	0	0	37	3	0	0	0	3	0	0	0	0	0	0	0	2	0	0	0	5	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0
+1.500	5	0	78	1	38	0	0	0	0	0	0	73	14	0	0	0	0	218	0	23	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	4	6	1	0	0	0	0	0	0	20	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	0	1	0	0	0	0	0	0	0	0	57	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+1.600	1	0	47	0	46	0	0	0	0	0	0	65	2	0	0	0	0	140	0	17	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	19	0	0	2	1	0	0	0	0	0	0	0	0	0	0	3	0	5	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+1.700	6	2	69	0	47	0	0	0	0	0	0	79	10	0	0	0	0	337	0	18	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	13	9	0	0	0	0	0	0	0	39	1	0	3	0	2	0	0	0	0	0	0	0	0	0	8	0	10	0	0	0	0	0	0	0	0	20	0	0	0	0	1	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+1.800	2	3	67	0	61	0	0	0	0	0	0	55	7	0	0	5	0	277	1	15	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0	0	7	4	0	0	0	0	0	0	0	74	0	0	1	0	0	0	0	0	0	0	0	0	0	0	9	0	2	0	0	0	0	0	0	0	0	11	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1.900	4	0	36	0	61	0	0	0	0	0	0	56	11	0	0	1	0	89	0	14	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	3	12	0	0	0	0	0	0	0	118	0	0	0	0	2	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+2.000	0	0	31	1	43	0	2	0	0	0	1	37	8	0	0	6	0	48	0	12	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	7	23	2	0	0	0	0	0	0	55	3	0	2	2	0	0	0	0	0	0	0	0	0	1	3	0	3	0	0	0	0	0	0	0	0	8	0	0	0	0	4	0	0	1	0	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	0
+2.100	2	1	88	1	259	0	0	0	0	0	0	116	12	0	0	6	0	43	1	27	0	0	32	0	1	0	0	0	0	1	0	0	0	0	0	0	9	20	0	0	0	0	0	0	0	139	0	0	4	3	1	0	0	0	0	0	0	0	0	0	5	0	19	0	0	0	0	0	0	0	0	13	0	0	0	0	5	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0
+2.200	1	0	59	1	209	0	0	0	0	0	0	83	9	0	0	7	1	17	0	21	0	0	43	2	0	0	0	0	0	0	0	0	0	0	0	0	15	26	0	0	0	0	0	0	0	97	1	0	4	1	0	0	0	0	0	0	0	0	0	0	9	0	24	0	0	0	0	0	0	0	0	8	0	0	0	0	3	0	0	1	0	0	0	0	0	2	0	1	0	0	0	0	1	0	0	0	0
+2.300	0	0	9	0	112	0	0	0	0	0	0	50	22	0	0	7	0	2	1	16	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	2	12	0	0	0	0	0	0	0	76	5	0	6	8	0	0	0	0	0	0	0	0	0	0	12	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0
+2.400	1	0	13	2	111	0	1	0	0	0	0	46	11	1	0	1	0	4	2	19	0	0	29	0	0	0	0	0	0	0	1	0	0	0	0	0	3	17	0	0	0	0	0	0	0	95	2	0	6	3	0	0	0	0	0	0	0	0	0	0	2	0	28	0	0	0	0	0	0	0	0	12	0	0	0	0	3	0	0	2	0	0	0	0	0	5	0	1	0	0	0	0	0	0	0	0	0
+2.500	0	1	33	1	148	0	1	0	1	0	0	82	15	0	0	8	0	2	3	30	0	0	37	0	1	0	0	0	0	0	0	0	0	0	0	0	10	24	0	0	0	0	0	0	0	111	4	0	14	3	0	0	0	0	0	0	0	0	0	0	9	0	39	0	1	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	1	0	0	0	0	0	0	0	0	0
+2.600	1	2	8	2	77	0	0	0	0	0	0	101	33	0	0	0	0	1	2	8	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	4	25	0	0	0	0	0	0	2	73	2	0	5	0	0	1	0	0	0	0	0	0	0	0	7	0	11	0	1	0	0	0	0	0	0	38	0	0	0	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+2.650	1	1	5	1	91	0	1	0	1	0	0	168	12	0	0	0	0	1	2	5	0	0	37	1	0	0	0	0	0	0	0	1	0	0	0	0	4	34	0	0	0	0	0	0	4	66	1	0	13	1	0	0	0	0	0	0	0	0	0	1	5	0	29	0	0	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	12	0	1	0	0	0	0	0	0	0	0	0
+2.700	0	0	0	3	47	0	0	0	0	0	0	57	264	0	0	0	0	0	4	5	0	0	203	0	0	0	0	0	0	0	0	0	0	0	0	0	0	119	0	0	0	0	0	0	0	25	5	0	1	4	2	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	5	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+2.750	0	0	2	5	212	0	0	0	0	0	0	37	127	0	0	0	0	0	9	0	0	0	41	0	0	0	0	0	0	0	1	2	0	0	0	0	0	312	0	0	0	0	0	0	9	1	8	0	27	0	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	3	0	0	1	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0
+2.800	0	0	0	6	24	0	0	0	0	0	0	2	282	0	0	0	0	0	1	1	0	0	75	0	0	0	9	0	0	0	0	0	0	0	0	0	0	209	0	0	0	0	0	0	0	2	2	0	1	6	10	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0
+2.850	0	0	0	6	10	0	0	0	1	0	0	1	132	0	0	0	0	0	1	0	0	0	40	0	0	0	6	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	1	0	0	5	8	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	1	0	5	0	0	0	0	0	0	0	0	0
+2.900	0	0	0	2	10	0	0	0	2	0	3	0	345	0	0	0	0	0	1	0	0	0	88	0	0	0	31	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	1	0	0	2	0	0	5	14	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	2	3	0	0	0	0	3	2	0	17	0	0	0	0	0	0	0	0	0
+2.950	0	0	0	5	16	0	0	0	0	0	0	0	158	0	0	0	0	0	0	0	0	0	65	0	0	0	15	0	0	0	0	1	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	6	14	0	0	0	0	1	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	5	0	0	0	0	0	1	1	0	21	0	0	0	0	2	0	0	0	0
+3.080	0	0	0	3	46	0	0	0	1	0	0	0	173	0	0	0	0	0	1	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	208	0	0	0	0	0	2	0	0	1	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0
+3.100	0	0	0	1	17	0	0	0	0	0	0	0	244	0	0	0	0	0	1	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	246	0	0	0	0	0	2	0	0	2	0	3	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+3.120	0	0	0	3	52	0	0	0	0	0	0	0	147	0	0	0	0	0	0	0	0	0	51	0	0	0	6	0	0	0	0	0	0	0	0	0	0	230	0	0	0	0	0	3	0	0	3	0	0	2	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3.150	0	0	0	2	40	0	0	0	0	0	1	0	410	0	0	0	0	0	1	0	0	0	78	0	0	0	29	0	0	0	0	0	0	0	0	0	0	134	0	0	0	1	0	12	0	0	1	0	1	4	15	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	1	2	0	9	0	0	0	0	0	0	0	0	0
+3.175	0	0	0	10	33	0	0	0	1	0	0	0	719	0	0	0	0	0	0	0	0	0	86	0	0	0	21	0	0	0	0	0	0	0	0	0	0	129	0	0	0	1	0	3	0	0	2	0	1	3	5	0	0	0	0	0	0	0	0	6	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	0	23	0	0	0	0	2	0	0	0	0
+3.200	0	0	0	7	24	0	0	0	0	0	0	0	252	0	0	0	0	0	0	0	0	0	120	0	0	0	34	0	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	7	0	0	4	0	4	9	14	0	0	0	0	0	0	0	0	2	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	5	0	11	0	0	0	0	1	0	0	0	0
+3.230	0	0	0	18	46	0	0	0	0	0	0	0	239	0	0	0	0	0	0	0	0	0	73	0	1	0	46	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	4	0	2	3	15	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	2	0	0	0	0	0	6	0	8	0	0	0	0	3	0	0	0	0
+3.260	0	0	0	3	6	0	1	0	2	0	1	0	429	0	0	0	0	0	0	0	0	0	62	0	0	0	131	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	2	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	11	0	0	0	0	2	0	0	0	0
+3.310	0	0	0	4	3	0	0	0	0	0	0	0	150	0	2	0	0	0	0	0	0	0	60	0	0	0	85	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	2	0	4	1	14	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	13	0	0	0	0	0	0	2	0	11	0	0	0	0	0	0	0	0	0
+3.360	0	0	0	19	4	0	0	0	4	0	4	0	395	0	0	0	0	0	0	0	0	0	55	0	7	0	4	0	0	0	0	0	0	3	0	0	0	11	0	0	0	0	0	0	0	0	6	0	6	1	17	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	2	5	0	0	3	0	1	2	0	0	0	0	1	0	0	23	1	0	0	0	2	0	0	0	0
+3.400	0	0	0	12	5	0	1	0	2	0	0	0	365	0	0	0	0	0	0	0	0	0	45	0	3	0	2	0	0	0	0	0	0	0	0	0	0	6	0	1	0	0	0	0	0	0	8	0	5	0	5	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	5	12	0	0	1	0	0	0	0	0	0	0	0	0	0	44	6	0	0	0	1	0	0	0	0
+3.440	0	0	0	15	6	0	0	0	5	0	0	0	1051	0	0	0	0	0	1	0	0	0	72	0	7	0	2	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	6	0	5	1	1	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	3	0	0	0	0	0	0	0	3	3	0	48	0	0	0	0	1	0	0	0	0
+3.500	0	0	0	11	2	0	0	0	6	0	4	0	879	0	0	0	0	0	1	0	0	0	95	0	5	0	7	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	5	0	5	1	7	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	4	1	0	39	1	0	0	0	1	0	0	0	0
+3.550	0	0	0	10	0	0	0	0	4	0	4	0	697	0	1	0	0	0	0	0	0	0	99	0	1	0	6	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	4	0	7	0	2	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	4	0	0	47	0	0	0	0	1	0	0	0	0
+3.600	0	0	0	16	7	0	0	0	4	0	3	0	912	0	0	0	0	0	0	0	0	0	92	0	4	0	1	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	4	0	4	3	6	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	4	0	0	71	0	0	0	0	3	0	0	0	0
+4.430	0	0	2	18	63	0	0	0	11	0	2	2	290	0	0	0	0	0	10	0	0	0	159	0	0	0	2	0	0	0	0	0	0	0	0	0	18	48	0	2	0	0	0	0	0	0	13	0	4	1	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	5	0	77	313	0	0	4	0	0	7	0	0	0	0	5	4	0	17	147	0	0	0	6	0	0	0	0
+4.465	0	0	0	14	72	0	1	0	7	0	1	2	243	0	0	0	0	0	12	0	0	0	173	0	3	0	1	0	0	0	0	0	0	0	0	0	14	44	0	2	0	0	0	0	2	0	10	0	5	2	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	3	0	0	2	0	71	220	0	0	0	0	0	2	0	0	0	0	8	5	0	18	194	0	0	0	1	0	0	0	0
+4.500	0	0	3	21	99	0	0	0	1	0	2	1	531	0	0	0	0	0	5	0	0	0	290	0	3	0	4	0	0	0	0	0	2	0	0	0	20	45	0	4	0	0	0	0	3	0	12	0	7	3	2	0	0	0	0	0	0	0	0	25	1	0	0	0	0	0	0	3	0	0	2	4	56	115	0	0	7	0	0	21	0	0	0	0	4	6	0	24	244	0	0	0	2	0	0	0	0
+4.610	0	0	1	21	31	0	1	0	15	0	5	0	387	0	0	0	0	0	4	0	0	0	182	0	2	0	1	0	0	0	0	0	0	0	0	0	10	33	0	0	0	0	0	0	1	0	23	0	7	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	2	1	55	235	1	0	8	0	0	7	0	0	0	0	6	0	0	24	104	0	0	0	2	0	0	0	0
+4.700	0	0	0	13	15	0	0	0	11	0	3	2	357	0	0	0	0	0	1	0	1	0	243	0	4	0	0	1	0	0	0	0	0	0	0	0	2	20	0	3	1	0	0	0	1	0	6	0	5	2	1	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	2	0	18	60	0	3	4	0	0	13	0	0	0	0	4	4	0	30	66	0	0	0	3	0	0	0	0
+4.775	0	0	0	9	45	0	3	0	21	0	1	3	391	0	0	1	0	0	5	0	0	0	170	0	3	0	1	0	0	0	1	0	0	0	0	0	10	31	0	1	0	0	1	0	3	0	14	0	4	0	0	0	0	1	0	0	0	0	0	21	0	0	0	0	0	0	0	1	0	0	3	1	55	228	0	0	4	0	0	1	0	0	0	0	6	1	0	22	127	0	0	0	3	0	0	0	0
+4.820	0	0	2	13	82	0	0	0	6	0	0	0	307	0	0	0	0	0	10	0	0	0	145	0	3	0	2	0	0	0	0	2	0	0	0	0	9	69	0	2	0	0	1	0	1	0	13	0	9	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	1	0	0	3	1	113	393	0	0	6	0	0	6	0	0	0	0	4	6	0	15	226	0	0	0	0	0	0	0	0
+4.865	0	0	0	22	44	0	1	0	8	0	1	0	431	0	0	0	0	0	7	0	0	0	213	0	5	0	3	0	0	0	0	0	0	0	0	0	13	45	0	8	0	0	1	0	2	0	8	0	4	5	0	0	0	2	0	0	0	0	0	22	0	0	0	0	0	0	0	1	0	0	3	1	59	394	0	0	0	0	0	2	0	0	0	0	4	3	0	16	135	0	0	0	2	0	0	0	0
+4.930	0	0	0	18	27	0	0	0	10	0	2	0	342	0	0	0	0	0	0	0	0	0	188	0	0	0	0	0	0	0	1	0	0	0	0	0	6	20	0	1	0	0	0	0	2	0	11	0	2	1	2	0	0	1	0	0	0	0	0	37	0	0	0	0	0	0	0	1	0	0	1	0	30	81	0	0	0	0	0	0	0	0	0	0	4	1	0	22	85	0	0	0	1	0	0	0	0
+5.000	0	0	0	5	16	0	0	0	8	0	4	0	253	0	0	0	0	0	3	0	1	0	192	0	3	0	0	0	0	0	0	0	0	0	0	0	3	15	0	1	0	0	1	0	1	0	7	0	3	1	1	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	1	0	20	47	0	0	7	0	0	27	0	0	0	0	0	9	0	21	50	0	0	0	2	0	0	0	0
+5.150	0	0	1	10	30	0	0	0	14	0	3	0	452	0	0	0	0	0	3	0	0	0	201	0	2	0	0	0	0	0	0	0	0	0	0	0	3	21	0	1	0	0	0	0	0	0	5	0	2	2	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	1	0	0	2	0	35	116	0	0	6	0	0	13	0	0	0	0	5	3	0	34	107	0	0	0	1	0	0	0	0
+5.300	0	0	0	9	43	0	1	0	3	0	4	1	417	0	0	0	0	0	7	0	0	0	233	0	2	0	3	1	0	0	1	0	0	0	0	0	2	28	0	0	0	0	0	0	0	0	9	0	1	3	1	0	0	1	0	0	0	0	0	19	0	0	0	0	0	0	0	3	0	0	1	0	32	229	0	4	7	0	0	7	0	2	0	0	4	2	0	15	101	0	0	0	4	0	0	0	0
+5.500	0	0	0	9	64	0	0	0	5	0	0	1	308	0	0	0	0	0	12	0	0	3	213	0	1	0	10	1	0	0	0	0	2	0	0	0	4	27	0	2	0	0	0	0	0	0	5	0	5	3	2	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	2	0	0	2	0	61	494	0	1	4	0	0	3	0	0	0	0	4	0	0	11	183	0	0	0	2	0	0	0	0
+5.600	0	0	0	27	62	0	0	0	5	0	6	2	179	0	0	0	0	0	16	0	0	2	107	0	1	0	6	1	0	0	0	0	7	0	0	0	3	16	0	2	0	0	1	0	0	0	12	0	4	2	2	0	0	1	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	1	0	124	1114	0	0	5	0	2	1	0	0	0	0	2	3	0	9	427	0	0	0	0	0	0	0	0
+5.700	0	0	1	8	111	0	0	0	2	0	0	1	174	0	0	0	0	0	14	0	0	1	129	0	2	0	13	2	0	0	0	0	9	0	0	0	7	25	0	5	0	0	1	0	2	0	9	1	2	1	4	0	0	0	1	0	0	0	0	17	0	0	0	0	0	0	0	1	0	0	2	0	123	807	0	0	4	0	1	1	0	0	0	0	1	9	0	7	379	0	0	0	2	0	0	0	0
+5.800	0	0	0	24	70	0	0	0	4	0	2	3	154	0	0	0	0	0	6	0	0	0	147	0	3	0	4	0	0	0	0	1	24	2	0	0	2	19	0	7	0	0	0	0	1	0	19	0	2	2	1	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	1	0	123	521	0	0	6	0	1	4	0	0	0	0	1	6	0	15	527	0	0	0	2	0	0	0	0
+5.900	0	0	1	20	58	0	0	0	5	0	0	4	141	0	0	0	0	0	6	0	0	0	155	0	5	0	4	0	0	0	0	0	7	0	0	0	1	10	3	0	0	0	0	0	1	0	9	0	3	3	7	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	2	0	0	0	0	110	1509	0	0	1	0	0	3	0	0	0	0	5	4	0	30	385	0	0	0	1	0	0	0	0
+6.100	1	0	1	23	49	0	0	0	3	0	1	1	159	0	0	0	0	0	6	0	0	0	190	0	6	0	4	0	0	0	0	1	7	2	0	0	0	11	0	6	0	0	2	0	3	0	6	0	2	2	4	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	2	0	0	0	0	97	996	0	0	6	0	1	2	0	0	0	0	3	3	0	11	332	0	0	0	2	0	0	0	0
+6.200	0	0	0	19	36	0	0	0	5	0	5	0	177	0	0	0	0	0	4	0	0	0	168	0	6	0	2	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	1	0	0	0	14	0	1	4	3	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	1	0	0	0	0	70	904	0	0	3	0	0	3	0	0	0	0	1	2	0	18	252	0	1	0	4	0	0	0	0
+6.300	0	0	0	56	32	0	0	0	1	0	8	3	112	0	0	0	0	0	4	0	0	0	190	0	15	0	2	0	0	0	0	0	1	0	0	0	2	17	0	3	0	0	1	0	0	0	12	0	1	4	11	0	0	1	1	0	0	0	0	26	0	0	0	0	1	0	0	2	0	0	0	0	34	24	0	0	5	0	0	4	0	0	0	0	2	7	0	8	950	0	0	0	2	0	0	0	0
+6.500	1	0	3	76	29	0	0	0	6	0	14	6	162	0	0	0	0	0	1	0	0	0	190	0	15	0	2	0	0	0	0	0	0	0	0	0	3	25	0	2	0	0	0	0	1	2	25	0	1	7	9	0	0	1	0	0	0	0	0	50	0	0	0	0	0	0	0	3	0	0	0	6	22	92	0	0	6	0	0	7	0	0	0	0	6	4	0	19	1471	0	1	0	2	0	0	0	0
+6.750	0	0	3	35	19	0	0	2	5	0	8	9	148	0	0	0	0	0	1	0	0	0	154	0	11	0	0	0	0	0	0	0	0	0	0	0	10	32	0	0	0	0	0	0	0	0	20	0	3	5	4	0	0	0	0	0	0	0	0	30	0	0	0	0	1	0	0	4	0	0	0	3	14	202	0	0	2	0	0	7	0	0	0	0	4	2	0	15	945	0	0	0	5	0	0	0	1
+7.000	0	0	3	40	16	0	0	1	5	0	9	9	139	0	0	0	0	0	0	0	0	0	168	0	8	0	0	0	0	0	0	0	0	0	0	0	14	43	0	2	0	0	0	0	0	2	18	0	1	4	5	0	0	1	0	0	0	0	0	33	0	0	2	0	0	0	0	3	0	0	0	6	16	321	0	0	3	0	0	8	0	0	0	0	4	2	0	13	924	0	0	0	2	0	0	0	0
+7.250	1	0	2	47	20	0	1	0	8	0	6	10	137	0	1	0	0	0	0	0	0	0	148	0	4	0	1	0	0	0	1	0	0	0	0	0	13	32	0	0	0	0	0	0	0	1	23	0	3	8	3	0	0	1	0	0	0	0	0	39	0	0	0	0	0	0	0	1	0	0	0	3	16	302	0	0	4	0	0	9	0	0	0	0	10	4	0	17	995	0	0	0	4	0	0	0	0
+7.500	0	0	2	25	27	0	0	1	1	0	5	6	136	0	0	0	0	0	3	0	0	0	174	0	11	0	0	0	0	0	0	0	0	0	0	0	12	34	0	2	0	0	0	0	0	1	17	0	5	1	1	0	0	2	0	0	0	0	0	22	0	0	0	0	0	0	0	1	0	0	1	7	67	335	0	0	5	0	0	4	0	0	0	0	7	2	0	7	343	0	0	0	4	0	0	0	0
+7.640	1	0	11	30	39	0	0	1	4	0	5	25	94	0	0	1	0	0	1	1	0	0	107	0	4	0	2	0	0	0	0	0	0	1	0	0	37	66	0	2	0	0	0	0	1	0	14	0	3	1	2	0	0	1	0	0	0	0	0	16	0	0	0	0	0	0	0	3	0	0	3	19	10	349	1	0	4	0	0	6	0	0	0	0	5	0	0	13	269	0	0	0	4	0	1	0	0
+7.750	1	0	6	28	63	0	0	0	1	0	7	10	93	0	0	0	0	0	5	0	0	0	78	0	2	0	1	1	0	0	0	5	1	0	0	0	32	85	0	0	0	0	0	0	0	0	15	0	3	0	2	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	1	0	0	1	18	15	63	0	0	4	0	0	3	0	0	0	0	3	5	0	29	83	0	0	0	3	0	0	0	1
+7.810	0	0	3	18	39	0	0	1	6	0	3	5	75	0	0	1	0	0	0	0	0	0	67	0	2	0	0	1	0	0	0	5	0	0	0	0	62	147	0	0	0	0	0	0	0	1	13	0	4	2	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	1	0	1	1	14	6	119	0	0	0	0	1	1	0	0	0	0	2	2	0	28	87	0	0	0	1	0	2	0	1
+7.860	0	0	9	11	29	0	0	1	4	0	2	9	84	0	0	0	0	0	1	0	0	0	86	0	3	0	0	1	0	0	0	6	0	0	0	0	85	143	0	2	0	0	0	0	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	1	0	0	5	16	14	24	1	0	3	1	0	4	0	0	0	0	3	0	0	9	117	0	0	0	1	0	1	0	0
+7.910	0	0	5	25	26	0	0	2	4	0	6	4	97	0	0	0	0	0	4	0	0	0	47	0	4	0	0	1	0	0	0	3	0	0	0	0	87	161	0	0	0	0	0	0	0	0	14	0	0	1	1	0	0	0	0	0	0	0	0	25	2	0	2	0	0	0	0	0	0	0	2	10	15	85	0	0	3	1	0	1	0	0	0	0	7	3	0	10	153	0	0	0	1	0	1	0	0
+8.000	0	0	7	25	47	0	0	0	12	0	3	14	97	0	0	0	0	0	0	0	0	0	105	0	0	0	2	0	1	0	0	3	2	0	0	0	48	119	0	0	0	0	0	0	0	2	10	0	2	5	2	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	5	1	2	8	14	15	25	0	0	2	0	0	5	0	0	0	0	8	0	0	20	177	0	0	0	2	0	0	0	0
+8.150	1	0	1	30	40	0	0	1	2	0	0	11	117	0	0	0	0	0	0	0	0	0	107	0	1	0	1	0	0	0	0	2	0	0	0	0	38	97	0	3	0	0	0	0	0	1	14	0	0	1	1	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	2	1	0	2	14	15	121	1	0	4	0	0	5	0	0	0	0	3	0	0	23	162	0	0	0	4	0	0	0	0
+8.200	0	0	3	38	39	0	0	1	11	0	11	15	114	0	0	1	0	0	2	0	0	0	95	0	1	0	0	0	0	0	0	1	1	0	0	0	23	89	0	0	0	0	0	0	0	0	9	0	0	1	1	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	1	0	3	6	23	19	84	0	0	1	0	0	2	0	0	0	0	1	5	0	32	245	0	0	0	3	0	0	0	0
+8.230	0	0	6	63	51	0	1	2	6	0	8	19	94	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	0	0	2	0	0	0	0	29	76	0	2	0	0	0	0	1	0	9	0	3	1	3	0	0	1	0	0	0	0	0	21	0	0	0	0	0	0	0	5	0	0	3	26	5	10	1	0	3	2	0	3	0	0	0	0	7	1	0	30	230	0	0	0	1	0	0	0	1
+8.250	0	0	0	40	54	0	0	5	1	0	4	15	104	0	1	0	0	0	3	1	0	0	91	0	1	0	0	0	0	0	0	3	0	0	0	0	13	39	0	0	0	0	0	0	0	1	17	0	7	5	2	0	0	0	0	0	0	0	0	22	0	0	1	0	0	0	0	0	0	1	1	26	6	50	0	0	7	0	0	9	0	0	0	0	4	3	0	38	104	0	0	0	3	0	0	0	0
+8.270	0	0	6	54	49	0	1	0	7	0	9	16	92	0	0	0	0	0	4	0	0	0	117	0	1	0	0	0	0	0	1	2	0	0	0	0	6	57	0	0	0	0	0	0	0	0	9	0	0	2	1	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	3	0	0	3	12	5	13	0	0	3	0	0	5	0	0	0	0	6	0	0	31	270	0	0	0	1	0	0	0	0
+8.310	0	0	4	71	34	0	0	1	9	0	8	10	104	0	0	0	0	0	4	0	0	0	69	0	3	0	0	0	0	0	0	2	0	0	0	0	25	119	0	0	0	0	0	0	0	0	12	0	0	3	1	0	0	0	0	0	0	0	0	24	0	0	0	0	0	1	0	1	0	0	6	8	17	21	0	0	0	0	0	2	0	0	0	0	5	2	0	12	133	0	0	0	3	0	0	0	0
+8.390	2	0	5	7	59	0	0	0	1	0	1	5	85	0	0	1	0	0	2	0	0	1	84	0	1	0	1	1	0	0	0	3	0	0	0	0	44	149	0	1	0	0	0	0	0	1	4	0	3	3	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	1	0	0	3	11	18	35	0	0	5	0	0	2	0	0	0	0	2	0	0	8	32	0	0	0	1	0	0	0	0
+8.500	2	0	6	7	90	0	0	5	1	0	0	8	63	0	0	0	0	0	2	0	0	0	64	0	1	0	1	2	0	0	0	5	0	0	0	0	54	205	0	0	0	0	1	0	0	5	11	0	1	2	1	0	0	0	0	0	0	0	0	22	0	0	1	0	0	0	0	1	1	0	1	7	16	87	0	0	3	0	0	4	0	0	0	0	3	1	0	3	57	0	0	0	2	0	2	0	0
+8.620	0	0	12	6	72	0	0	3	0	0	1	7	114	0	0	0	0	1	1	0	0	0	64	0	1	0	3	2	0	0	1	9	0	0	0	0	52	165	0	0	0	0	0	0	1	2	8	0	1	0	0	0	0	2	0	0	0	0	0	15	0	0	2	0	0	0	0	0	1	0	5	13	16	122	0	0	1	0	0	1	0	0	0	0	3	1	0	8	25	0	0	0	0	1	0	0	1
+8.750	1	0	4	6	57	0	0	3	1	0	2	7	121	0	0	0	0	0	1	0	0	0	66	0	0	0	0	0	0	0	0	10	0	1	0	0	57	140	0	1	0	0	0	0	0	5	10	0	0	3	2	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	1	2	0	5	4	22	50	0	0	2	0	0	3	0	0	0	0	3	4	0	6	28	0	0	0	5	0	0	0	0
+8.860	1	0	7	10	55	0	0	1	3	0	1	7	150	0	0	0	0	0	5	0	0	0	74	0	1	0	0	1	0	0	0	5	0	0	0	0	75	166	0	1	0	0	0	0	0	1	7	0	0	1	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	1	1	0	5	18	17	143	0	0	1	0	0	1	0	0	1	0	1	3	0	10	35	0	0	0	1	0	2	0	2
+9.000	0	0	4	9	40	0	0	1	2	0	0	6	136	0	0	0	0	0	2	0	0	0	72	0	0	0	0	2	0	0	0	9	2	0	0	0	71	141	0	1	0	0	0	0	0	2	14	0	2	2	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	1	11	18	139	0	2	1	0	0	3	0	0	0	0	0	0	0	7	22	0	0	0	1	0	0	0	0
+9.150	0	0	0	2	31	0	1	0	1	0	0	4	138	0	0	0	0	0	1	0	0	0	57	0	0	0	2	1	0	0	0	3	0	0	0	0	77	139	0	0	0	0	1	0	0	4	10	0	5	0	0	0	0	0	0	0	0	0	0	12	0	0	1	0	0	0	0	0	1	0	7	4	24	175	0	2	3	0	0	6	0	0	0	0	3	0	0	6	14	0	0	0	2	0	1	0	0
+9.300	0	0	7	6	34	0	0	1	2	0	0	11	136	0	0	0	0	0	5	0	0	0	74	0	0	0	0	4	0	0	0	3	0	0	0	0	94	190	0	0	0	0	0	0	0	5	11	0	2	2	0	0	0	0	0	0	0	0	0	10	0	0	1	0	0	0	0	0	1	0	2	5	29	127	0	5	1	0	1	2	0	0	0	0	6	3	0	7	10	0	0	0	2	0	1	0	0
+9.400	0	0	11	7	43	0	0	2	5	0	1	10	175	0	0	0	0	0	0	0	0	0	69	0	0	0	0	4	0	0	0	10	2	0	0	0	83	169	0	0	0	0	0	0	0	4	7	0	0	2	1	0	0	0	0	0	0	0	0	21	0	0	0	0	1	0	0	2	1	0	2	11	16	49	0	5	3	0	0	4	0	0	0	0	3	3	0	11	25	0	0	0	3	0	0	0	0
+9.500	0	0	10	5	63	0	0	6	1	0	3	15	199	0	0	0	0	0	6	0	0	0	113	0	1	0	0	7	0	0	2	14	4	0	0	0	174	293	0	1	0	0	2	0	0	10	9	0	0	0	1	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	6	17	115	350	0	6	3	0	0	2	0	0	0	1	2	1	0	4	64	0	0	0	1	0	4	0	0
+9.600	0	0	4	7	34	0	0	0	1	0	0	5	129	0	0	0	0	0	2	0	0	0	57	0	0	0	1	5	0	0	0	9	0	0	0	0	82	150	0	0	0	0	0	0	0	1	4	0	1	1	0	0	0	0	0	0	0	0	0	7	0	0	1	0	0	0	0	0	0	0	0	9	31	79	0	7	1	0	0	3	0	0	0	0	0	1	0	2	23	0	0	0	1	0	0	0	0
+9.700	0	0	4	6	22	0	0	3	2	0	0	1	227	0	0	1	0	0	0	0	0	0	68	0	0	0	2	9	0	0	0	7	0	0	0	0	83	138	0	0	0	0	0	0	0	4	5	0	0	2	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	1	0	0	1	11	99	281	0	18	1	0	0	2	0	0	0	0	0	1	0	4	27	0	0	0	1	0	1	0	0
+9.800	1	0	3	12	32	0	0	1	3	0	0	6	459	0	0	0	0	0	1	0	0	0	53	0	2	0	0	7	0	0	6	7	0	2	0	0	84	129	0	0	0	0	1	0	1	0	5	0	1	3	1	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	1	1	1	0	5	47	377	0	3	3	0	0	0	0	1	0	1	3	1	0	11	31	0	0	0	3	0	1	0	0
+10.000	2	0	4	13	32	0	0	3	1	0	1	13	167	0	0	0	0	1	1	0	0	0	63	0	0	0	0	5	0	0	0	10	2	2	1	0	140	169	0	1	0	0	1	0	0	4	9	0	5	3	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	1	0	0	4	6	64	621	0	4	4	0	0	2	0	0	0	0	1	2	0	8	34	0	0	0	3	0	1	0	0
+10.200	1	0	5	14	50	0	0	5	0	0	0	4	98	0	0	1	0	0	4	0	0	0	57	0	1	0	0	3	0	0	0	3	3	0	0	0	153	229	0	0	0	0	0	0	0	3	2	0	1	3	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	29	120	740	0	2	3	0	0	1	0	0	0	0	1	3	0	4	50	0	0	0	5	0	1	0	0
+10.400	0	0	7	18	42	0	0	2	1	0	0	10	79	0	0	1	0	0	4	0	0	0	67	0	1	0	1	4	0	0	0	5	5	1	2	0	121	211	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	2	24	103	480	0	2	2	0	0	0	0	0	0	3	4	3	0	2	36	0	0	0	3	0	0	0	0
+10.600	0	0	6	8	58	0	0	0	3	0	1	7	84	0	0	3	0	0	4	0	0	0	48	0	1	0	0	2	0	0	0	23	0	0	2	0	115	239	0	1	0	0	1	0	0	3	3	0	0	5	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	2	0	0	0	15	176	491	0	2	5	0	0	3	0	0	0	0	0	0	0	5	58	0	0	0	1	0	1	0	0
+10.700	0	0	4	4	43	0	0	1	0	0	0	6	85	0	0	1	0	0	3	0	0	0	38	0	0	0	0	2	0	0	0	12	0	6	0	0	132	209	0	0	0	0	0	0	0	2	0	0	2	1	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	1	0	0	1	12	162	676	0	0	1	0	0	0	0	0	0	0	2	2	0	1	59	0	0	0	0	0	0	0	0
+10.760	0	0	4	2	70	0	0	3	0	0	0	8	17	0	0	0	0	1	2	0	0	0	15	0	0	0	0	0	0	0	0	4	0	0	0	0	270	291	0	0	0	0	0	0	0	5	2	0	1	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	1	0	0	18	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	2	0	0	0	0
+10.800	1	0	10	0	62	0	0	18	0	0	0	17	5	0	0	0	0	1	1	2	0	0	9	0	0	0	0	4	0	0	0	22	0	0	0	0	257	219	0	0	0	0	0	0	0	18	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	112	3	0	2	1	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0
+10.870	1	0	10	1	59	0	0	12	0	0	0	34	2	0	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	57	0	0	0	0	235	213	0	0	0	0	0	0	0	50	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	102	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+10.900	0	0	1	1	80	0	0	0	0	0	0	33	6	0	0	0	0	0	0	2	0	0	8	0	0	0	0	0	0	0	0	87	0	0	0	0	134	248	0	0	0	0	0	0	0	59	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	0	0	0	0	0	105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10.930	0	0	8	0	99	0	0	5	0	0	0	41	8	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	0	0	0	161	0	0	1	0	119	246	0	0	0	0	0	0	0	70	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+10.955	0	0	8	2	95	0	0	5	1	0	0	6	65	0	0	0	0	1	1	0	0	0	20	0	0	0	1	1	0	0	0	12	0	1	0	0	72	281	0	0	0	0	0	0	0	7	2	0	1	2	0	0	0	0	0	0	0	0	0	5	0	0	2	0	0	0	0	0	0	0	1	4	25	99	0	0	1	0	0	1	0	0	0	0	0	0	0	1	14	0	0	0	0	0	0	0	0
+10.980	0	0	12	10	197	0	0	1	0	0	0	5	20	0	0	0	0	0	4	0	0	0	34	0	0	0	0	0	0	0	0	4	0	0	0	0	16	328	0	0	0	0	0	0	0	5	6	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	52	0	0	2	2	0	0	0	0	0	0	0	0	2	0	0	22	0	0	0	2	0	0	0	0
+11.025	0	0	5	41	204	0	1	0	0	0	0	0	55	0	0	1	0	0	2	0	0	0	69	0	2	0	4	0	0	0	0	3	0	0	0	0	17	132	0	4	1	0	0	0	0	0	19	0	2	4	1	0	0	0	0	0	1	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	94	2	0	0	2	0	1	1	0	0	1	0	2	3	0	4	108	0	0	0	7	0	0	0	0
+11.050	0	0	1	48	212	0	0	0	0	0	0	0	55	0	0	0	0	0	4	0	0	0	111	0	3	0	15	0	0	0	0	0	1	0	0	0	21	118	0	3	0	0	0	0	0	0	8	0	1	0	1	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	1	0	0	0	0	148	4	0	1	1	0	1	6	0	0	0	0	3	4	0	3	122	0	0	0	8	0	0	0	0
+11.100	0	0	3	58	157	0	0	0	4	0	6	0	67	0	0	0	0	0	3	0	0	0	120	0	5	0	7	0	0	0	0	1	1	0	0	0	29	92	0	2	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	2	0	0	0	0	120	40	0	1	1	0	0	3	0	0	0	0	2	2	0	4	246	0	0	0	6	0	0	0	0
+11.160	0	0	8	52	129	0	0	0	0	0	2	2	66	0	0	0	0	0	5	0	0	0	82	0	3	0	4	0	0	0	0	1	0	0	0	0	37	107	0	4	0	0	0	0	0	0	12	0	2	5	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	105	29	0	0	4	0	5	0	0	0	0	0	4	4	0	3	191	0	0	0	2	0	0	0	0
+11.210	0	0	14	62	73	0	0	2	0	0	5	2	43	0	0	1	0	0	6	0	0	0	90	0	0	0	4	0	1	0	0	0	0	0	0	0	66	145	0	5	0	0	0	0	1	0	2	0	1	5	0	0	0	0	0	0	0	0	0	8	0	0	1	0	0	0	0	2	0	0	0	20	17	3	0	0	2	0	3	2	0	0	0	0	2	1	0	7	2	0	0	0	4	0	0	0	2
+11.250	1	0	3	51	65	0	0	3	0	0	5	1	39	0	0	0	0	0	2	0	0	0	71	0	4	0	5	0	0	0	0	0	0	0	0	1	149	167	0	1	0	0	1	0	0	0	2	0	1	1	4	0	0	0	0	0	0	0	0	12	0	0	0	0	3	0	0	0	0	0	0	5	85	11	0	1	2	0	0	3	0	0	0	0	1	4	0	2	1	0	0	0	4	0	0	0	1
+11.310	0	0	9	6	46	0	0	3	0	0	1	3	13	0	0	1	0	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	167	252	0	3	0	0	0	0	0	1	3	0	1	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	11	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	1	0	0	0	0
+11.370	0	0	7	1	44	0	0	0	0	0	0	1	10	0	0	0	0	1	1	0	0	0	36	0	0	0	0	14	0	0	0	0	0	0	0	0	201	334	0	1	0	0	0	0	0	1	2	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	1	22	0	0	8	2	0	0	0	0	0	0	0	0	3	0	0	2	0	0	0	1	0	0	0	0
+11.460	0	0	3	2	11	0	0	1	0	0	1	0	5	0	0	0	0	1	2	0	0	0	27	0	0	0	0	11	0	0	0	0	0	0	0	0	110	312	0	1	0	0	0	0	0	3	1	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	15	0	0	7	0	0	1	0	0	0	0	0	3	3	0	0	1	0	0	0	0	0	0	0	0
+11.570	0	0	10	5	57	0	0	3	0	1	0	4	22	0	0	0	0	3	5	1	0	0	75	0	0	0	2	9	0	0	0	0	0	0	0	0	328	790	0	0	0	0	1	0	0	1	1	0	1	3	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	2	46	2	0	16	3	0	0	0	0	0	0	0	1	3	0	3	3	0	0	0	1	0	0	0	0
+11.670	5	0	7	3	31	0	0	1	1	0	0	3	10	0	0	0	0	3	2	1	0	0	24	0	0	0	0	4	0	0	0	0	0	0	0	0	129	276	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	30	0	0	8	0	0	1	0	0	0	0	1	0	1	0	1	2	0	0	0	1	0	0	0	0
+11.770	2	0	19	2	62	0	0	0	0	0	0	3	10	0	0	0	0	1	1	0	0	0	28	0	0	0	0	7	0	0	0	0	0	0	0	0	303	270	0	1	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	18	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+11.850	12	0	9	1	47	0	0	2	0	0	0	4	1	0	0	0	0	2	0	1	0	0	8	0	0	0	0	1	0	0	0	0	0	0	0	0	372	179	0	1	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	3	0	0	0	0	0	0	0	1	0	2	0	1	0	0	0	0	0	0	0	0	0
+11.910	3	0	16	1	107	0	0	21	0	0	0	15	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	170	90	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	25	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+11.950	0	0	6	1	129	0	0	20	0	0	0	28	1	0	0	0	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	181	110	0	0	0	0	1	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	0	0	0	0	0	1	0	0	0	12	0	0	3	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+11.980	0	0	10	1	129	0	0	10	0	0	0	17	4	0	0	0	0	1	0	2	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	153	179	0	1	0	0	0	0	0	7	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	16	2	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+12.020	1	0	5	1	165	0	0	1	0	0	0	6	1	0	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	125	360	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	8	0	0	2	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+12.060	0	0	0	3	157	0	0	0	1	0	0	0	3	0	0	0	0	0	1	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	56	356	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+12.090	0	0	6	5	232	0	0	0	1	0	0	1	7	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	34	598	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	8	0	0	0	1	0	0	0	0	0	0	0	2	1	0	3	0	0	0	0	1	0	0	0	0
+12.125	0	0	1	14	74	0	1	0	0	0	1	0	4	0	0	0	0	0	1	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	12	331	0	1	0	0	0	0	0	0	3	0	1	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+12.140	0	0	2	7	102	0	0	0	0	0	1	0	5	0	0	0	0	0	1	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	11	356	0	0	0	0	0	0	2	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	8	0	0	0	1	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0
+12.160	1	0	3	6	98	0	2	1	0	0	0	1	11	0	0	0	0	0	2	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	66	295	0	0	0	0	0	0	1	3	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+12.190	0	0	11	0	202	0	0	6	0	0	0	6	6	0	0	0	0	0	0	1	0	0	9	0	0	0	0	1	0	0	0	0	0	0	0	0	97	187	0	0	0	0	0	0	0	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	20	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+12.210	0	0	6	2	216	0	0	1	0	0	0	7	7	0	0	0	0	0	3	2	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	41	408	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	15	1	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+12.230	0	0	2	3	189	0	0	0	0	0	0	0	2	0	0	0	0	0	2	1	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	7	374	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+12.270	0	0	1	2	166	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	10	493	0	0	0	0	0	0	0	3	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	9	0	0	0	0	0	0	0	0	0	0	0	1	2	0	1	0	0	0	0	2	0	0	0	0
+12.285	0	0	4	0	277	0	0	0	0	0	0	0	4	0	0	0	0	0	1	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	4	246	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+12.300	0	0	7	6	305	0	0	1	0	0	0	0	20	0	0	0	0	0	1	1	0	0	58	0	0	0	10	0	0	0	0	0	0	0	0	0	9	117	0	1	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	2	0	0	2	0	0	1	0	0	0	0	0	2	0	3	0	0	0	0	1	0	0	0	0
+12.345	1	0	7	14	227	0	0	0	0	0	0	3	29	0	0	0	0	0	0	0	0	0	131	0	1	0	137	0	0	0	0	0	0	0	0	0	26	78	0	2	0	0	1	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	5	0	0	1	0	0	0	0	0	0	0	0	0	16	6	0	0	0	0	5	3	0	0	0	0	0	4	0	1	0	0	0	0	4	0	0	0	0
+12.390	10	0	23	44	103	0	0	17	0	0	2	11	91	0	0	0	0	0	2	1	0	0	131	0	4	0	5	0	0	0	0	0	0	0	0	0	95	204	0	8	1	0	1	0	0	0	7	0	2	4	1	0	0	0	0	0	0	0	0	17	0	0	1	0	1	0	0	0	0	0	0	3	67	6	0	0	4	0	0	2	0	0	0	0	2	4	0	15	0	0	1	0	3	0	0	0	0
+12.440	6	0	12	9	38	0	0	10	2	0	2	1	37	0	0	1	0	0	0	0	0	0	66	0	2	0	0	0	0	0	0	0	0	0	0	0	113	226	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	51	1	0	0	1	0	0	0	0	0	0	0	1	2	0	6	0	0	0	0	3	0	0	0	0
+12.490	4	0	2	12	34	0	1	3	0	0	0	0	19	0	0	1	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	140	258	0	1	0	0	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	43	4	0	0	0	0	1	0	0	0	0	0	1	0	0	2	0	0	0	0	1	0	1	0	0
+12.580	1	0	2	9	44	0	0	1	0	0	1	1	17	0	0	0	0	0	0	0	0	0	41	0	1	0	0	0	0	0	0	0	0	0	0	0	133	307	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	31	0	0	0	0	0	0	2	0	0	0	0	0	0	0	4	0	0	0	0	2	0	0	0	0
+12.630	4	0	3	0	43	1	0	1	0	0	0	4	4	0	0	1	0	1	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	220	346	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	2	0	0	0	0
+12.740	1	0	15	0	85	0	0	1	0	0	0	1	8	0	0	2	0	0	0	0	0	0	24	0	0	0	1	0	0	0	0	0	0	0	0	0	199	270	0	0	0	0	0	0	0	7	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	15	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12.820	3	0	5	2	50	0	0	3	1	0	0	3	1	0	0	0	0	0	0	1	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	158	238	0	0	0	0	1	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+12.890	41	0	18	0	17	0	0	10	0	0	0	3	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	276	414	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	7	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0
+12.950	58	0	16	0	24	0	0	9	0	0	0	2	1	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	240	320	0	0	0	0	0	0	0	8	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+13.000	121	1	44	0	16	0	0	21	0	0	0	5	6	0	0	0	0	0	0	1	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	184	38	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	9	2	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+13.050	121	0	51	0	33	0	0	47	0	0	1	5	7	0	0	2	0	0	0	1	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	196	190	0	0	0	0	1	0	0	13	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	8	8	0	0	0	0	0	0	0	0	0	0	1	0	0	3	0	0	0	0	1	0	0	0	0
+13.100	219	2	135	0	8	11	0	189	0	0	0	22	1	0	0	0	0	0	0	6	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	91	8	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	7	0	1	0	15	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.190	216	1	74	0	4	4	0	111	0	0	0	50	2	0	0	0	0	0	0	2	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	76	4	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	7	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.250	251	0	73	0	3	5	0	154	0	0	0	44	0	0	0	0	0	0	0	5	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	53	1	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	7	0	1	0	15	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.310	205	0	43	0	1	3	0	152	0	0	0	44	1	0	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	46	1	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	6	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.370	367	2	84	0	0	0	0	253	0	0	0	136	1	0	0	0	0	0	0	5	0	0	4	1	0	0	0	0	0	0	0	0	1	0	0	0	66	6	0	0	0	0	0	0	0	14	1	0	0	0	0	0	0	0	0	0	0	0	2	1	2	0	23	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.420	47	2	44	0	1	0	0	46	0	0	0	370	0	0	0	0	0	0	1	10	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	21	3	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	12	0	2	0	5	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.470	20	4	53	0	6	0	0	18	0	0	0	417	0	0	0	0	0	0	0	28	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	23	3	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	51	0	3	0	11	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.520	16	5	62	0	1	0	0	11	0	0	0	810	2	0	0	0	0	0	1	37	0	0	10	1	0	2	0	0	0	0	0	0	0	0	0	0	47	3	0	0	0	0	0	0	0	108	0	0	0	0	0	0	0	0	0	0	0	0	237	0	5	0	25	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.560	3	4	40	1	1	0	0	2	0	0	0	505	4	0	0	0	0	0	0	23	0	0	2	1	0	2	0	0	0	0	0	0	0	0	0	0	19	11	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	127	0	5	0	13	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.590	3	1	57	1	1	0	0	0	0	0	0	478	2	0	0	0	0	0	0	24	0	0	4	2	0	1	0	0	0	0	0	0	0	0	0	0	43	6	0	0	0	0	0	0	0	129	0	0	0	0	0	0	0	0	0	0	0	0	85	0	4	0	19	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.660	0	3	39	0	1	0	0	0	0	0	0	1334	4	0	0	1	0	0	0	72	0	0	8	1	0	0	0	0	0	0	0	0	0	0	0	0	33	19	0	0	0	0	0	0	0	343	1	0	0	0	0	0	0	0	0	0	0	0	18	0	5	0	75	0	0	0	1	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+13.700	0	2	8	0	2	0	0	0	0	0	0	614	0	0	0	0	0	0	0	31	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	7	9	0	0	0	0	0	0	0	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	30	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.750	0	0	6	0	14	0	0	0	0	0	0	603	3	0	0	0	0	0	0	42	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	5	13	0	0	0	0	0	0	0	204	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	27	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.775	0	1	5	0	21	0	0	0	0	0	0	183	2	0	0	0	0	0	0	31	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	6	27	0	0	0	0	0	0	0	236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	31	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13.800	0	1	2	1	39	0	0	0	0	0	0	15	5	0	0	0	0	0	2	47	0	0	6	16	0	0	0	0	0	0	0	0	1	0	0	0	3	71	0	0	0	0	0	0	0	275	1	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	104	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+13.810	0	0	5	16	418	0	0	0	0	0	0	4	6	0	0	0	0	0	0	0	0	0	13	1	0	1	0	0	0	0	0	0	0	0	0	0	1	307	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	30	0	0	0	0	0	0	0	0	0	11	0	0	0	2	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	1	0	0	0	0
+13.820	0	0	1	13	161	0	0	0	0	0	4	0	4	0	0	0	0	0	0	0	0	0	33	0	1	0	2	0	0	0	0	2	0	0	0	0	0	385	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	7	0	0	0	3	0	0	0	0	0	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0
+13.930	0	0	1	61	54	0	0	0	1	0	14	9	249	0	2	0	0	0	1	0	0	0	145	0	24	0	24	0	0	0	0	1	0	0	0	0	0	78	0	5	0	0	0	0	0	0	3	0	7	1	16	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	3	0	0	1	0	9	3	0	0	4	0	4	6	0	0	0	0	1	2	0	30	0	0	0	0	3	0	0	0	0
+14.000	0	0	7	57	24	0	0	0	2	0	25	4	212	0	4	0	0	0	2	0	0	0	151	0	11	0	9	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	12	0	5	6	14	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	6	0	0	8	3	0	0	0	1	1	0	52	0	0	0	0	6	0	0	0	0
+14.100	0	0	16	50	42	0	0	0	3	0	10	27	86	0	1	0	0	0	2	0	0	0	166	0	11	0	6	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	6	7	0	7	8	12	0	0	0	0	0	0	0	0	46	1	0	2	0	0	0	0	0	0	1	0	0	6	0	0	0	12	0	2	2	1	0	0	0	3	6	0	25	5	0	0	0	3	0	0	0	0

@@ -1,0 +1,526 @@
+/* DATA DESCRIPTION:
+Citation:	de Beaulieu, Jacques-Louis (2010): Pollen profile GPILXX, La Grande Pile, France. European Pollen Database (EPD), PANGAEA, https://doi.org/10.1594/PANGAEA.739275
+Related to:	de Beaulieu, Jacques-Louis; Reille, Maurice (1992): The last climatic cycle at la Grande Pile (Vosges,France): A new pollen profile. Quaternary Science Reviews, 11(4), 431-438, https://doi.org/10.1016/0277-3791(92)90025-4
+	Guiot, Joel; Pons, A; de Beaulieu, Jacques-Louis; Reille, Maurice (1989): A 140,000-year continental climate reconstruction from two European pollen records. Nature, 338, 309-313, https://doi.org/10.1038/338309a0
+	Guiot, Joel; Reille, Maurice; de Beaulieu, Jacques-Louis; Pons, A (1992): Calibration of the climatic signal in a new pollen sequence from La Grande Pile. Climate Dynamics, 6, 259-264, https://doi.org/10.1007/BF00193539
+Coverage:	LATITUDE: 47.733333 * LONGITUDE: 6.503889
+	DATE/TIME START: 1978-06-30T00:00:00 * DATE/TIME END: 1978-06-30T00:00:00
+	MINIMUM DEPTH, sediment/rock: 3.92 m * MAXIMUM DEPTH, sediment/rock: 18.89 m
+Event(s):	GPILXX * LATITUDE: 47.733333 * LONGITUDE: 6.503889 * DATE/TIME: 1978-06-30T00:00:00 * ELEVATION START: 330.0 m * ELEVATION END: 0.0 m * LOCATION: La Grande Pile, France * COMMENT: At about 80 m to the south of GPX.
+Comment:	The EPD (http://www.europeanpollendatabase.net) accepted species name is given in the parameter comment. This dataset was archived on 2010-05-11 from the EPD database.
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	Investigator (Investigator) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Analyst
+	Abies [#] (Abi) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Abies
+	Acer [#] (Ace) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Acer campestre-type
+	Alisma [#] (Ali) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Alisma-type
+	Alnus [#] (Aln) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Alnus
+	Armeria [#] (Arm) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Armeria-type
+	Artemisia [#] (Art) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Artemisia
+	Betula [#] (Bet) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Betula
+	Boraginaceae [#] (Borae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Boraginaceae
+	Botrychium [#] (Bot) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Botrychium
+	Bruckenthalia [#] (Brk) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Bruckenthalia spiculifolia
+	Buxus [#] (Bux) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Buxus
+	Calluna vulgaris [#] (Cal.v) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Calluna vulgaris
+	Campanulaceae [#] (Camae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Campanulaceae
+	Carpinus [#] (Car) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Carpinus betulus
+	Caryophyllaceae [#] (Cphae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Caryophyllaceae
+	Cedrus [#] (Ced) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Cedrus
+	Centaurea [#] (Cen) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Asteroideae
+	Chenopodiaceae [#] (Cheae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Chenopodiaceae/Amaranthaceae
+	Asteroideae [#] (Asteroideae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Compositae subfam. Asteroideae
+	Cichorioideae [#] (Cicoid) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Compositae subfam. Cichorioideae
+	Corylus [#] (Cor) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Corylus
+	Crassulaceae [#] (Craae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Crassulaceae
+	Cruciferae [#] (Cru) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Cruciferae
+	Cyperaceae [#] (Cypae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Cyperaceae
+	Dipsacaceae [#] (Dipae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Dipsacaceae
+	Ephedra [#] (Eph) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ephedra
+	Ericaceae [#] (Eriae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ericaceae-type
+	Fagus [#] (Fag) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Fagus
+	Filipendula [#] (Flp) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Filipendula
+	Fraxinus [#] (Frx) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Fraxinus
+	Gentiana [#] (Gen) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Gentianaceae
+	Gramineae [#] (Graae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Gramineae
+	Hedera [#] (Hed) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Hedera
+	Helianthemum [#] (Hel) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Helianthemum
+	Hippophae [#] (Hpp) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Hippophae rhamnoides
+	Ilex [#] (Ile) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ilex
+	Isoetes [#] (Iso) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Isoetes
+	Juniperus [#] (Jun) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Juniperus-type
+	Labiatae [#] (Lab) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Labiatae
+	Leguminosae [#] (Leg) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Leguminosae
+	Lemna [#] (Lem) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Lemna
+	Liliaceae [#] (Lilae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Liliaceae-type
+	Lycopodium [#] (Lyc) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Lycopodiaceae
+	Menyanthes trifoliata [#] (Mey.t) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Menyanthes trifoliata-type
+	Mercurialis [#] (Mer) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Mercurialis
+	Monolete spore(s) [#] (Mon.s) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Monolete spore(s)
+	Myriophyllum [#] (Myo) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Myriophyllum
+	Nymphaea [#] (Nym) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Nymphaea
+	Osmunda regalis [#] (Osm.r) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Osmunda regalis
+	Picea [#] (Pic) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Picea
+	Pinus [#] (Pin) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Pinus
+	Plantago [#] (Pla) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Plantago
+	Plantago lanceolata [#] (Pla.l) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Plantago lanceolata-type
+	Polygonum [#] (Pol) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Polygonum
+	Polygonum alpinum [#] (Pol.a) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Polygonum alpinum
+	Polygonum bistorta [#] (Pol.b) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Polygonum bistorta-type
+	Polypodium [#] (Ppd) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Polypodium
+	Populus [#] (Pop) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Populus
+	Potamogeton [#] (Pot) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Potamogeton-type
+	Quercus ilex [#] (Que.i) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Quercus ilex-type
+	Quercus robur-type [#] (Que.r-T) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Quercus robur-type
+	Ranunculaceae [#] (Ranae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ranunculaceae
+	Ranunculus subgen. Batrachium [#] (Ran.Sg.B) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ranunculus flammula-type
+	Rhamnus [#] (Rha) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Rhamnus
+	Rosaceae [#] (Rosae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Rosaceae
+	Rubiaceae [#] (Rubae) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Rubiaceae
+	Rumex [#] (Rum) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Rumex/Oxyria
+	Salix [#] (Sal) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Salix
+	Sanguisorba minor [#] (San.m) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Sanguisorba minor-type
+	Sanguisorba officinalis [#] (San.o) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Sanguisorba officinalis
+	Saxifraga [#] (Sax) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Saxifraga
+	Scrophularia [#] (Scr) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Scrophularia-type
+	Selaginella [#] (Sel) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Selaginella
+	Sphagnum [#] (Sph) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Sphagnum
+	Taxus [#] (Tax) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Taxus baccata
+	Thalictrum [#] (Tha) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Thalictrum
+	Tilia [#] (Til) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Tilia
+	Spores, trilete [#] (trilete spores) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Trilete spore(s)
+	Typha angustifolia/Sparganium [#] (Typ.a/Sp) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Sparganium-type
+	Ulmus [#] (Ulm) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Ulmus
+	Umbelliferae [#] (Umb) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Umbelliferae
+	Valeriana [#] (Val) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Valeriana
+	Varia [#] (Varia) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Indeterminable: unknown
+	Vitis [#] (Vts) * PI: de Beaulieu, Jacques-Louis (jacques-louis.de-beaulieu@univ-cezanne.fr) * COMMENT: Vitis
+License:	Creative Commons Attribution-NonCommercial 3.0 Unported (CC-BY-NC-3.0) (URI: https://creativecommons.org/licenses/by-nc/3.0/)
+Size:	36210 data points
+*/
+Depth sed [m]	Investigator	Abi [#]	Ace [#]	Ali [#]	Aln [#]	Arm [#]	Art [#]	Bet [#]	Borae [#]	Bot [#]	Brk [#]	Bux [#]	Cal.v [#]	Camae [#]	Car [#]	Cphae [#]	Ced [#]	Cen [#]	Cheae [#]	Asteroideae [#]	Cicoid [#]	Cor [#]	Craae [#]	Cru [#]	Cypae [#]	Dipae [#]	Eph [#]	Eriae [#]	Fag [#]	Flp [#]	Frx [#]	Gen [#]	Graae [#]	Hed [#]	Hel [#]	Hpp [#]	Ile [#]	Iso [#]	Jun [#]	Lab [#]	Leg [#]	Lem [#]	Lilae [#]	Lyc [#]	Mey.t [#]	Mer [#]	Mon.s [#]	Myo [#]	Nym [#]	Osm.r [#]	Pic [#]	Pin [#]	Pla [#]	Pla.l [#]	Pol [#]	Pol.a [#]	Pol.b [#]	Ppd [#]	Pop [#]	Pot [#]	Que.i [#]	Que.r-T [#]	Ranae [#]	Ran.Sg.B [#]	Rha [#]	Rosae [#]	Rubae [#]	Rum [#]	Sal [#]	San.m [#]	San.o [#]	Sax [#]	Scr [#]	Sel [#]	Sph [#]	Tax [#]	Tha [#]	Til [#]	trilete spores [#]	Typ.a/Sp [#]	Ulm [#]	Umb [#]	Val [#]	Varia [#]	Vts [#]
+3.92	Jacques-Louis de Beaulieu	2	0	0	41	0	0	5	0	0	0	0	8	0	2	0	0	0	0	0	0	20	0	0	1	0	0	2	60	0	0	0	7	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	13	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0
+3.95	Jacques-Louis de Beaulieu	3	0	0	28	0	0	15	0	0	0	0	2	0	3	0	0	0	0	0	0	47	0	0	1	0	0	1	87	1	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	15	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	0	0
+3.97	Jacques-Louis de Beaulieu	0	0	0	7	0	1	21	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	6	0	0	2	4	0	0	0	5	0	0	0	0	0	0	1	0	0	0	0	1	0	4	0	0	0	0	12	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	2	0	1	11	2	0	0	0
+4.00	Jacques-Louis de Beaulieu	0	0	0	0	0	4	60	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	2	0	0	0	11	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	43	0	0	0	0	0	0	1	0	0	10	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0	4	2	0	0	0
+4.02	Jacques-Louis de Beaulieu	0	0	0	0	0	11	110	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	6	0	0	44	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	1	0	0	1	0	0	1	0	0	1	1	3	5	0	1	0	0	0	0	0	0	0	0	2	0	3	0	1	0
+4.05	Jacques-Louis de Beaulieu	0	0	0	2	0	10	94	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	3	0	0	20	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	73	0	0	0	0	0	0	0	5	0	0	0	0	0	0	2	3	3	0	0	0	0	0	0	0	0	0	0	1	0	3	0	1	0
+4.07	Jacques-Louis de Beaulieu	0	0	0	0	0	4	100	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	10	0	0	0	1	8	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	80	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	3	1	0	0
+4.10	Jacques-Louis de Beaulieu	0	0	0	0	0	13	155	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	6	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	80	0	0	0	0	0	0	0	1	0	0	0	2	0	1	0	1	2	0	1	0	0	0	0	0	0	0	0	1	0	2	1	0	0
+4.17	Jacques-Louis de Beaulieu	0	0	0	0	0	13	131	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	6	0	1	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	44	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	5	0	2	0
+4.20	Jacques-Louis de Beaulieu	0	0	0	0	0	8	112	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	4	0	0	0	0	10	0	0	35	0	2	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	30	0	0	0	0	0	0	4	0	0	0	1	0	0	1	0	2	7	1	1	0	0	0	0	0	0	0	0	0	0	2	0	2	0
+4.22	Jacques-Louis de Beaulieu	0	0	0	0	0	11	150	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	0	0	13	0	0	30	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0
+4.25	Jacques-Louis de Beaulieu	0	0	0	0	0	8	150	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	2	0	0	0	0	6	0	1	44	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	1	0	0	35	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	3	5	2	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+4.27	Jacques-Louis de Beaulieu	0	0	0	0	0	10	150	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	6	0	0	0	0	7	0	1	37	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	1	0	0	30	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	7	6	1	0	0	0	0	0	0	0	0	0	0	0	2	1	4	0
+4.30	Jacques-Louis de Beaulieu	0	0	0	0	0	7	120	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	1	0	0	0	0	8	0	0	50	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	3	0	0	0	0	0	0	0	2	1	8	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+4.32	Jacques-Louis de Beaulieu	0	0	0	0	0	15	120	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	6	0	0	43	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	17	1	0	0	0	0	0	10	1	0	0	1	0	0	0	2	2	5	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0
+4.35	Jacques-Louis de Beaulieu	0	0	0	0	0	17	91	0	0	0	0	0	0	0	1	0	0	1	2	0	0	0	0	6	0	0	0	0	1	0	0	36	0	0	0	0	0	4	0	0	0	0	0	0	0	1	0	0	0	0	25	0	0	0	0	1	0	10	0	0	2	0	0	0	1	0	5	6	2	1	0	0	0	0	0	1	0	0	0	1	3	0	1	0
+4.37	Jacques-Louis de Beaulieu	0	0	0	0	0	15	86	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	2	0	0	0	0	5	0	1	50	0	1	0	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	2	0	0	0	0	0	0	1	2	4	6	2	1	0	0	0	0	0	2	0	0	0	0	3	0	3	0
+4.40	Jacques-Louis de Beaulieu	0	0	0	0	0	16	70	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	1	1	0	1	0	1	0	0	51	0	1	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	1	0	2	0	0	0	0	0	0	3	1	2	5	1	0	0	0	0	0	0	4	0	0	1	0	2	0	0	0
+4.42	Jacques-Louis de Beaulieu	0	0	0	0	0	10	54	0	0	0	0	0	0	0	0	0	0	1	4	1	0	0	0	4	0	0	0	0	1	0	0	62	0	0	0	0	0	13	0	0	0	0	0	2	0	0	0	0	0	0	5	0	0	0	0	1	0	2	0	0	1	1	0	0	0	1	1	10	0	1	0	0	0	0	0	1	0	0	1	0	4	0	0	0
+4.45	Jacques-Louis de Beaulieu	0	0	0	0	0	15	46	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	3	1	0	0	0	0	0	0	65	0	1	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	2	9	1	0	0	0	0	0	0	1	0	0	0	0	3	1	0	0
+4.47	Jacques-Louis de Beaulieu	0	0	0	0	0	14	72	0	0	0	0	0	0	0	0	0	1	1	3	1	0	0	0	6	0	0	0	0	1	0	0	77	0	1	0	0	0	6	0	0	0	0	0	0	0	1	0	0	0	0	7	1	0	0	0	0	0	2	0	0	0	0	0	0	0	1	2	3	0	2	1	0	0	0	0	1	0	0	1	0	6	0	0	0
+4.50	Jacques-Louis de Beaulieu	0	0	0	0	0	11	60	0	0	0	0	0	0	0	1	0	0	1	2	2	0	0	0	2	0	0	0	0	1	0	0	77	0	2	0	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	3	0	0	1	0	0	0	0	1	2	13	0	0	0	0	0	0	0	2	0	0	3	0	3	0	0	0
+4.52	Jacques-Louis de Beaulieu	0	0	0	0	0	17	57	0	0	0	0	0	1	0	0	0	0	0	4	0	0	0	0	9	0	0	0	0	2	0	0	75	0	0	1	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	2	0	0	0	0	4	0	1	1	6	9	0	0	1	0	0	0	0	0	0	1	0	0	4	0	0	0
+4.55	Jacques-Louis de Beaulieu	0	0	0	0	0	15	36	0	0	0	0	0	0	0	0	0	0	1	2	3	0	0	0	7	0	0	0	0	0	0	0	75	0	0	1	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	8	0	0	0	3	4	8	0	1	0	1	0	0	0	1	0	0	0	0	4	0	2	0
+4.57	Jacques-Louis de Beaulieu	0	0	0	0	0	20	47	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	6	1	0	0	0	0	0	0	117	0	0	1	0	0	18	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	7	0	0	0	2	0	5	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+4.60	Jacques-Louis de Beaulieu	0	0	0	0	0	30	24	0	0	0	0	0	1	0	0	0	0	1	2	0	0	0	2	1	0	0	0	0	1	0	1	68	0	4	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	33	0	2	3	3	5	0	0	0	0	0	0	0	1	0	0	1	0	3	1	1	0
+4.62	Jacques-Louis de Beaulieu	0	0	0	0	1	40	26	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	8	0	0	0	0	0	0	0	58	0	5	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	4	2	0	0	0	1	0	0	0	0	0	0	55	0	5	0	4	4	0	0	0	0	0	0	0	6	0	0	0	0	2	1	0	0
+4.67	Jacques-Louis de Beaulieu	0	0	0	0	1	46	28	0	0	0	0	0	2	0	1	0	0	4	4	1	0	0	1	9	1	1	0	0	0	0	0	75	0	13	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0	1	0	0	0	0	0	0	24	0	3	0	8	1	0	0	1	0	0	0	0	8	0	0	0	0	2	0	0	0
+4.70	Jacques-Louis de Beaulieu	0	0	0	0	0	26	5	0	0	0	0	0	0	0	1	0	0	4	0	2	0	0	1	4	0	0	0	0	0	0	0	54	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	1	0	50	0	1	1	6	1	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0
+4.72	Jacques-Louis de Beaulieu	0	0	0	0	1	27	3	0	0	0	0	0	0	0	3	0	1	1	0	0	0	0	0	5	0	0	0	0	0	0	0	27	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	72	0	0	0	3	0	0	0	0	0	0	0	0	6	0	0	0	0	1	0	1	0
+4.81	Jacques-Louis de Beaulieu	0	0	0	0	0	17	1	0	0	0	0	0	0	0	4	0	0	1	2	1	0	0	3	10	0	0	0	0	0	0	0	55	0	4	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	51	0	0	0	6	1	0	0	1	0	0	0	0	4	0	0	0	0	1	0	0	0
+4.83	Jacques-Louis de Beaulieu	0	0	0	0	0	30	1	0	0	0	0	0	0	0	4	0	0	3	1	2	0	1	0	7	0	0	0	0	0	0	0	58	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	48	0	2	1	6	1	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0
+4.86	Jacques-Louis de Beaulieu	0	0	0	0	0	16	2	0	0	0	0	0	0	0	3	0	0	0	1	1	0	0	1	5	0	0	0	0	0	0	0	75	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	30	0	0	3	0	0	0	0	1	0	0	0	0	9	0	0	0	0	2	0	0	0
+4.88	Jacques-Louis de Beaulieu	1	0	0	0	1	17	2	0	0	0	0	0	0	0	4	0	0	3	1	0	0	0	1	6	0	1	0	0	0	0	0	46	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0	33	0	0	0	2	0	0	0	0	0	0	0	0	4	0	0	0	0	2	0	0	0
+4.96	Jacques-Louis de Beaulieu	0	0	0	0	1	27	1	0	0	0	0	0	0	0	3	0	0	0	2	1	0	0	2	12	0	1	0	0	0	0	0	52	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	12	1	0	0	0	0	0	0	0	0	0	0	45	0	0	0	2	0	0	0	0	0	0	0	0	22	0	0	0	0	2	0	0	0
+4.98	Jacques-Louis de Beaulieu	0	0	0	0	0	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	26	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	55	0	0	1	3	1	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0
+5.03	Jacques-Louis de Beaulieu	0	0	0	0	1	16	2	0	0	0	0	0	0	0	1	0	0	2	1	0	0	0	3	3	0	0	0	0	0	0	0	33	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	1	0	0	0	0	0	0	24	0	0	0	2	0	0	0	0	0	0	0	0	3	0	0	1	1	0	0	0	0
+5.13	Jacques-Louis de Beaulieu	0	0	0	0	1	18	2	0	0	0	0	0	2	0	0	0	1	3	2	0	0	0	1	6	0	0	0	0	0	0	0	48	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	2	0	0	0	0	0	0	0	0	0	0	14	0	0	1	5	1	0	0	1	0	0	0	0	15	0	0	0	0	1	0	0	0
+5.21	Jacques-Louis de Beaulieu	0	0	0	0	0	26	1	0	0	0	0	0	0	0	3	0	0	3	0	2	0	0	3	4	0	0	0	0	0	0	0	55	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	1	0	0	0	0	0	0	0	0	0	0	5	0	1	0	2	1	0	0	3	0	0	0	0	13	0	0	0	0	1	0	0	0
+5.23	Jacques-Louis de Beaulieu	0	0	0	0	1	13	1	0	0	0	0	0	0	0	3	0	0	1	1	2	0	0	2	1	0	0	0	0	1	0	0	61	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	1	0	0	0	0	0	1	0	0	0	0	19	0	0	1	4	1	0	0	0	0	0	0	0	13	0	0	0	0	2	0	0	0
+5.26	Jacques-Louis de Beaulieu	0	0	0	1	1	16	5	0	0	0	0	0	0	0	2	0	0	4	0	1	0	0	5	3	0	0	0	0	0	0	0	46	0	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	9	4	0	0	0	0	0	0	0	0	0	0	15	0	1	1	0	0	0	0	2	0	0	0	0	13	0	0	0	0	3	0	0	0
+5.28	Jacques-Louis de Beaulieu	0	0	0	0	0	21	2	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	4	4	0	0	0	0	0	0	0	60	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	4	0	0	0	0	0	0	0	0	0	0	43	0	0	0	12	2	0	0	1	0	0	0	0	9	0	0	0	0	0	0	0	0
+5.33	Jacques-Louis de Beaulieu	0	0	0	0	0	16	0	0	0	0	0	0	0	0	5	0	1	4	3	0	0	0	4	2	1	0	0	0	0	0	0	52	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	1	0	0	0	0	0	0	18	0	0	0	5	0	0	0	0	1	0	0	0	21	0	0	0	0	1	0	0	0
+5.36	Jacques-Louis de Beaulieu	0	0	0	0	0	11	1	0	0	0	0	0	0	0	5	0	0	1	4	0	0	0	1	3	0	0	0	0	0	0	1	72	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	0	0	0	0	0	0	0	0	0	15	0	1	0	9	3	0	0	0	0	0	0	0	10	0	0	0	0	1	0	0	0
+5.38	Jacques-Louis de Beaulieu	0	0	0	0	0	16	2	0	0	0	0	0	0	0	2	0	0	2	1	0	0	0	0	2	0	0	0	0	0	0	0	80	0	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	12	5	0	0	0	0	0	0	0	0	0	0	20	0	0	0	6	3	0	0	3	0	0	0	0	18	0	0	0	0	1	0	0	0
+5.43	Jacques-Louis de Beaulieu	0	0	0	0	0	8	1	0	0	0	0	0	0	0	4	1	0	3	0	0	0	0	0	8	0	0	0	0	0	0	0	63	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	30	0	0	1	3	2	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0
+5.48	Jacques-Louis de Beaulieu	0	0	0	0	0	10	0	0	0	0	0	1	0	0	3	0	0	0	2	2	0	0	1	8	0	0	0	0	0	0	0	50	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	0	0	0	0	0	1	0	42	0	0	0	2	2	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+5.51	Jacques-Louis de Beaulieu	0	0	0	1	0	5	0	0	0	0	0	0	0	0	5	0	0	1	0	0	0	0	11	4	0	0	1	0	0	0	0	61	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	32	0	1	1	5	2	0	0	1	0	0	0	0	10	0	0	0	0	0	0	1	0
+5.56	Jacques-Louis de Beaulieu	0	0	0	0	1	8	2	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	2	3	0	0	1	0	0	0	0	72	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	2	0	0	0	0	0	0	0	0	0	0	120	0	0	2	11	2	0	0	2	0	0	0	0	14	0	0	0	0	6	0	0	0
+5.58	Jacques-Louis de Beaulieu	0	0	0	0	0	6	1	0	0	0	0	0	1	0	5	0	0	2	1	2	0	0	1	6	0	0	0	0	1	0	0	65	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	12	0	0	0	0	1	0	0	0	0	0	0	14	0	0	0	5	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0
+5.66	Jacques-Louis de Beaulieu	0	0	0	0	0	10	0	0	0	0	0	0	0	0	1	0	0	2	1	1	0	0	2	3	0	0	1	0	0	0	0	66	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	4	0	0	0	0	0	0	0	0	0	0	27	0	0	1	9	1	0	0	0	0	0	0	0	9	0	0	0	0	3	0	1	0
+5.71	Jacques-Louis de Beaulieu	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	0	3	0	0	0	0	0	0	0	45	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	8	0	0	0	4	0	0	0	0	0	0	0	0	13	0	0	0	0	2	0	0	0
+5.80	Jacques-Louis de Beaulieu	0	0	0	0	0	11	2	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	2	0	0	0	0	0	0	0	60	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	3	0	0	0	9	0	1	0	3	1	0	0	0	0	0	0	0	7	0	0	0	0	6	0	0	0
+5.84	Jacques-Louis de Beaulieu	0	0	0	0	0	5	2	0	0	0	0	0	1	0	1	0	0	1	0	1	0	0	0	5	0	0	0	0	0	0	0	83	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	5	0	0	0	0	0	0	0	11	0	1	0	20	0	0	1	6	1	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+5.91	Jacques-Louis de Beaulieu	0	0	0	0	1	12	12	0	0	0	0	2	0	0	2	0	0	5	0	0	0	0	1	8	0	0	1	0	1	0	0	77	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	17	3	0	0	0	1	0	0	1	0	0	0	23	0	0	0	2	0	0	0	1	0	0	0	0	12	0	0	0	0	0	0	0	0
+5.96	Jacques-Louis de Beaulieu	0	0	0	2	0	18	13	0	0	0	0	1	1	0	3	0	0	2	4	3	1	0	3	6	0	0	0	0	0	0	0	60	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	10	2	0	0	0	1	0	0	0	0	0	0	10	0	0	2	4	0	0	0	1	0	0	0	0	5	0	0	0	0	3	0	0	0
+6.01	Jacques-Louis de Beaulieu	1	0	0	2	0	15	10	0	0	0	0	0	0	1	9	0	0	6	2	2	0	0	2	3	0	0	1	0	0	0	0	65	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	2	16	3	0	0	0	0	0	0	0	0	0	0	15	0	0	0	1	2	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0
+6.06	Jacques-Louis de Beaulieu	1	0	0	0	0	11	10	0	0	0	0	1	0	0	5	0	0	3	0	0	1	0	4	6	0	0	1	0	0	0	1	80	0	1	0	0	9	0	0	0	0	0	0	0	0	0	2	0	0	1	5	5	0	0	0	1	0	0	0	0	0	0	210	0	0	2	4	1	0	0	1	0	0	0	0	11	0	0	0	0	5	0	0	0
+6.12	Jacques-Louis de Beaulieu	0	0	0	1	1	5	9	0	0	0	0	0	0	0	1	0	0	2	1	2	1	0	2	5	0	0	0	0	1	0	0	52	0	3	0	0	11	0	0	0	0	0	0	0	0	0	2	0	0	2	14	1	0	0	0	1	0	0	0	0	0	0	170	0	0	1	3	0	0	0	1	0	0	0	0	10	0	0	0	0	2	0	0	0
+6.17	Jacques-Louis de Beaulieu	1	0	0	0	0	10	21	0	0	0	0	3	0	1	1	0	0	1	2	1	0	0	3	12	0	0	0	0	1	0	1	75	0	2	0	0	80	0	0	0	0	0	0	0	0	1	3	0	0	1	12	2	0	0	0	1	0	0	0	0	0	0	95	0	2	1	5	3	0	0	1	0	1	0	0	6	0	0	0	0	1	0	0	0
+6.19	Jacques-Louis de Beaulieu	5	0	0	2	2	10	18	0	0	0	0	3	0	2	7	0	0	1	5	0	3	1	0	9	1	0	1	0	1	0	0	96	0	6	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	4	28	10	0	0	0	0	0	0	0	0	2	0	270	0	1	1	6	1	0	0	0	0	0	0	0	5	0	0	0	0	0	1	0	0
+6.22	Jacques-Louis de Beaulieu	2	0	0	1	0	15	17	0	1	0	0	3	0	5	4	0	0	9	0	3	0	0	2	15	0	0	0	0	1	0	0	77	0	6	0	0	24	2	0	1	0	0	0	0	0	1	5	0	1	3	22	0	0	0	0	0	0	0	0	0	0	0	210	0	1	0	1	0	0	0	0	0	0	0	0	12	0	0	0	0	0	1	0	0
+6.29	Jacques-Louis de Beaulieu	2	0	0	0	0	11	16	0	0	0	0	1	0	1	1	0	1	1	3	1	0	0	1	14	0	0	0	0	3	0	0	61	0	4	0	0	30	0	0	0	0	0	0	0	0	0	2	0	0	1	12	2	0	0	0	0	0	0	0	0	1	0	90	0	1	0	3	2	0	0	1	0	0	0	0	6	0	0	0	0	1	0	0	0
+6.32	Jacques-Louis de Beaulieu	2	0	0	0	1	7	1	0	0	0	0	1	1	0	3	0	0	1	2	0	2	0	1	12	1	0	2	0	0	0	1	42	0	2	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	3	20	2	0	0	0	0	0	0	0	0	0	0	110	0	0	1	1	1	0	0	0	0	0	0	0	4	0	0	0	0	1	1	0	0
+6.35	Jacques-Louis de Beaulieu	0	0	0	0	1	10	6	0	0	0	0	0	1	1	5	0	0	0	0	1	1	0	1	5	1	0	0	0	2	0	0	48	0	0	0	0	60	1	0	0	0	0	0	0	0	0	3	0	0	1	10	1	0	0	0	3	0	0	0	0	0	0	65	0	0	1	3	1	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0
+6.40	Jacques-Louis de Beaulieu	1	0	2	0	1	16	20	0	0	0	0	1	0	0	4	0	0	3	0	1	1	0	2	12	0	1	0	0	0	0	0	60	0	2	0	0	13	1	0	0	0	0	0	0	0	0	6	0	0	3	25	2	0	0	0	0	0	0	0	0	1	0	140	0	0	0	3	1	0	0	0	0	0	0	0	5	1	0	0	0	1	0	0	0
+6.44	Jacques-Louis de Beaulieu	1	0	0	1	0	8	6	0	0	0	0	1	0	1	3	0	1	1	1	1	1	0	3	17	0	0	0	0	0	0	0	60	0	1	0	0	30	0	0	0	0	0	0	0	0	0	5	0	0	1	16	4	0	0	0	0	0	0	0	0	0	0	90	0	1	0	4	1	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0
+6.50	Jacques-Louis de Beaulieu	0	0	0	1	0	12	20	0	0	0	0	1	0	1	2	0	0	1	2	2	0	0	0	12	0	0	0	0	1	0	2	65	0	3	0	0	24	1	0	0	0	0	0	0	0	0	4	0	1	3	20	6	0	0	0	0	0	0	0	0	1	0	120	0	0	2	2	1	0	0	2	0	1	0	0	11	0	0	0	0	2	0	0	0
+6.55	Jacques-Louis de Beaulieu	0	0	1	0	0	8	18	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	1	10	0	0	1	0	1	0	0	54	0	1	0	0	30	0	0	0	0	0	0	0	0	0	7	0	0	0	12	3	0	0	0	1	0	0	0	0	1	0	50	0	2	0	6	1	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0
+6.60	Jacques-Louis de Beaulieu	0	0	0	0	1	12	24	0	0	0	0	3	0	0	2	0	0	1	0	1	0	0	1	28	0	0	0	0	1	0	0	75	0	3	0	0	23	0	0	0	0	0	0	0	0	0	2	0	0	1	17	1	0	0	0	0	0	0	0	0	2	0	90	0	1	1	2	1	0	0	0	0	0	0	0	11	0	0	0	0	3	0	0	0
+6.65	Jacques-Louis de Beaulieu	0	0	1	0	0	7	9	0	1	0	0	1	0	1	1	0	1	3	0	1	1	0	1	13	1	0	0	0	1	0	0	55	0	2	1	0	7	1	0	1	0	0	0	0	0	0	8	0	0	1	17	1	0	0	0	1	0	0	0	0	2	0	25	0	0	1	3	1	0	0	1	0	0	0	0	13	0	0	0	0	1	0	0	0
+6.70	Jacques-Louis de Beaulieu	0	0	0	0	0	14	23	0	0	0	0	1	1	0	2	0	0	3	4	0	0	0	0	13	2	0	0	0	0	0	1	97	0	7	0	0	40	2	0	0	0	0	0	0	0	0	9	0	0	1	22	4	0	0	0	1	0	0	0	0	0	0	20	0	0	0	6	1	0	0	1	0	0	0	0	8	0	0	0	0	6	0	0	0
+6.74	Jacques-Louis de Beaulieu	0	0	1	0	0	5	15	0	0	1	0	1	0	1	1	0	0	2	0	0	0	0	1	14	1	0	0	0	2	0	0	70	0	2	0	0	50	1	0	0	0	1	0	0	0	0	6	0	0	1	7	1	0	0	0	1	0	0	1	0	2	0	6	0	0	2	2	0	0	0	4	0	0	0	0	3	0	0	0	0	1	1	0	0
+6.75	Jacques-Louis de Beaulieu	0	0	0	1	0	18	27	0	0	0	0	4	0	0	1	0	0	2	1	0	0	0	4	15	1	0	1	0	5	0	0	85	0	4	2	0	24	4	0	0	0	0	0	0	0	0	8	0	0	1	18	1	0	0	0	0	0	0	0	0	0	0	21	0	0	1	10	0	0	1	0	0	2	0	0	7	0	0	0	0	2	0	0	0
+6.81	Jacques-Louis de Beaulieu	0	0	0	0	0	8	13	0	0	1	0	1	0	0	2	0	0	1	1	0	2	1	0	10	0	0	0	0	3	0	0	65	0	3	0	0	15	2	0	0	0	0	0	0	0	0	7	0	0	1	12	1	0	0	0	1	0	1	0	0	2	0	2	0	1	3	3	3	0	0	0	0	0	0	0	3	0	0	0	0	4	0	2	0
+6.85	Jacques-Louis de Beaulieu	0	0	0	0	0	20	26	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	20	0	0	0	0	1	0	1	70	0	2	1	0	40	2	0	0	0	1	0	0	0	0	7	0	0	1	12	4	0	0	0	0	0	0	0	0	2	0	18	0	2	3	2	0	0	1	1	0	1	0	0	13	0	0	0	0	0	0	1	0
+6.91	Jacques-Louis de Beaulieu	0	0	0	0	0	14	18	0	0	0	0	2	0	1	1	0	1	1	2	2	4	0	1	9	0	0	1	0	3	0	0	63	0	0	0	0	11	0	0	0	0	0	0	0	0	0	4	0	0	4	17	3	0	0	0	0	0	0	0	0	0	0	11	0	0	0	10	3	0	0	0	0	0	0	0	6	0	0	0	0	3	0	0	0
+6.94	Jacques-Louis de Beaulieu	1	0	0	0	2	18	25	0	0	0	0	0	0	0	3	0	0	4	0	0	3	0	1	17	1	0	0	0	2	0	1	80	0	2	0	0	70	0	0	0	0	0	0	0	0	0	5	0	0	1	26	4	0	0	0	0	0	0	0	0	7	0	27	0	0	2	8	0	0	0	0	0	1	0	0	6	1	0	0	0	1	0	0	0
+6.99	Jacques-Louis de Beaulieu	0	0	0	1	0	8	13	0	0	0	0	0	0	0	1	0	0	2	2	0	0	0	1	11	0	0	0	0	2	0	1	65	0	0	0	0	10	1	0	0	0	0	0	0	0	0	3	0	0	0	21	1	0	1	0	0	0	0	0	0	1	0	8	0	0	5	2	2	0	0	3	0	0	0	0	5	0	0	0	0	1	1	2	0
+7.05	Jacques-Louis de Beaulieu	0	0	0	0	0	7	24	0	0	0	0	2	0	0	1	0	0	0	0	1	0	1	0	7	0	0	0	0	0	0	0	81	0	4	0	0	4	1	0	0	0	0	0	0	0	0	10	0	0	0	20	3	0	0	0	1	0	0	0	0	1	0	15	0	2	0	3	1	0	0	1	0	0	0	0	9	0	0	0	0	1	0	3	0
+7.10	Jacques-Louis de Beaulieu	0	0	0	0	1	12	6	0	0	0	0	1	1	0	2	0	0	2	0	1	0	3	2	5	0	0	0	0	0	0	1	56	0	1	0	0	6	0	0	0	0	0	0	0	0	0	11	0	0	1	11	1	0	0	0	0	0	0	0	0	2	0	17	0	0	0	4	2	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0
+7.17	Jacques-Louis de Beaulieu	0	0	0	1	0	6	16	0	0	0	0	1	0	0	0	0	0	2	0	0	0	2	1	10	0	0	0	0	1	0	0	40	0	3	0	0	12	1	0	0	0	1	0	0	0	0	4	0	0	1	6	3	0	0	0	0	0	0	0	0	0	0	4	0	0	1	6	1	0	0	0	0	0	0	0	5	0	0	0	0	2	0	0	0
+7.20	Jacques-Louis de Beaulieu	0	0	0	0	0	8	18	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	12	1	0	0	0	0	0	0	68	0	3	0	0	10	1	0	0	0	0	0	0	0	0	10	0	0	0	12	1	0	0	0	0	0	0	0	0	0	0	11	0	1	1	5	0	0	0	0	0	0	0	0	4	0	0	1	0	3	0	0	0
+7.24	Jacques-Louis de Beaulieu	0	0	0	0	0	22	21	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	17	1	0	0	0	0	0	0	80	0	4	1	0	13	2	0	0	0	0	0	0	0	0	6	0	0	0	27	3	0	0	0	0	0	0	0	0	0	0	11	0	0	2	5	3	0	1	0	0	0	0	0	6	0	0	0	0	1	0	1	0
+7.32	Jacques-Louis de Beaulieu	0	0	0	0	0	13	12	0	0	0	0	2	0	0	1	0	0	0	1	0	0	1	1	14	1	0	0	0	3	0	0	76	0	4	0	0	7	2	0	0	0	0	0	0	0	0	6	0	0	0	28	2	0	0	0	0	0	0	0	0	0	0	13	0	2	0	2	1	0	0	0	0	0	0	0	11	0	0	0	0	2	0	0	0
+7.34	Jacques-Louis de Beaulieu	0	0	2	0	0	20	27	0	0	0	0	2	0	0	1	0	0	4	2	1	0	0	0	15	2	0	2	0	2	0	1	96	0	8	1	0	40	2	0	0	0	0	0	0	0	0	6	0	0	1	53	4	0	0	0	2	0	0	0	0	0	0	22	0	0	1	8	1	0	0	1	0	1	0	0	9	0	0	0	1	4	0	0	0
+7.40	Jacques-Louis de Beaulieu	0	0	5	0	1	10	23	0	0	0	0	1	0	0	3	2	0	3	2	0	1	0	4	13	1	0	1	0	1	0	0	82	0	1	0	0	50	4	0	0	0	0	0	0	0	0	8	0	0	1	36	2	0	0	0	0	0	0	0	0	0	0	9	0	0	4	10	4	0	0	2	0	0	0	0	12	0	0	0	0	0	0	0	0
+7.45	Jacques-Louis de Beaulieu	0	0	1	0	0	15	20	0	1	0	0	4	0	0	1	0	1	3	2	1	0	0	1	11	1	0	1	0	4	0	1	87	0	5	0	0	10	3	0	0	0	0	0	0	0	1	13	0	0	0	120	2	0	0	0	1	0	0	0	0	1	0	22	0	1	2	2	0	0	0	0	0	0	0	0	12	0	0	0	0	6	1	0	0
+7.51	Jacques-Louis de Beaulieu	0	0	2	0	0	18	25	0	0	0	0	2	0	0	2	0	0	2	2	0	0	0	1	13	0	1	0	0	4	0	0	106	0	10	0	0	60	2	0	1	0	0	0	0	0	0	20	0	0	1	57	2	0	0	0	3	0	0	0	0	0	0	16	0	0	3	9	0	0	0	1	0	0	0	0	7	0	0	0	0	0	0	0	0
+7.56	Jacques-Louis de Beaulieu	0	0	2	0	0	21	18	0	0	0	0	0	0	0	1	0	0	2	1	0	1	1	0	14	1	0	0	0	0	0	0	105	0	6	0	0	10	1	0	0	0	0	0	0	0	0	3	0	0	1	46	2	0	0	0	1	0	0	0	0	0	0	25	0	3	1	4	1	0	0	1	0	0	0	0	12	0	0	0	0	4	2	0	0
+7.59	Jacques-Louis de Beaulieu	0	0	0	0	1	14	20	0	0	1	0	2	0	0	1	0	1	3	2	1	0	0	1	3	1	0	0	0	0	0	1	71	0	1	0	0	80	1	0	0	0	0	0	0	0	0	2	0	0	1	23	3	0	0	0	1	0	0	0	0	1	0	21	0	1	0	6	1	0	0	4	0	0	0	0	4	0	0	0	0	3	0	0	0
+7.64	Jacques-Louis de Beaulieu	0	0	2	0	0	12	32	0	1	0	0	2	0	0	3	0	0	2	2	1	0	0	1	20	0	0	0	0	2	1	0	70	0	5	0	0	120	3	0	0	0	0	0	0	0	0	5	0	0	0	41	6	0	0	0	1	0	0	0	1	0	0	22	0	0	2	4	1	0	0	0	0	0	0	0	6	0	0	0	0	2	1	0	0
+7.70	Jacques-Louis de Beaulieu	0	0	0	0	0	13	20	0	0	0	0	0	1	0	1	0	0	4	2	1	0	0	2	15	1	2	0	0	1	0	0	95	0	3	0	0	20	1	0	0	0	0	0	0	0	0	8	0	0	0	23	2	0	0	0	0	0	0	0	1	1	0	30	0	0	2	4	2	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0
+7.76	Jacques-Louis de Beaulieu	0	0	0	0	0	8	15	0	0	0	0	1	1	0	1	0	0	0	1	2	0	0	1	20	1	0	0	0	6	0	0	72	0	3	0	0	7	5	0	0	0	0	0	0	0	0	25	0	0	1	48	2	0	0	0	0	0	0	0	0	0	0	23	0	1	1	6	2	0	0	1	0	0	0	0	13	0	0	0	0	4	0	0	0
+7.79	Jacques-Louis de Beaulieu	0	0	2	0	1	17	26	0	0	0	0	1	0	0	2	0	0	3	2	0	0	0	2	28	0	1	0	0	3	0	0	105	0	2	0	0	11	5	0	0	0	0	0	0	0	0	33	0	0	1	31	8	0	0	0	3	0	0	0	0	0	0	37	0	1	4	5	3	0	0	3	0	0	0	0	6	0	0	0	0	2	0	0	0
+7.84	Jacques-Louis de Beaulieu	0	0	0	0	0	7	23	0	1	0	0	0	0	0	1	0	0	2	0	1	0	0	1	11	0	0	0	0	2	0	1	100	0	6	0	0	1	1	0	0	0	0	0	0	0	0	70	0	0	0	9	1	0	0	0	0	0	0	1	0	0	0	11	0	0	3	10	2	0	0	1	0	0	0	0	5	0	0	0	0	1	0	0	0
+7.87	Jacques-Louis de Beaulieu	0	0	1	0	0	7	17	0	0	1	0	0	0	0	0	0	0	3	1	1	0	0	4	25	0	0	0	0	0	0	0	80	0	3	0	0	10	1	0	0	0	0	0	0	0	0	4	0	0	0	24	1	0	0	0	1	0	0	0	1	0	0	17	0	0	0	6	1	0	0	0	0	0	0	0	13	0	0	0	0	1	0	0	0
+7.91	Jacques-Louis de Beaulieu	0	0	0	0	1	17	15	0	1	0	0	0	0	1	0	0	0	4	1	1	1	1	0	11	0	0	0	0	2	0	0	75	0	4	0	0	5	0	0	0	0	0	0	0	0	0	9	0	0	1	37	2	0	0	0	2	0	0	0	0	1	0	26	0	0	1	5	5	0	0	1	0	0	0	0	13	0	0	0	0	2	0	0	0
+7.94	Jacques-Louis de Beaulieu	0	0	0	0	1	12	18	0	0	0	0	0	0	0	2	0	0	2	1	0	0	0	1	9	0	0	0	0	1	0	0	58	0	1	0	0	2	0	0	0	0	0	0	0	0	0	4	0	0	0	26	0	0	0	0	1	0	0	0	0	0	0	6	0	2	2	7	1	0	0	1	0	0	0	0	9	0	0	0	0	1	0	0	0
+8.00	Jacques-Louis de Beaulieu	0	0	0	0	0	9	22	0	1	0	0	0	0	0	1	0	0	3	2	0	0	0	1	4	0	0	3	0	0	0	0	80	0	6	0	0	4	1	0	0	0	0	0	0	0	0	62	0	0	0	13	1	0	0	0	2	0	0	0	0	0	0	12	0	2	2	1	0	0	0	0	0	0	0	0	9	0	0	0	0	2	1	0	0
+8.05	Jacques-Louis de Beaulieu	0	0	1	1	0	4	10	0	0	0	0	0	0	0	1	0	0	3	1	1	0	0	3	15	0	0	0	0	2	0	0	86	0	5	0	0	2	3	0	0	0	0	0	0	0	0	18	0	0	0	17	5	0	0	0	2	0	0	0	0	0	0	14	0	1	6	7	1	0	0	0	0	0	0	0	6	0	0	0	0	2	0	0	0
+8.10	Jacques-Louis de Beaulieu	0	0	0	0	0	12	28	0	0	0	0	1	2	0	1	0	0	3	1	0	0	0	2	9	0	0	0	0	2	0	0	74	0	10	0	0	2	4	0	0	0	0	0	0	0	0	37	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	16	0	1	2	0	0	0	0	1	0	0	0	0	3	0	0	0	0	2	0	0	0
+8.16	Jacques-Louis de Beaulieu	0	0	1	1	0	10	22	0	0	0	0	4	0	0	1	0	1	1	3	0	1	1	0	7	1	0	1	0	2	0	0	65	0	2	0	0	80	1	0	1	0	0	0	0	0	0	5	0	0	1	145	3	0	0	0	1	0	0	0	0	1	0	14	0	1	1	11	3	0	0	0	0	0	0	0	13	0	0	0	0	1	0	0	0
+8.19	Jacques-Louis de Beaulieu	0	0	1	1	1	28	37	0	0	0	0	0	2	0	4	1	0	9	2	0	2	3	0	15	1	0	0	0	0	0	0	90	0	5	0	0	20	0	0	0	0	0	0	0	0	0	3	0	0	2	17	1	0	0	0	2	0	0	0	0	1	0	17	0	0	0	13	4	0	0	0	0	0	0	0	16	0	0	0	0	2	0	0	0
+8.22	Jacques-Louis de Beaulieu	0	0	0	0	0	23	24	0	0	0	0	1	1	0	0	0	0	3	3	1	0	0	0	29	0	0	1	0	3	0	0	105	0	1	0	0	30	3	0	0	0	0	0	0	0	0	2	0	0	1	22	5	0	0	0	0	0	0	0	0	1	0	14	0	2	2	6	4	0	0	1	0	0	0	0	7	0	0	0	0	1	0	0	0
+8.28	Jacques-Louis de Beaulieu	0	0	0	1	1	7	23	0	0	0	0	1	0	0	1	0	0	1	3	0	1	0	2	10	0	0	0	0	2	0	0	71	0	6	0	0	20	2	0	0	0	0	0	0	0	0	6	0	0	0	18	4	0	0	0	1	0	0	0	0	0	0	5	0	1	0	6	2	0	0	0	0	0	0	0	9	0	0	0	0	1	0	0	0
+8.31	Jacques-Louis de Beaulieu	0	0	0	0	0	8	11	0	0	0	0	0	0	0	1	0	0	1	1	1	1	1	3	13	0	0	0	0	0	0	1	70	0	1	0	0	4	1	0	1	0	0	0	0	0	0	1	0	0	1	21	2	0	0	0	0	0	0	0	0	0	0	7	0	0	2	5	0	0	0	0	0	0	0	0	9	0	0	0	0	2	1	0	0
+8.38	Jacques-Louis de Beaulieu	0	0	0	0	0	7	9	0	0	0	0	2	1	0	0	0	0	2	1	0	0	0	1	6	1	0	0	0	4	0	0	71	0	2	0	0	2	2	0	0	0	0	0	0	0	0	5	0	0	1	50	0	0	0	0	1	0	0	0	0	1	0	4	0	1	2	4	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0
+8.44	Jacques-Louis de Beaulieu	0	0	0	0	0	13	15	0	0	0	0	6	0	0	1	0	0	0	1	0	0	0	0	7	0	0	1	0	8	0	1	96	0	2	0	0	60	2	0	0	0	0	0	0	0	0	4	0	0	0	85	1	0	0	0	1	0	0	0	0	0	0	10	0	0	2	0	1	0	0	0	0	0	0	0	6	0	0	0	0	7	0	0	0
+8.50	Jacques-Louis de Beaulieu	0	0	0	0	0	2	4	0	0	0	0	3	0	0	0	1	0	2	1	0	0	0	0	2	0	0	3	0	2	0	0	17	0	4	0	0	5	1	0	0	0	0	0	0	0	0	10	0	0	0	105	0	0	0	0	0	0	0	0	1	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0
+8.53	Jacques-Louis de Beaulieu	0	0	0	0	0	3	22	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	4	0	0	1	0	3	0	0	62	0	1	1	0	3	5	0	0	0	0	0	0	0	0	20	0	0	0	9	2	0	0	0	0	0	0	0	0	1	0	20	0	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0
+8.58	Jacques-Louis de Beaulieu	0	0	0	0	0	20	30	0	0	0	0	1	1	0	2	0	0	1	4	0	1	1	2	6	0	0	0	0	0	0	1	60	0	6	0	0	70	1	0	0	0	0	0	0	0	0	2	0	0	1	5	0	0	0	0	1	0	0	0	0	0	0	21	0	2	2	11	1	0	0	2	0	0	0	0	11	0	0	0	0	3	0	0	0
+8.64	Jacques-Louis de Beaulieu	0	0	0	3	1	25	37	0	0	1	0	0	0	0	4	0	0	4	1	1	2	0	3	7	1	1	0	0	0	0	0	80	0	12	0	0	50	0	0	0	0	0	0	0	0	0	1	0	1	0	7	1	0	0	0	0	0	0	0	0	4	0	17	0	2	2	5	5	0	0	1	0	0	0	0	11	0	0	0	1	1	0	0	0
+8.70	Jacques-Louis de Beaulieu	0	0	17	0	0	17	12	0	0	0	0	0	1	0	2	0	0	3	4	0	1	0	1	4	1	2	0	0	1	0	1	57	0	7	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	9	3	0	0	0	2	0	0	0	0	2	0	14	0	0	1	5	1	0	0	3	0	0	0	0	14	0	0	0	0	1	0	0	0
+8.74	Jacques-Louis de Beaulieu	0	0	12	0	1	6	18	0	0	0	0	0	0	0	1	1	0	1	0	2	2	0	3	11	0	0	0	0	0	0	0	76	0	3	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	6	1	0	0	0	1	0	0	0	0	1	0	26	0	0	1	8	2	0	0	1	0	2	0	0	12	0	0	0	0	3	0	0	0
+8.78	Jacques-Louis de Beaulieu	0	0	1	1	0	20	10	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	13	0	0	0	0	1	0	2	60	0	2	0	0	2	3	0	0	0	0	0	0	0	1	1	0	0	0	8	4	0	0	0	0	0	0	0	0	1	0	17	0	2	1	8	4	0	0	2	0	0	0	0	8	0	0	0	0	3	0	0	0
+8.81	Jacques-Louis de Beaulieu	0	0	0	0	0	6	21	0	0	0	0	1	1	0	0	0	1	2	1	0	0	0	0	17	0	0	0	0	8	0	1	87	0	2	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	7	2	0	0	0	2	0	0	0	0	1	0	18	0	0	2	4	3	0	0	0	0	0	0	0	8	0	0	0	0	1	1	1	0
+8.87	Jacques-Louis de Beaulieu	0	0	1	0	1	7	14	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	1	17	0	0	0	0	2	0	0	62	0	1	0	0	1	1	0	0	0	1	0	0	0	0	2	0	0	0	3	4	0	0	0	1	0	0	0	0	0	0	11	0	1	1	4	1	0	1	1	0	0	0	0	7	0	0	0	0	1	0	0	0
+8.91	Jacques-Louis de Beaulieu	1	0	9	1	1	17	21	0	0	0	0	1	0	0	2	0	0	6	1	1	2	0	2	20	0	0	0	0	0	0	0	77	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	6	0	0	0	1	1	7	2	0	0	0	0	0	0	0	7	1	0	0	0	2	1	0	0
+8.96	Jacques-Louis de Beaulieu	0	0	0	1	0	17	6	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	2	16	0	1	0	0	1	0	0	54	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	4	0	0	0	1	0	0	0	0	1	0	0	0	1	1	2	2	0	1	0	0	0	0	0	11	0	0	0	0	3	0	2	0
+8.99	Jacques-Louis de Beaulieu	0	0	0	0	0	7	14	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	18	1	0	0	0	1	0	0	50	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	1	0	0	0	0	2	0	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9.02	Jacques-Louis de Beaulieu	0	0	0	0	0	10	21	0	0	0	0	1	0	0	0	0	0	1	5	5	0	1	3	28	1	0	0	0	2	0	0	96	0	3	1	0	0	0	0	2	0	0	0	0	0	0	8	0	0	0	20	10	0	0	0	0	0	0	0	1	3	0	15	0	0	1	5	0	0	2	1	0	0	0	0	11	0	0	0	1	2	1	0	0
+9.09	Jacques-Louis de Beaulieu	0	0	0	0	0	7	25	0	0	0	0	1	0	0	0	0	0	1	5	2	3	0	1	20	0	0	1	0	1	0	2	72	0	3	1	0	4	0	0	0	0	0	0	0	0	0	8	0	0	0	4	7	0	0	0	0	0	0	0	0	2	0	10	0	1	3	2	0	0	1	0	0	0	0	0	6	0	0	0	0	3	0	0	0
+9.21	Jacques-Louis de Beaulieu	0	0	0	1	0	11	53	0	0	0	0	2	0	0	1	0	0	1	3	2	0	0	0	21	0	0	0	0	2	0	1	130	0	2	0	0	120	0	0	0	0	0	0	0	0	0	7	0	0	0	11	2	0	0	0	2	0	0	0	0	0	0	16	0	1	3	6	2	0	0	0	0	0	0	0	10	0	0	0	0	0	1	2	0
+9.27	Jacques-Louis de Beaulieu	0	0	0	0	0	20	20	0	0	0	0	0	1	0	0	0	0	3	4	0	2	0	0	4	0	0	1	0	2	0	1	72	0	2	0	0	10	2	0	0	0	0	0	0	0	0	2	0	0	0	7	1	0	0	0	0	0	0	0	0	2	0	6	0	0	1	5	1	0	0	0	0	0	0	0	13	0	0	0	0	2	0	0	0
+9.30	Jacques-Louis de Beaulieu	0	0	0	0	0	10	36	0	0	0	0	1	1	0	0	0	0	1	1	3	0	0	1	21	1	0	0	0	2	0	1	65	0	2	0	0	20	0	0	0	0	0	0	0	0	0	1	0	0	0	11	3	0	0	0	0	0	0	0	0	1	0	5	0	4	0	2	0	0	0	1	0	0	0	0	13	0	0	0	0	1	0	0	0
+9.35	Jacques-Louis de Beaulieu	0	0	0	1	0	8	22	0	0	0	0	0	0	0	1	0	0	1	2	0	1	0	0	10	0	0	0	0	1	0	0	60	0	0	1	0	10	0	0	0	0	0	0	0	0	0	0	0	0	1	7	1	0	0	0	2	0	0	0	0	1	0	7	0	0	0	4	2	0	0	0	0	0	0	0	10	0	0	0	0	5	0	0	0
+9.41	Jacques-Louis de Beaulieu	1	0	0	0	0	5	40	0	0	0	0	3	0	0	0	0	0	2	0	0	0	0	2	6	0	0	1	0	0	1	0	80	0	1	0	0	25	3	0	0	0	1	0	0	0	0	0	0	0	2	25	0	0	0	0	2	0	0	0	0	0	0	8	0	1	2	5	2	0	0	0	0	0	0	0	5	0	0	0	0	3	0	0	0
+9.46	Jacques-Louis de Beaulieu	0	0	0	0	0	3	41	0	0	0	0	2	2	0	0	0	1	0	1	0	0	0	1	11	0	1	0	0	2	0	1	72	0	1	0	0	300	0	0	0	0	1	0	0	0	0	0	0	0	5	40	1	0	0	0	3	0	0	0	0	1	0	3	0	1	1	1	0	0	0	0	0	0	0	0	3	0	0	0	0	4	0	0	0
+9.50	Jacques-Louis de Beaulieu	0	0	0	0	0	5	43	0	0	0	0	1	0	0	1	0	0	0	2	0	0	0	1	0	2	0	1	0	4	0	0	80	0	0	1	0	450	1	0	0	0	0	0	0	0	0	0	0	0	4	35	4	0	0	0	1	0	0	0	0	0	0	4	0	0	3	1	0	0	0	0	0	0	0	0	4	0	0	0	0	2	0	1	0
+9.55	Jacques-Louis de Beaulieu	0	0	0	0	0	3	31	0	0	0	0	3	0	0	0	0	0	1	2	1	0	0	1	3	1	1	1	0	8	0	0	85	0	3	0	0	300	3	0	0	0	0	0	0	0	0	1	0	0	1	21	1	0	0	0	1	0	0	0	0	1	0	8	0	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	8	0	0	0
+9.60	Jacques-Louis de Beaulieu	0	0	0	0	0	10	16	0	0	0	0	3	0	0	1	0	0	0	1	1	2	0	0	12	1	0	0	0	2	0	1	77	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	11	3	0	0	0	1	0	0	0	0	1	0	5	0	1	1	3	0	0	0	0	0	0	0	0	6	0	0	0	0	3	0	0	0
+9.65	Jacques-Louis de Beaulieu	0	0	0	0	0	10	20	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	27	1	0	0	0	2	0	0	90	0	2	0	0	9	2	0	1	0	0	0	0	0	1	1	0	0	1	29	8	0	0	0	0	0	0	0	0	0	0	14	0	0	2	2	1	0	0	0	0	0	0	0	7	0	0	0	0	4	0	0	0
+9.72	Jacques-Louis de Beaulieu	0	0	0	0	0	18	42	0	0	0	0	2	0	0	0	0	0	1	3	0	0	0	1	23	0	0	0	0	2	0	0	110	0	3	0	0	200	4	0	0	0	0	0	0	0	0	0	0	0	2	8	6	0	0	0	2	0	0	0	0	2	0	30	0	1	0	6	2	0	0	1	0	1	0	0	0	0	0	0	0	4	1	0	0
+9.75	Maurice Reille	0	0	0	1	0	26	33	0	0	0	0	2	0	3	0	0	0	8	3	1	3	0	1	37	1	0	1	0	1	0	1	148	0	9	0	0	120	1	0	0	6	0	0	0	0	0	4	0	0	0	18	2	0	0	0	0	0	0	0	0	5	0	74	0	0	0	7	4	0	0	2	0	0	3	0	21	0	0	0	0	4	0	0	0
+9.80	Maurice Reille	0	0	0	0	1	31	50	0	0	0	0	9	0	0	1	0	0	5	4	3	8	0	2	50	0	0	0	0	2	0	0	120	0	16	0	0	72	0	0	0	3	0	0	0	0	0	2	0	0	0	19	4	0	0	0	0	0	0	0	0	0	0	50	0	0	1	6	0	0	0	0	0	0	11	0	19	0	0	0	0	1	0	2	0
+9.85	Jacques-Louis de Beaulieu	0	0	0	0	0	15	15	1	0	0	0	1	3	0	3	0	0	3	2	1	3	0	1	17	0	1	1	0	0	0	0	76	0	6	0	0	20	0	0	0	0	0	0	0	0	0	1	0	0	2	6	2	0	0	0	1	0	0	0	0	1	0	50	0	2	1	5	0	0	0	0	0	0	0	0	12	0	0	0	0	1	0	0	0
+9.90	Jacques-Louis de Beaulieu	0	0	0	1	1	10	30	0	0	0	0	7	0	1	3	0	1	6	2	1	7	0	0	16	1	0	0	0	0	0	0	66	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	20	1	0	0	0	3	0	0	0	0	6	0	17	0	0	1	2	0	0	0	0	0	1	0	0	14	0	0	0	1	0	0	0	0
+9.95	Jacques-Louis de Beaulieu	0	0	0	0	1	28	36	4	0	0	0	3	0	0	2	0	0	3	2	4	0	0	3	18	1	0	1	0	2	0	0	94	0	3	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	1	10	2	0	0	0	2	0	0	0	0	2	0	18	0	0	0	0	1	0	0	1	0	0	0	0	14	0	0	0	0	1	0	0	0
+10.00	Jacques-Louis de Beaulieu	0	0	0	1	0	6	30	8	0	0	0	3	1	1	1	1	0	2	4	0	2	0	1	11	1	0	1	0	4	0	0	86	0	2	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	2	28	4	0	0	0	0	0	0	0	0	8	0	9	0	0	0	3	1	0	0	0	0	1	0	0	5	0	0	0	0	2	1	0	0
+10.05	Jacques-Louis de Beaulieu	0	0	0	0	0	6	38	0	0	0	0	4	0	1	1	0	0	2	5	1	2	0	1	6	1	0	1	0	1	0	0	90	0	3	1	0	500	3	0	0	0	1	0	0	0	0	0	1	0	3	34	5	0	0	0	1	0	0	0	0	6	0	38	0	0	1	3	0	0	0	0	0	1	0	0	6	0	1	1	0	0	1	0	0
+10.10	Jacques-Louis de Beaulieu	0	0	0	2	1	9	40	3	0	0	0	6	0	0	0	0	0	1	1	3	2	0	1	12	1	0	1	0	1	0	0	87	0	2	1	0	500	0	0	0	0	0	0	0	0	0	0	0	0	10	57	2	0	0	0	1	0	0	0	0	6	0	38	0	0	0	3	1	0	0	0	0	0	0	0	3	0	0	1	0	4	1	0	0
+10.15	Jacques-Louis de Beaulieu	0	0	0	1	0	7	33	0	0	0	0	5	1	0	1	0	0	2	1	5	0	0	1	10	0	0	1	1	3	0	0	102	0	2	0	0	600	0	0	0	0	0	0	0	0	0	0	0	0	4	28	5	0	0	0	2	0	0	0	0	0	0	30	0	2	0	3	0	0	0	0	0	1	0	0	4	0	1	0	0	4	0	0	0
+10.20	Jacques-Louis de Beaulieu	0	0	0	0	0	9	23	0	0	0	0	7	0	1	1	0	0	1	3	0	0	0	1	15	1	0	1	0	2	0	0	67	0	1	0	0	70	0	0	1	0	0	0	0	0	0	0	0	0	1	15	1	0	0	0	1	0	0	0	0	0	0	27	0	0	2	0	1	0	0	0	0	0	0	0	5	0	1	0	0	1	0	0	0
+10.25	Maurice Reille	0	0	0	2	0	8	48	0	1	0	0	10	0	0	0	0	0	2	2	2	2	0	1	23	0	1	0	0	2	0	0	108	0	6	2	0	900	0	0	0	0	0	0	0	0	1	0	0	0	11	53	7	0	0	0	0	0	0	0	0	6	0	36	0	0	3	1	0	0	0	0	0	1	10	0	5	0	0	0	0	2	0	0	0
+10.30	Maurice Reille	0	0	0	2	0	14	58	0	0	0	0	1	0	2	0	0	0	1	3	1	4	0	0	44	0	0	0	0	3	0	0	163	0	0	0	0	999	0	0	0	0	0	0	0	0	0	0	0	0	10	54	5	0	0	0	1	0	0	0	0	6	0	15	0	2	1	1	0	0	0	0	1	0	11	0	6	0	0	1	0	4	0	3	0
+10.35	Maurice Reille	0	0	0	1	0	4	100	0	1	0	0	6	1	1	1	0	0	0	3	5	4	0	1	34	1	1	1	0	3	0	0	135	0	2	1	0	999	3	0	0	0	1	0	0	1	1	0	0	0	20	112	4	0	0	0	3	0	0	0	0	14	0	13	0	0	1	0	2	0	0	0	0	0	6	0	5	0	0	1	0	1	0	3	0
+10.40	Maurice Reille	0	0	0	0	8	5	106	0	0	0	0	3	2	0	0	0	0	0	2	1	1	0	8	11	1	0	0	0	2	0	0	119	0	1	0	0	750	2	0	0	0	0	0	0	0	0	0	0	0	6	36	6	0	0	0	0	0	0	0	0	1	0	7	0	0	3	3	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0
+10.45	Maurice Reille	0	0	0	1	0	6	123	0	1	0	0	1	0	1	0	0	1	0	0	3	2	0	0	13	0	0	1	0	7	0	0	140	0	1	2	0	425	0	0	0	0	1	0	0	0	0	1	0	0	6	45	5	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	1	0	0	0	0	7	1	1	0
+10.50	Maurice Reille	0	0	0	0	0	6	96	0	0	0	0	0	2	0	0	0	1	0	1	2	1	0	0	4	1	1	1	0	4	0	1	151	0	2	0	0	190	1	0	0	0	0	0	0	0	1	0	0	0	5	36	0	0	0	0	0	0	0	0	0	0	0	6	0	0	1	2	0	0	0	0	1	1	1	0	0	0	0	0	0	4	0	1	0
+10.55	Maurice Reille	0	0	0	1	0	0	43	0	1	0	0	6	2	0	0	0	0	2	3	1	1	0	2	30	0	1	0	0	3	0	0	103	0	1	0	0	725	4	1	0	1	1	0	0	0	0	0	0	0	10	45	5	0	0	0	2	0	0	0	0	9	0	13	0	0	0	0	1	1	1	0	0	2	0	0	2	0	0	0	1	5	0	2	0
+10.60	Maurice Reille	0	0	0	1	0	6	61	0	1	0	0	5	1	3	0	0	0	1	1	2	3	0	1	32	0	0	0	0	8	0	0	161	0	6	3	0	825	7	0	1	0	0	0	0	0	0	4	0	0	4	41	6	0	0	0	1	0	0	0	0	6	0	6	0	0	1	2	2	1	1	0	0	0	0	0	0	0	0	0	0	10	0	1	0
+10.65	Maurice Reille	0	0	0	0	4	12	46	0	0	0	0	2	0	0	0	0	0	1	2	2	1	0	1	18	0	1	0	0	2	0	0	120	0	0	3	0	140	4	0	0	2	0	0	0	0	0	5	0	0	0	13	1	0	0	0	0	0	0	0	0	0	0	10	0	1	5	5	2	0	0	0	0	0	0	0	11	0	0	0	0	0	0	2	0
+10.70	Maurice Reille	0	0	0	0	0	16	19	0	0	0	0	0	3	0	6	0	0	0	6	1	2	0	1	48	1	0	2	0	0	0	0	111	0	20	2	0	320	2	0	0	0	0	0	0	0	0	0	0	0	3	51	6	0	0	0	1	0	0	0	0	0	0	20	0	0	0	3	1	0	0	0	0	0	1	0	9	0	0	0	0	0	2	2	0
+10.75	Maurice Reille	0	0	0	0	0	13	35	0	0	0	0	0	1	0	1	0	0	3	4	3	7	0	2	35	1	0	0	0	1	0	0	142	0	13	0	0	280	0	0	0	0	0	0	0	1	0	0	0	0	2	53	8	0	0	0	1	0	0	1	0	8	0	21	0	0	0	3	0	0	0	0	0	0	1	0	7	0	0	0	0	2	0	0	0
+10.76	Jacques-Louis de Beaulieu	0	0	0	0	0	12	40	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	1	12	2	0	0	1	4	0	0	92	0	2	0	0	160	0	0	0	0	0	0	0	0	0	1	0	0	3	16	4	0	0	0	1	0	0	0	0	3	0	11	0	1	8	7	2	0	0	0	0	0	0	0	15	0	0	0	0	4	2	0	0
+10.77	Jacques-Louis de Beaulieu	0	0	0	0	0	7	17	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	13	0	1	1	0	0	0	0	65	0	2	1	0	45	1	0	0	0	0	0	0	0	0	1	0	0	3	11	1	0	0	0	2	0	0	0	0	0	0	4	0	0	0	2	4	0	0	0	0	1	0	0	14	0	0	0	0	3	0	0	0
+10.87	Jacques-Louis de Beaulieu	0	0	0	1	0	18	24	0	0	0	0	0	1	0	2	0	1	4	2	1	3	1	2	6	0	0	0	0	2	0	0	53	0	3	0	0	17	0	0	0	0	0	0	0	0	0	1	0	0	0	12	4	0	0	0	0	0	0	0	0	2	0	14	0	0	2	4	0	0	0	0	0	0	0	0	10	0	0	0	0	3	0	0	0
+10.91	Jacques-Louis de Beaulieu	0	0	0	1	0	15	22	0	0	0	0	0	2	0	1	0	1	1	5	0	0	0	0	22	0	0	1	0	0	0	1	75	0	5	0	0	100	0	0	0	0	0	0	0	0	0	1	0	1	1	13	0	0	0	0	1	0	0	0	0	1	0	7	0	0	2	6	2	0	0	0	0	0	0	0	6	0	0	0	0	3	1	0	0
+10.97	Maurice Reille	0	0	0	0	0	28	75	0	0	0	0	4	3	0	2	0	0	5	4	2	0	0	5	60	1	0	0	0	6	0	1	267	0	3	1	0	999	6	0	1	0	2	0	0	0	0	0	0	0	0	23	7	0	1	0	1	0	0	0	0	0	0	21	0	0	5	34	9	0	0	2	0	0	1	0	24	0	0	0	1	14	0	0	0
+11.01	Jacques-Louis de Beaulieu	0	0	0	0	0	8	22	0	0	0	0	1	0	0	1	0	0	1	2	0	0	0	0	7	3	0	1	0	10	0	0	75	0	2	1	0	350	2	0	0	0	3	0	0	0	0	1	0	0	0	10	3	0	0	0	1	0	0	0	0	0	0	8	0	0	0	1	0	0	0	0	0	0	0	0	8	0	0	0	0	5	1	0	0
+11.04	Jacques-Louis de Beaulieu	0	0	0	0	0	7	50	0	0	0	0	0	0	0	0	0	0	2	1	4	1	0	0	4	0	0	0	0	10	0	0	110	0	4	0	0	300	3	0	0	0	1	0	0	0	0	1	0	0	0	15	0	0	0	0	2	0	0	0	0	2	0	5	0	1	4	2	0	0	0	0	0	0	0	0	9	0	0	0	1	14	0	0	0
+11.11	Jacques-Louis de Beaulieu	0	0	0	0	0	12	36	0	0	0	0	1	0	0	0	0	0	2	6	3	1	0	0	8	0	0	0	0	6	0	0	100	0	1	0	0	48	4	0	0	0	0	0	0	0	0	5	0	0	1	14	11	0	0	0	0	0	0	0	0	6	0	12	0	0	2	5	0	1	1	0	0	0	0	0	3	0	0	1	0	11	0	1	0
+11.16	Jacques-Louis de Beaulieu	0	0	0	0	0	6	45	0	0	0	0	3	0	0	0	0	0	1	2	0	1	1	0	6	0	0	0	0	11	0	0	105	0	2	1	0	500	6	0	0	0	0	0	0	0	0	0	0	0	0	17	5	0	0	0	0	0	0	0	0	0	0	10	0	0	1	6	4	0	0	0	0	0	0	0	3	0	0	0	0	4	0	0	0
+11.21	Maurice Reille	0	0	0	0	0	14	47	0	0	0	0	1	0	0	0	0	0	2	4	0	1	0	2	18	1	0	0	0	8	0	0	186	0	6	1	0	800	12	0	0	1	0	0	0	0	0	0	0	0	2	23	6	0	0	0	0	0	0	0	1	2	0	14	0	1	3	3	10	0	0	1	0	0	0	0	8	0	0	0	0	2	0	0	0
+11.32	Jacques-Louis de Beaulieu	0	0	0	0	0	21	48	0	0	0	0	0	0	0	1	0	0	3	2	0	1	0	0	7	0	1	0	0	1	0	0	90	0	4	0	0	400	21	0	0	0	0	0	0	0	0	1	0	0	1	4	3	0	0	0	0	0	0	0	0	1	0	13	0	2	2	6	4	0	0	1	0	0	0	0	2	0	0	0	0	5	0	0	0
+11.37	Jacques-Louis de Beaulieu	0	0	0	0	0	12	21	0	0	0	0	1	0	0	1	0	0	2	5	1	0	0	0	7	0	0	0	0	0	0	0	78	0	15	0	0	120	16	0	0	0	0	0	0	0	1	1	0	0	0	3	2	0	0	0	1	0	0	0	0	0	0	18	0	0	1	4	4	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0
+11.41	Jacques-Louis de Beaulieu	0	0	0	0	0	26	16	0	0	0	1	0	0	0	2	0	0	1	2	0	0	0	0	10	0	2	0	0	1	0	0	55	0	8	1	0	200	0	0	0	0	0	0	0	0	0	2	0	0	1	7	4	0	0	0	0	0	0	0	0	0	0	37	0	1	1	5	7	0	0	1	0	0	0	0	8	0	0	0	0	1	0	0	0
+11.44	Maurice Reille	0	0	0	0	0	47	15	0	0	0	1	0	0	0	1	0	0	6	3	0	0	0	5	25	0	1	0	0	0	0	0	114	0	39	0	0	452	5	0	0	0	0	0	0	0	0	0	0	0	0	6	4	0	0	0	0	0	0	0	0	0	0	36	0	3	1	10	8	0	0	2	0	0	0	0	9	0	0	0	0	5	0	0	0
+11.49	Jacques-Louis de Beaulieu	0	0	0	0	0	24	10	0	0	0	0	0	1	0	3	0	1	5	3	1	0	0	2	20	0	0	0	0	0	0	0	65	0	22	0	0	170	1	0	0	0	0	0	0	0	0	0	0	0	1	11	5	0	0	0	0	0	0	0	0	0	0	30	0	1	0	3	3	0	0	0	0	1	0	0	7	0	0	0	0	6	0	0	0
+11.54	Jacques-Louis de Beaulieu	0	0	0	1	0	30	22	0	0	1	0	0	0	1	3	0	1	4	6	2	0	0	4	11	0	0	0	0	0	0	0	75	0	18	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	1	0	0	0	0	1	0	31	0	3	2	13	3	0	0	0	0	0	0	0	8	0	0	0	0	3	0	0	0
+11.64	Jacques-Louis de Beaulieu	0	0	0	0	0	47	19	0	0	0	0	0	0	1	2	0	0	6	4	0	1	0	0	11	0	0	0	0	0	0	0	78	0	20	0	0	110	0	0	0	0	0	0	0	0	0	0	0	0	0	6	3	0	0	0	1	0	0	0	0	0	0	18	0	0	3	6	9	0	0	0	0	0	0	0	10	0	0	0	0	1	0	0	0
+11.69	Jacques-Louis de Beaulieu	0	0	0	1	0	31	18	0	1	0	0	0	0	0	2	0	0	5	1	1	3	0	1	11	0	0	0	0	0	0	0	81	0	13	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	6	3	0	0	0	0	0	0	0	0	1	0	10	0	1	1	9	8	0	0	0	0	0	0	0	11	0	0	0	0	3	0	0	0
+11.74	Jacques-Louis de Beaulieu	0	0	0	0	3	60	9	0	0	0	0	2	1	0	1	0	0	6	2	0	5	3	0	16	0	0	1	0	0	0	0	70	0	21	0	0	50	0	0	0	0	1	0	0	0	0	0	0	0	1	14	5	0	0	0	1	0	0	0	0	1	0	11	0	1	2	3	8	0	0	0	0	0	0	0	10	0	0	0	0	5	0	0	0
+11.80	Maurice Reille	0	0	0	0	0	33	3	0	0	0	0	0	1	0	4	0	0	5	1	0	1	0	3	22	0	0	0	0	1	0	0	56	0	11	0	0	106	0	0	0	0	0	0	0	0	0	1	0	0	1	6	4	0	0	0	0	0	0	0	0	0	1	8	0	1	0	5	1	0	0	0	0	1	1	0	10	0	0	0	0	1	0	0	0
+11.82	Jacques-Louis de Beaulieu	0	0	0	0	0	18	8	0	1	1	0	0	1	1	2	0	0	8	4	0	0	0	0	6	0	0	0	0	0	0	0	61	0	50	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	2	21	7	0	0	0	1	0	0	0	0	1	22	0	0	0	1	0	2	0	0	0	0	2	0	0	4	0	0	0	0	0	0	0	0
+11.84	Maurice Reille	0	0	0	1	0	52	16	0	0	1	0	1	1	0	3	0	0	10	1	3	0	3	3	47	0	0	0	0	0	0	0	165	0	21	0	0	130	5	0	0	0	0	0	0	0	0	2	0	0	4	19	10	0	1	0	0	0	0	0	0	0	1	25	0	4	3	10	12	0	0	0	0	2	1	0	16	0	0	0	0	7	0	3	0
+11.85	Maurice Reille	0	0	0	1	0	32	6	0	0	0	0	0	0	0	1	0	0	5	2	1	1	0	1	15	0	0	0	0	0	0	0	63	0	10	0	0	85	2	0	0	0	0	0	0	0	0	0	0	0	0	4	6	0	0	0	0	0	0	0	0	0	0	10	0	2	1	8	3	0	0	1	0	0	0	0	9	0	0	0	0	2	0	0	0
+11.86	Jacques-Louis de Beaulieu	0	0	0	0	2	12	3	0	1	0	0	0	0	1	2	0	0	7	3	0	2	0	1	19	0	0	0	0	0	0	0	55	0	19	0	0	20	0	0	0	0	0	0	0	0	0	0	1	0	3	13	1	0	0	0	0	0	0	0	0	0	10	0	0	1	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0
+11.90	Maurice Reille	0	0	0	0	0	39	5	0	0	0	0	0	0	0	1	0	0	3	0	0	1	0	1	27	0	2	0	0	0	0	0	70	0	10	0	0	100	0	0	0	2	0	1	0	0	0	0	0	0	0	14	3	0	0	0	0	0	0	0	0	0	0	13	0	0	3	6	5	0	0	1	0	1	2	0	17	0	0	0	0	3	0	0	0
+11.92	Jacques-Louis de Beaulieu	1	0	0	0	0	6	6	0	1	0	0	2	0	0	5	0	1	3	1	2	2	0	0	8	1	0	0	0	0	0	0	50	0	42	1	0	40	0	0	0	0	0	0	0	0	0	0	0	0	9	50	3	0	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	2	0
+11.93	Maurice Reille	0	0	0	0	0	16	9	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	1	30	0	1	0	0	0	0	0	38	0	9	0	0	195	2	0	0	0	0	0	0	0	0	0	0	0	6	13	4	0	0	0	0	0	0	0	0	0	0	11	0	1	0	0	4	0	0	0	1	0	0	0	8	0	0	0	0	2	0	0	0
+11.94	Maurice Reille	0	0	0	0	0	23	16	0	0	0	0	0	1	0	1	0	0	2	1	1	0	0	2	14	0	0	0	0	1	0	0	76	0	25	0	0	792	1	0	1	0	0	0	0	0	0	0	0	0	8	37	0	0	0	0	0	0	0	0	0	1	0	18	0	1	0	7	6	0	0	0	0	0	0	0	17	0	0	0	1	2	0	3	0
+11.95	Maurice Reille	0	0	0	0	1	23	21	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	1	46	0	0	2	0	0	0	0	103	0	20	1	0	104	1	0	0	0	0	0	0	0	0	1	0	0	0	17	7	0	0	0	0	0	0	0	0	1	15	0	0	0	3	5	8	0	0	0	0	0	0	0	18	0	0	0	0	8	1	0	0
+11.98	Jacques-Louis de Beaulieu	0	0	0	0	0	5	5	0	0	0	0	0	1	1	4	0	0	2	2	3	2	0	1	9	0	0	0	0	0	0	0	60	0	16	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0	12	46	1	0	0	0	0	0	0	0	0	1	14	0	0	0	0	2	0	0	0	0	0	1	0	0	4	0	0	0	1	0	1	0	0
+12.00	Maurice Reille	0	0	0	0	0	29	19	0	0	0	0	0	0	0	2	0	0	3	3	0	0	0	2	45	0	1	0	0	0	0	0	133	0	5	0	0	825	5	0	0	0	0	0	0	0	0	3	0	0	5	32	3	0	0	0	0	0	0	0	0	2	0	43	0	1	3	6	5	0	2	0	0	0	1	0	9	0	0	0	0	4	0	0	0
+12.02	Jacques-Louis de Beaulieu	0	0	0	1	0	4	13	0	0	0	0	1	1	0	3	0	0	0	6	3	3	0	0	4	0	0	0	0	0	0	0	63	0	15	0	0	120	0	0	0	0	0	0	0	0	0	0	0	1	9	41	10	0	0	0	0	0	0	0	0	3	30	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+12.04	Jacques-Louis de Beaulieu	0	0	0	2	0	7	30	0	0	1	0	3	1	3	0	0	1	1	2	2	5	0	1	1	1	0	0	0	0	0	0	52	0	12	0	0	20	0	0	0	0	0	0	0	0	0	6	0	0	10	33	8	0	0	0	0	0	0	0	0	4	30	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	3	0	0	0
+12.05	Maurice Reille	0	0	0	1	0	24	30	0	0	0	0	2	0	0	0	0	0	4	2	0	10	0	2	30	1	0	0	0	1	0	0	115	0	14	2	0	900	2	0	1	0	0	1	0	0	0	0	0	0	15	65	8	0	1	0	1	0	0	0	0	3	0	46	0	1	3	6	2	0	0	0	1	2	7	0	8	0	0	0	0	4	0	0	0
+12.08	Jacques-Louis de Beaulieu	0	0	0	1	0	6	13	0	0	0	0	2	1	1	1	0	0	2	0	1	4	0	0	16	0	2	0	0	0	0	0	32	0	20	0	0	140	0	0	0	0	0	0	0	0	0	0	1	0	5	50	1	0	0	0	0	0	0	0	0	3	12	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	1	1	0
+12.10	Maurice Reille	0	0	0	0	0	26	27	0	0	0	0	1	1	3	1	0	0	5	6	1	5	0	4	31	0	1	0	0	1	1	0	91	0	17	0	0	360	0	0	0	6	0	0	0	0	0	0	0	0	1	25	7	0	0	0	0	0	0	0	0	0	0	25	0	0	0	9	9	0	0	1	0	0	5	0	13	0	0	0	0	2	0	0	0
+12.12	Jacques-Louis de Beaulieu	0	0	0	0	0	7	9	0	0	0	0	3	0	2	1	0	0	5	2	1	5	0	1	12	1	0	1	0	0	0	0	26	0	11	0	0	41	0	0	0	0	0	0	0	0	1	0	1	0	3	25	4	0	0	0	0	0	0	0	1	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+12.14	Maurice Reille	0	0	0	2	0	34	31	0	0	3	0	0	1	5	4	0	1	4	1	0	8	0	1	22	0	0	1	0	1	0	0	86	0	13	0	0	300	1	0	0	0	0	0	0	0	0	2	0	0	9	35	5	0	0	0	0	0	0	0	0	9	0	22	0	0	1	7	4	0	0	0	0	1	5	0	23	0	0	0	1	4	0	0	0
+12.15	Maurice Reille	0	0	0	1	0	22	20	0	0	0	0	0	0	0	1	0	0	0	1	2	6	0	2	12	0	0	2	0	0	0	0	53	0	4	0	0	220	0	0	0	1	0	0	0	0	0	0	0	1	0	13	3	0	0	0	0	0	0	0	0	3	0	11	0	0	1	3	5	0	1	0	0	0	10	0	13	0	0	1	0	1	0	0	0
+12.18	Jacques-Louis de Beaulieu	3	0	0	2	1	18	18	0	1	1	0	10	0	2	3	0	0	2	2	2	6	0	0	12	1	0	1	0	0	0	0	43	0	19	0	0	80	0	0	0	0	0	0	0	0	1	0	0	0	9	55	4	0	0	0	0	0	0	0	0	3	11	0	0	0	0	1	0	0	0	0	0	0	0	0	4	0	0	0	1	0	0	0	0
+12.20	Maurice Reille	1	0	0	3	0	23	21	0	0	1	0	2	1	0	1	0	0	3	1	0	12	1	1	24	0	0	4	0	1	0	0	51	0	3	0	0	160	1	0	0	0	0	0	0	0	0	1	0	0	5	24	4	0	0	0	0	0	0	0	0	12	0	8	1	1	2	7	2	0	0	1	0	1	22	0	6	2	0	0	2	2	0	4	0
+12.24	Maurice Reille	0	0	0	0	0	21	17	0	0	0	0	5	0	3	1	0	0	3	2	1	3	0	1	21	0	0	1	0	0	0	0	50	0	7	0	0	66	1	0	0	1	0	0	0	0	1	2	0	0	12	24	1	0	0	0	0	0	0	0	0	10	0	12	0	0	0	1	2	0	0	1	0	1	8	0	24	0	0	1	1	3	0	0	0
+12.25	Maurice Reille	0	0	0	1	0	23	26	0	10	0	0	2	0	0	0	0	0	9	2	0	4	0	2	28	0	0	0	0	0	0	0	49	0	9	0	0	180	0	0	0	0	0	0	0	0	0	1	0	1	2	14	1	0	0	0	0	0	0	0	0	3	10	0	0	0	1	1	5	0	0	0	0	1	0	0	19	0	0	0	2	1	0	0	0
+12.28	Jacques-Louis de Beaulieu	1	0	0	1	2	11	11	0	1	0	0	1	0	0	3	0	0	3	0	1	1	0	2	6	1	0	2	0	0	0	8	43	0	0	0	0	24	0	0	0	0	0	0	0	0	0	1	0	0	11	40	3	0	1	0	1	0	0	0	0	2	5	0	0	0	0	0	0	0	0	1	0	0	0	0	7	0	0	0	0	0	0	0	0
+12.30	Maurice Reille	0	0	0	2	0	11	23	0	0	0	0	1	1	0	0	0	0	3	1	1	1	0	2	33	0	0	1	0	0	0	0	60	0	10	0	0	123	1	0	0	4	0	0	0	0	2	4	0	0	3	22	3	0	0	0	0	0	0	0	0	1	0	28	0	0	2	7	5	0	0	1	0	1	3	0	25	0	0	0	0	4	0	0	0
+12.34	Maurice Reille	0	0	0	1	0	34	31	0	0	1	0	5	2	1	2	0	0	6	1	0	8	0	0	37	0	1	1	0	0	0	1	99	0	15	0	0	910	2	0	0	0	0	0	0	0	0	4	0	0	2	25	3	0	0	0	1	0	0	0	0	1	0	21	0	0	2	6	8	1	0	1	0	0	6	0	39	0	0	0	0	3	0	2	0
+12.35	Maurice Reille	0	0	1	5	0	18	39	0	0	0	0	2	1	4	0	0	1	1	1	0	7	0	0	37	0	0	1	0	2	0	0	79	0	8	0	0	450	2	1	1	0	0	0	0	0	0	6	0	5	2	9	5	0	0	0	0	0	0	0	0	10	15	0	0	0	1	5	4	0	0	0	0	0	8	0	15	1	0	0	0	2	0	0	0
+12.36	Maurice Reille	0	0	0	1	0	6	36	0	0	1	0	17	1	8	1	0	0	1	2	1	10	0	0	23	1	0	9	0	0	1	0	86	0	10	0	0	190	2	0	0	0	0	0	0	1	1	2	0	14	6	36	2	0	0	0	1	0	0	0	0	6	7	0	0	0	1	2	3	0	0	0	0	0	14	0	6	0	0	0	0	2	0	3	0
+12.38	Jacques-Louis de Beaulieu	1	0	0	2	2	3	18	0	0	1	0	14	0	2	1	0	0	2	1	0	3	0	1	13	0	0	6	1	0	0	0	19	0	3	0	0	13	0	0	0	0	0	0	0	0	0	0	0	12	22	60	0	0	0	0	2	0	0	0	0	5	9	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0
+12.42	Maurice Reille	0	0	0	0	0	6	15	0	1	0	0	8	1	0	5	0	1	4	11	0	3	0	0	40	1	0	0	0	0	0	0	48	0	12	0	0	92	0	0	0	0	0	0	0	0	0	0	0	1	9	55	4	0	0	0	3	0	0	0	0	2	0	22	0	2	0	0	0	0	0	0	0	1	7	0	12	0	0	0	0	0	2	3	0
+12.43	Jacques-Louis de Beaulieu	0	0	0	0	1	1	11	0	0	1	0	4	0	0	1	0	0	1	1	2	1	0	1	19	0	0	2	0	2	0	0	33	0	8	0	0	26	1	0	0	0	0	0	0	0	0	0	0	0	3	30	1	0	0	0	2	0	0	0	0	5	2	0	0	1	1	1	0	0	0	0	0	1	0	0	5	0	0	0	1	0	0	0	0
+12.44	Maurice Reille	0	0	0	2	0	24	48	0	0	1	0	4	0	0	0	0	0	3	3	0	2	0	0	28	0	0	4	0	2	0	1	110	0	9	1	0	250	1	0	0	1	0	0	0	0	0	0	0	0	11	46	2	0	1	0	0	0	0	0	0	5	0	0	0	0	0	7	3	0	0	0	0	1	10	0	30	0	0	0	0	5	2	2	0
+12.46	Jacques-Louis de Beaulieu	0	0	0	1	0	3	14	0	0	0	0	9	0	0	0	0	0	1	0	0	4	0	0	13	0	0	0	0	0	0	0	40	0	8	0	0	80	0	0	0	0	0	0	0	0	0	0	0	1	8	40	1	0	0	0	0	0	0	0	0	7	0	0	0	0	0	1	1	0	0	0	0	1	0	0	2	1	0	0	1	1	0	0	0
+12.48	Maurice Reille	0	0	0	4	0	4	20	0	0	2	0	11	0	1	4	0	0	1	1	1	3	0	0	20	0	0	2	1	0	0	1	57	0	0	0	0	69	2	0	0	0	0	0	0	0	0	0	0	0	5	43	1	0	0	0	3	0	0	0	0	2	8	0	0	0	3	0	0	0	0	0	0	5	15	0	8	0	0	0	0	3	2	3	0
+12.49	Maurice Reille	0	0	0	4	0	13	42	0	0	1	0	16	0	1	1	0	1	2	2	1	4	1	0	36	1	3	5	0	1	0	0	103	0	7	0	0	107	1	0	0	0	0	0	0	0	0	0	0	0	4	20	4	0	0	0	2	0	0	0	0	10	0	18	0	0	1	4	1	0	0	0	0	1	17	0	17	1	0	0	0	3	1	3	0
+12.50	Maurice Reille	0	0	0	2	0	16	50	0	0	1	0	5	0	0	0	0	0	0	1	0	10	0	2	34	0	0	1	0	0	0	0	73	0	1	1	0	56	0	0	0	0	0	0	0	0	0	0	0	0	3	25	4	0	0	0	0	0	0	0	0	11	18	0	0	0	1	2	1	0	0	0	0	0	0	0	13	0	0	0	0	3	1	1	0
+12.53	Jacques-Louis de Beaulieu	0	0	0	2	0	5	15	0	0	0	0	15	0	1	2	0	1	2	1	1	7	0	0	10	2	0	1	0	0	0	1	58	0	0	1	0	31	0	0	0	0	0	0	0	0	0	0	2	0	16	46	4	0	0	0	1	0	0	0	0	3	3	0	0	0	0	0	3	0	0	1	0	1	0	0	1	0	1	0	1	0	0	1	0
+12.54	Maurice Reille	0	0	0	1	0	20	23	0	1	8	1	17	1	1	2	0	0	1	3	0	2	0	2	45	0	0	6	0	1	0	0	108	0	0	0	0	112	0	0	0	0	0	0	0	0	0	0	0	1	1	19	0	0	1	0	0	0	0	0	0	12	1	1	0	0	3	6	2	0	0	1	0	0	7	0	16	0	0	0	1	4	0	1	0
+12.55	Maurice Reille	0	0	1	2	0	19	32	0	0	0	0	16	0	2	2	0	0	6	3	0	6	0	0	34	0	0	0	0	1	0	0	97	0	0	0	0	135	2	0	0	1	0	0	0	0	1	0	0	0	2	10	1	0	0	1	2	0	0	0	1	2	3	0	0	0	2	9	3	0	0	0	0	1	5	0	17	0	0	0	0	2	0	0	0
+12.58	Maurice Reille	0	0	0	4	0	4	32	0	0	2	0	23	0	14	1	0	1	0	1	1	13	0	1	23	1	0	2	0	0	0	0	71	0	1	1	0	145	0	0	0	0	0	0	0	0	0	0	0	1	18	76	1	0	0	0	0	0	0	0	0	20	4	0	0	0	0	0	0	0	0	0	0	1	4	0	6	2	0	0	0	2	1	1	0
+12.59	Jacques-Louis de Beaulieu	0	0	0	3	0	2	40	0	0	0	0	11	0	12	0	0	0	1	1	2	15	0	0	11	1	0	0	2	0	0	0	71	0	1	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	29	60	1	0	0	0	2	0	0	0	0	27	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	1	0	0	1	1	1	0	0
+12.62	Maurice Reille	0	0	0	4	0	18	30	0	0	1	0	17	1	1	0	0	2	2	0	0	0	0	0	14	0	1	0	0	0	0	5	96	0	0	0	0	110	0	0	0	0	0	0	0	1	0	0	0	0	2	40	3	0	0	0	0	0	0	0	0	2	5	0	0	0	1	4	0	0	0	0	0	0	9	0	11	0	0	0	0	4	0	2	0
+12.64	Maurice Reille	0	0	0	4	0	27	36	0	0	3	0	7	0	0	0	0	1	2	2	1	3	0	1	17	0	1	0	0	0	0	0	106	0	2	0	0	150	1	0	0	0	0	0	0	0	1	0	0	0	2	15	1	0	0	0	2	0	0	0	0	0	2	0	1	0	2	5	1	0	0	0	0	0	12	0	10	0	0	0	0	3	0	4	0
+12.65	Maurice Reille	0	0	0	0	0	26	42	0	0	0	0	5	0	0	1	0	0	0	2	0	1	0	0	17	0	0	0	0	0	0	0	81	0	1	0	0	133	2	0	0	0	0	0	0	0	0	1	0	1	0	11	1	0	0	0	2	0	0	0	0	0	0	1	0	0	3	6	3	0	0	0	5	0	5	0	12	0	0	0	0	9	0	0	0
+12.68	Maurice Reille	0	0	0	1	0	29	48	0	1	5	0	18	3	0	2	0	1	2	0	3	1	0	1	14	0	1	0	0	1	0	1	193	0	0	0	0	85	0	0	0	0	0	0	0	0	1	0	0	0	3	49	1	0	0	0	3	0	0	0	0	2	2	0	0	0	0	4	3	1	1	0	0	1	16	0	6	0	0	0	0	4	0	3	0
+12.70	Maurice Reille	0	0	0	2	0	4	47	0	0	1	0	4	1	0	0	0	0	0	2	0	3	0	0	4	0	0	0	0	1	0	0	82	0	0	1	0	225	1	0	0	0	0	0	0	0	0	0	0	0	7	84	1	0	0	0	0	0	0	0	0	2	0	1	0	1	0	2	0	0	0	0	0	0	2	0	2	0	0	1	0	2	0	2	0
+12.72	Maurice Reille	0	0	0	1	0	3	110	0	0	1	0	2	0	0	0	0	1	0	0	1	6	0	0	1	0	0	0	0	2	0	0	66	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	4	79	1	0	0	0	0	0	0	0	0	4	0	0	0	1	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0
+12.73	Jacques-Louis de Beaulieu	0	0	0	2	0	2	78	0	0	0	0	2	0	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	2	0	0	49	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	16	73	2	0	0	0	1	0	0	0	0	5	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0
+12.74	Maurice Reille	0	0	0	0	0	1	99	0	0	0	0	5	0	2	0	0	1	1	1	1	2	0	0	10	1	0	0	0	3	0	0	53	0	0	0	0	140	1	0	0	0	0	0	0	0	0	0	0	0	5	54	0	0	0	0	0	0	0	0	0	3	1	0	2	0	2	4	2	0	0	0	0	0	5	0	1	0	0	0	0	4	0	6	0
+12.75	Maurice Reille	0	0	0	7	0	6	122	0	0	1	0	4	0	0	0	0	0	0	2	1	2	0	0	10	0	0	0	0	0	0	0	85	0	0	0	0	170	4	0	0	0	0	0	0	0	0	0	0	0	6	90	0	0	0	0	1	0	0	0	0	0	0	0	0	2	4	2	1	0	0	0	0	0	0	0	2	0	0	0	0	4	0	2	0
+12.76	Jacques-Louis de Beaulieu	2	0	0	2	0	2	20	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	13	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	60	125	1	0	0	0	0	0	0	0	0	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12.78	Jacques-Louis de Beaulieu	2	0	0	1	0	1	53	0	0	1	0	2	0	1	1	0	0	0	0	0	3	0	0	0	0	0	0	1	1	0	0	27	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	41	95	0	0	0	0	0	0	0	0	0	7	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+12.80	Jacques-Louis de Beaulieu	2	0	0	5	0	3	74	0	0	0	0	2	0	3	0	0	0	0	1	2	4	0	0	0	0	0	3	3	2	1	0	20	0	0	0	0	8	0	0	0	0	0	0	0	0	1	0	0	0	32	111	0	0	0	0	0	0	0	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	3	3	0	0	0
+12.82	Jacques-Louis de Beaulieu	0	0	0	3	0	1	55	0	0	1	0	2	0	4	0	0	0	0	0	0	2	0	0	3	0	0	0	3	0	0	0	24	0	1	0	0	16	0	0	1	0	0	0	0	0	0	0	0	0	26	63	0	0	0	0	0	0	0	0	0	14	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	1	1	0	0	0
+12.84	Jacques-Louis de Beaulieu	0	1	0	8	0	2	44	0	0	0	0	1	0	8	0	0	0	0	0	0	8	0	0	3	1	0	0	2	1	1	0	19	0	0	0	0	120	0	0	0	0	0	0	0	1	1	0	0	0	67	151	0	0	0	0	0	0	1	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	2	0	0	0	0
+12.85	Jacques-Louis de Beaulieu	1	0	0	2	0	1	25	0	0	2	0	0	0	11	0	0	0	0	0	1	6	0	0	1	0	0	0	0	1	0	0	6	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	100	68	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+12.86	Jacques-Louis de Beaulieu	5	0	0	10	0	1	28	0	0	0	0	1	0	8	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	45	81	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	4	0	0	0	0
+12.90	Jacques-Louis de Beaulieu	0	0	0	7	0	1	26	0	0	0	0	0	0	25	0	0	0	0	0	0	13	0	0	0	0	0	1	1	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	65	76	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+12.92	Jacques-Louis de Beaulieu	0	0	0	9	0	0	33	0	1	0	0	1	0	47	0	0	0	0	0	1	26	0	0	0	0	0	0	0	0	1	0	4	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	32	42	1	0	0	0	0	0	0	0	0	50	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	6	0	0	0	0
+12.94	Maurice Reille	0	1	0	17	0	0	31	0	0	2	0	0	0	47	1	0	0	0	0	0	65	0	0	2	0	0	0	0	1	2	0	10	0	0	0	0	60	0	0	0	0	0	1	0	0	2	0	0	1	28	22	1	0	0	0	0	0	0	0	0	96	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	2	0	1	1	0	3	0
+12.95	Jacques-Louis de Beaulieu	0	1	0	12	0	1	17	0	0	1	0	0	0	40	0	0	0	0	0	0	34	0	0	0	1	0	0	0	0	3	0	5	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	4	0	9	17	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0
+13.00	Jacques-Louis de Beaulieu	0	0	0	5	0	5	41	0	0	0	0	0	0	30	0	0	0	1	0	0	67	0	0	0	0	0	0	0	1	1	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	12	21	0	0	0	0	0	0	0	0	1	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0
+13.05	Jacques-Louis de Beaulieu	0	0	0	11	0	0	32	0	0	0	0	0	0	40	0	0	0	0	0	0	60	0	0	0	0	0	0	1	2	2	0	7	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	6	23	24	0	0	0	0	0	0	0	0	0	112	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0
+13.10	Jacques-Louis de Beaulieu	0	0	0	6	0	1	41	0	0	0	0	0	0	11	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	3	0	3	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	10	10	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	3	2	0	0	0
+13.14	Maurice Reille	0	2	0	12	0	4	38	0	0	1	0	0	0	22	0	0	0	0	0	0	97	0	0	0	0	0	0	0	0	5	0	8	0	0	0	0	140	0	0	1	0	0	0	0	0	1	0	1	0	33	37	1	0	0	0	0	0	0	0	0	134	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	6	1	0	0	0
+13.15	Jacques-Louis de Beaulieu	0	1	0	11	0	1	45	0	0	0	0	0	0	13	0	0	0	0	1	0	102	0	0	0	0	0	0	0	2	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	11	11	0	0	0	0	0	0	0	0	0	110	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0
+13.20	Jacques-Louis de Beaulieu	0	0	0	5	0	4	35	0	0	0	0	0	0	4	0	0	0	0	0	0	81	0	1	0	0	0	0	0	1	4	0	7	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	1	5	8	0	0	0	0	0	0	0	0	0	125	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	1	0	0	4	1	0	0	0
+13.24	Maurice Reille	0	0	0	4	0	2	62	0	0	1	0	1	4	0	0	0	0	0	1	0	61	0	0	1	0	0	0	0	1	1	0	19	0	0	0	0	174	0	0	0	0	0	0	0	0	1	0	2	0	5	22	1	0	0	0	0	0	0	0	0	75	1	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	4	1	0	1	0
+13.28	Maurice Reille	0	0	0	0	0	5	73	0	0	0	0	0	0	0	0	0	1	0	0	2	8	0	0	0	0	0	0	0	4	3	0	35	0	0	0	0	200	4	0	0	0	0	0	0	0	1	0	1	0	3	24	0	0	0	0	1	0	0	0	0	19	0	0	0	1	0	1	1	1	1	0	0	0	0	0	0	1	1	0	2	4	0	3	0
+13.30	Jacques-Louis de Beaulieu	0	0	0	1	0	20	101	0	0	0	0	0	0	0	0	0	2	0	2	34	0	0	0	2	0	0	0	0	1	1	0	56	0	1	0	0	17	4	0	0	0	0	0	0	0	0	0	0	0	1	14	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	6	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0
+13.34	Maurice Reille	0	0	0	1	0	33	114	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	8	0	1	1	0	1	0	0	61	0	0	1	0	600	38	0	0	0	0	0	0	0	0	0	0	0	1	13	4	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	0	0	0	0	0	0	0	0	2	0	0	1	0	2	0	0	0
+13.35	Jacques-Louis de Beaulieu	0	0	0	0	0	21	80	0	0	0	0	0	0	0	0	0	1	4	2	0	0	0	0	3	1	0	0	0	4	0	0	57	0	1	0	0	150	14	0	0	0	0	0	0	0	0	0	0	0	0	11	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+13.40	Jacques-Louis de Beaulieu	1	0	0	2	0	33	41	0	0	0	0	2	0	2	0	0	0	2	0	2	9	0	0	9	0	1	0	0	1	0	0	83	0	3	0	0	13	9	0	0	0	0	0	0	0	0	0	0	1	2	7	0	0	0	0	0	0	0	0	0	4	0	1	0	1	1	4	0	0	0	0	0	0	0	0	3	0	0	0	0	5	0	0	0
+13.44	Maurice Reille	1	0	0	0	0	31	34	0	0	2	0	5	1	1	1	0	0	7	6	2	3	0	1	0	8	0	0	0	1	0	0	55	0	1	0	0	210	3	0	0	1	0	1	0	0	0	0	0	0	6	17	1	0	0	0	0	0	0	0	0	0	0	0	0	1	4	6	0	0	0	1	0	0	14	0	3	0	0	0	1	2	0	3	0
+13.45	Jacques-Louis de Beaulieu	0	0	0	2	0	50	41	0	0	2	0	4	1	0	0	0	0	5	4	4	1	0	0	2	1	0	0	0	0	1	2	78	0	2	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	3	11	3	0	0	0	0	0	0	0	0	4	0	0	0	2	0	9	0	0	0	0	0	0	0	0	3	0	0	1	0	4	0	0	0
+13.50	Jacques-Louis de Beaulieu	1	1	0	0	0	3	71	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	3	0	0	23	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	30	110	0	0	0	0	0	0	0	0	0	6	0	2	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	1	2	0	0	0
+13.54	Maurice Reille	0	0	0	2	0	3	43	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	1	0	23	0	0	0	0	92	0	0	0	0	0	0	0	0	0	0	0	0	31	122	0	0	0	0	0	0	0	0	0	8	0	0	0	1	2	0	0	0	0	0	0	0	2	0	0	0	0	0	1	1	0	4	0
+13.55	Maurice Reille	2	2	0	2	0	5	60	0	0	4	0	2	0	1	0	1	0	1	0	1	2	0	0	2	0	0	2	1	3	1	0	21	0	1	0	0	107	0	0	0	0	0	0	0	0	0	1	3	0	46	179	1	0	0	0	0	0	0	0	0	6	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0
+13.60	Jacques-Louis de Beaulieu	2	0	0	2	0	5	42	0	0	0	0	6	1	0	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	0	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	130	105	1	0	0	0	0	0	0	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1
+13.64	Maurice Reille	0	0	0	3	0	2	44	0	0	1	0	4	0	0	0	0	0	0	1	3	1	0	0	2	0	0	1	1	1	0	0	14	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	49	161	1	0	0	0	0	0	0	0	0	10	0	0	1	1	1	0	1	1	1	0	0	0	1	0	0	0	1	0	0	0	0	6	0
+13.65	Jacques-Louis de Beaulieu	0	0	0	2	0	0	26	0	0	1	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	142	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+13.70	Jacques-Louis de Beaulieu	0	0	0	2	0	9	40	0	0	3	0	8	0	1	0	0	0	0	1	1	4	0	0	1	0	0	1	1	2	0	0	24	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	2	32	170	0	0	0	0	0	0	0	0	0	3	0	1	0	0	2	3	1	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0
+13.74	Maurice Reille	0	0	0	3	0	2	26	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	23	0	0	0	0	50	2	0	0	0	0	0	0	0	0	0	0	0	39	160	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	1	0	0	0	0	1	0	8	0	0	0	0	0	0	3	0	10	0
+13.75	Jacques-Louis de Beaulieu	0	0	0	3	0	3	31	0	0	0	0	0	0	0	0	0	1	1	0	0	2	0	0	0	0	0	0	1	0	0	0	13	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	37	170	2	0	0	0	0	0	0	0	0	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	0
+13.80	Jacques-Louis de Beaulieu	0	0	0	3	0	6	35	0	0	0	0	3	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	17	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	40	160	0	0	0	0	0	0	0	0	0	1	0	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+13.84	Maurice Reille	0	0	0	1	0	3	46	0	0	1	0	3	0	1	0	0	1	1	1	0	0	0	1	2	0	1	0	1	1	0	0	27	0	0	0	0	128	0	0	0	0	0	0	0	0	0	0	0	0	45	182	0	0	0	0	0	0	1	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	6	0	1	0	0	0	0	5	0	3	0
+13.85	Jacques-Louis de Beaulieu	0	0	0	3	0	0	24	0	0	0	0	2	0	1	0	0	0	1	0	0	2	0	0	1	0	0	0	1	2	0	0	17	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	61	151	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+13.90	Jacques-Louis de Beaulieu	2	0	0	3	0	1	52	0	0	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	2	0	0	24	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	1	90	140	1	0	0	0	0	0	0	0	0	2	0	1	2	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+14.00	Jacques-Louis de Beaulieu	2	0	0	5	0	1	90	0	0	1	0	3	0	4	0	0	0	0	0	0	7	0	0	3	0	0	0	4	2	2	0	30	0	0	0	0	18	0	0	0	0	0	0	0	0	1	0	0	0	66	135	0	0	0	0	0	0	0	0	0	22	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	4	2	0	0	0
+14.04	Maurice Reille	2	0	0	5	0	0	44	0	0	0	0	1	0	8	1	0	0	0	0	0	4	0	0	2	0	0	0	4	1	2	0	9	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	81	190	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	1	0	4	0	0	0	2	0	1	0	0	0	0
+14.05	Jacques-Louis de Beaulieu	0	0	0	5	0	1	60	0	0	0	0	1	0	10	0	0	0	0	0	0	3	0	0	1	0	0	0	1	1	1	0	10	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	45	120	1	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+14.10	Jacques-Louis de Beaulieu	4	0	0	11	0	0	65	0	0	0	0	2	0	8	0	0	0	0	1	0	9	0	0	3	0	0	1	0	0	3	0	18	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	1	34	90	0	0	0	0	0	0	0	0	0	26	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+14.14	Maurice Reille	0	0	0	11	0	1	55	0	0	1	0	1	0	16	0	0	0	1	0	0	10	0	0	1	0	0	0	0	0	1	0	9	0	0	0	0	12	1	0	0	0	0	0	0	0	3	0	0	0	70	166	0	0	0	0	0	0	0	0	0	34	1	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	1	0	1	1	0	1	0
+14.15	Jacques-Louis de Beaulieu	1	0	0	14	0	0	87	0	0	2	0	1	0	16	0	0	0	0	0	0	13	0	0	0	0	0	0	2	0	5	0	21	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	57	91	1	0	0	0	0	0	0	0	0	27	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0
+14.20	Jacques-Louis de Beaulieu	0	0	0	5	0	0	40	0	0	1	0	0	0	38	0	0	0	0	1	0	18	0	0	1	0	0	0	0	1	0	0	13	0	0	0	0	15	1	0	0	0	0	0	0	0	1	0	0	0	75	45	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+14.24	Maurice Reille	3	0	0	3	0	0	33	0	0	0	0	1	0	48	0	0	0	0	0	0	19	0	0	1	0	0	1	0	1	4	0	12	0	0	0	0	30	0	0	0	0	0	1	0	0	0	0	0	0	69	90	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	1	0	4	0	0	1	0
+14.25	Jacques-Louis de Beaulieu	2	0	0	0	0	2	55	0	0	2	0	1	0	70	0	0	0	0	0	0	27	0	0	1	0	0	1	0	0	5	0	6	0	0	0	0	3	0	0	0	0	0	0	0	0	2	0	0	0	83	41	0	0	0	0	0	0	0	0	0	58	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	7	0	0	0	0
+14.30	Jacques-Louis de Beaulieu	1	0	0	8	0	0	47	0	0	1	0	1	0	75	0	0	0	0	1	0	26	0	0	0	0	0	0	1	1	5	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	35	35	0	0	0	0	0	0	0	0	0	53	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+14.34	Maurice Reille	2	0	0	5	0	0	39	0	0	2	0	1	1	69	0	0	0	0	0	0	36	0	0	2	0	0	1	1	0	2	0	17	0	0	0	0	22	0	0	0	0	0	0	0	0	1	0	0	0	82	30	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	2	11	0	6	0	0	0	0
+14.36	Jacques-Louis de Beaulieu	1	0	0	2	0	0	15	0	0	2	0	0	0	60	0	0	0	0	0	0	16	0	0	0	0	0	1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	20	1	0	0	0	0	0	0	0	0	35	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	7	0	1	0	0
+14.44	Jacques-Louis de Beaulieu	0	1	0	2	0	1	9	0	0	0	0	0	0	73	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	10	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+14.45	Jacques-Louis de Beaulieu	2	0	0	0	0	0	11	0	0	0	0	1	0	70	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	43	15	1	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	9	0	0	0	0
+14.47	Jacques-Louis de Beaulieu	0	1	0	1	0	1	17	0	0	1	1	1	0	77	0	0	0	0	0	0	60	0	0	1	0	0	0	0	1	10	0	9	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	58	24	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+14.50	Jacques-Louis de Beaulieu	1	0	0	3	0	3	20	0	0	0	0	1	0	50	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	24	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0
+14.54	Maurice Reille	1	0	0	1	0	2	50	0	0	0	0	0	0	8	0	0	0	0	0	0	84	0	0	2	0	1	0	0	0	6	0	8	0	0	0	0	90	1	0	0	0	0	0	0	0	0	0	0	0	28	89	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	1	0	0	0	0	0	5	0	1	3	0	0	0	0	0	0	0
+14.55	Jacques-Louis de Beaulieu	0	0	0	1	0	0	32	0	0	0	0	0	0	2	0	0	0	0	0	0	55	0	0	0	0	0	0	0	1	10	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	30	30	1	0	0	0	0	0	0	0	0	50	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	7	0	0	0	0
+14.56	Jacques-Louis de Beaulieu	1	0	0	1	0	1	16	0	0	0	0	0	0	4	0	0	0	0	0	0	70	0	0	0	0	0	0	0	1	1	0	6	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	24	35	0	0	0	0	0	0	0	0	0	42	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0
+14.60	Jacques-Louis de Beaulieu	2	1	0	5	0	2	22	0	0	1	0	0	0	0	0	0	0	0	1	0	18	0	0	1	0	0	0	0	0	1	0	5	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	27	100	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	0	0	1	2	0	0	0
+14.64	Maurice Reille	0	0	0	1	0	4	67	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	6	0	0	0	0	0	0	0	7	0	0	0	0	205	7	0	0	0	0	0	0	0	0	0	0	0	27	240	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	0	0	0
+14.65	Jacques-Louis de Beaulieu	0	0	0	0	0	3	65	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	10	0	0	1	0	70	0	0	0	0	1	0	0	0	0	0	0	0	12	180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0
+14.70	Jacques-Louis de Beaulieu	0	0	0	1	0	9	33	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	10	0	0	0	0	20	1	0	0	0	0	0	0	0	0	0	0	0	1	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+14.74	Maurice Reille	0	2	0	12	0	2	95	0	0	0	0	0	0	13	0	0	0	0	1	2	44	0	0	2	0	0	0	0	2	1	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	65	0	0	0	0	0	0	0	0	0	44	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	0	5	2	0	1	0
+14.75	Jacques-Louis de Beaulieu	6	0	0	10	0	3	85	0	0	0	0	0	0	8	0	0	0	0	0	0	48	0	0	1	0	0	0	0	0	0	0	6	0	0	0	0	8	1	0	0	0	0	0	0	0	1	0	0	1	23	40	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0
+14.84	Maurice Reille	6	1	0	5	0	1	22	0	0	0	0	0	0	5	0	0	0	0	0	0	42	0	0	1	0	0	0	0	2	2	0	5	0	0	1	0	150	0	0	0	0	0	0	0	0	0	0	0	0	31	58	0	0	0	0	0	0	1	0	0	34	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	1	0
+14.85	Jacques-Louis de Beaulieu	8	1	0	3	0	1	35	0	0	0	0	0	0	4	0	0	0	0	0	0	46	0	0	0	0	0	1	0	0	6	0	11	0	0	0	0	4	0	0	0	0	0	0	1	0	0	0	0	0	23	70	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0
+14.90	Jacques-Louis de Beaulieu	4	0	0	3	0	2	68	0	0	0	0	0	0	0	0	0	0	0	1	0	15	0	0	2	0	0	0	0	1	2	0	9	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	21	97	0	0	0	0	0	0	0	0	0	47	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	4	1	0	0	0
+14.94	Maurice Reille	2	0	0	2	0	1	79	0	0	1	0	2	0	1	1	0	0	0	0	0	8	0	1	4	0	0	0	0	1	2	0	4	0	0	0	0	140	1	0	0	0	0	0	0	1	0	0	0	0	24	116	0	0	0	0	0	0	1	0	0	27	0	0	0	0	1	0	1	0	0	0	1	0	2	0	0	0	0	0	4	1	0	2	0
+14.95	Maurice Reille	3	1	0	3	0	0	67	0	0	0	0	0	0	3	1	0	0	0	0	0	6	0	0	1	0	0	0	0	1	7	0	10	0	0	0	0	4	0	0	0	0	0	0	0	0	2	0	0	0	16	134	0	0	0	0	0	0	0	0	1	32	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	8	2	0	0	0
+14.98	Maurice Reille	2	1	0	2	0	1	31	0	0	0	0	2	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	5	0	0	5	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	64	120	0	0	0	0	0	0	0	0	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	0
+15.00	Jacques-Louis de Beaulieu	2	1	0	1	0	3	80	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	6	0	10	0	0	0	0	50	3	0	0	0	0	0	0	1	0	0	0	0	9	120	0	0	0	0	0	0	0	0	0	8	0	1	0	0	0	2	0	1	1	0	0	0	0	0	1	0	0	0	3	3	0	0	0
+15.04	Maurice Reille	6	0	0	2	0	5	96	0	0	1	0	0	0	0	0	0	0	2	2	0	0	0	0	5	0	1	0	0	0	0	0	34	0	0	1	0	155	6	0	0	0	0	0	0	0	4	0	0	0	22	191	0	0	0	0	0	0	0	0	0	4	0	0	0	1	1	3	1	1	1	0	0	0	1	0	0	0	0	0	4	0	0	1	0
+15.05	Jacques-Louis de Beaulieu	10	0	1	6	0	3	100	0	0	0	0	0	0	4	0	0	0	1	0	0	2	0	0	3	0	0	1	0	1	2	0	26	1	0	0	0	12	2	0	0	0	0	0	0	0	0	0	0	0	13	92	0	0	0	0	0	0	0	0	0	9	0	0	0	0	1	1	2	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0
+15.10	Jacques-Louis de Beaulieu	11	1	0	3	0	6	110	0	0	0	0	3	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	3	1	0	47	0	0	0	0	50	4	0	0	0	0	0	0	0	0	0	0	0	18	100	0	0	0	0	0	0	0	0	0	2	0	0	1	0	4	0	4	1	0	1	0	0	0	0	1	0	0	0	1	3	0	0	0
+15.14	Maurice Reille	17	0	0	6	0	5	117	0	0	0	0	2	0	0	0	0	0	1	1	1	0	0	1	14	0	0	0	0	2	1	0	31	0	0	0	0	210	14	0	0	0	0	0	0	0	1	0	0	0	29	76	0	0	1	0	0	0	1	0	0	1	0	0	1	1	2	3	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0
+15.15	Jacques-Louis de Beaulieu	19	0	0	8	0	5	116	0	0	0	0	1	0	0	1	0	0	0	2	0	0	0	0	2	0	0	1	0	0	0	0	28	0	1	0	0	11	9	0	0	0	0	0	0	0	0	0	0	1	38	62	0	0	0	0	0	0	0	0	0	3	0	0	0	2	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+15.20	Jacques-Louis de Beaulieu	3	0	0	4	0	5	95	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	7	0	0	0	0	0	0	0	30	0	1	0	0	50	41	0	0	0	0	0	0	1	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	1	1	1	0	0	0	0	0	1	0	0	0	0	4	0	0	0
+15.24	Maurice Reille	6	0	0	6	0	19	41	0	0	2	0	5	0	0	0	0	0	2	4	1	0	0	1	22	1	3	1	0	0	0	0	71	0	0	0	0	260	9	0	0	0	0	0	0	0	0	0	0	0	10	30	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	4	3	0	0	0	0	0	20	0	4	0	0	0	0	1	0	2	0
+15.25	Jacques-Louis de Beaulieu	5	0	0	5	0	16	35	0	0	2	0	2	1	1	0	0	0	1	1	0	1	0	0	9	1	0	0	0	0	1	0	63	0	0	0	0	35	18	0	0	0	0	0	0	0	1	0	0	0	11	16	3	0	0	0	0	0	0	0	1	0	0	0	1	0	2	0	5	0	0	0	0	0	0	0	2	0	0	0	0	5	0	0	0
+15.29	Jacques-Louis de Beaulieu	10	0	0	4	0	10	20	0	0	4	0	1	1	1	1	0	0	3	3	0	0	0	0	10	0	0	1	0	0	0	0	191	0	0	0	0	400	6	0	0	0	0	0	0	0	0	0	0	0	9	60	4	0	0	0	0	0	0	0	0	0	0	0	0	0	2	7	4	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+15.30	Jacques-Louis de Beaulieu	4	0	0	1	0	2	24	0	0	1	0	2	0	0	0	0	0	2	1	1	0	1	0	3	0	0	0	0	0	0	0	45	0	0	0	0	230	0	0	0	0	0	0	0	0	0	0	0	0	12	75	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	4	1	1	1	1	0	0	0	0	0	0	0	0	0	1	0	1	0
+15.31	Maurice Reille	0	0	0	2	0	3	53	0	0	0	0	0	5	1	0	0	0	0	1	0	2	0	0	3	0	0	0	0	2	0	0	54	0	0	0	0	146	1	0	0	0	0	0	0	0	0	0	0	0	49	225	0	0	0	0	0	0	0	0	0	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	2	0	0	0
+15.32	Maurice Reille	1	0	0	2	0	5	45	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	26	0	0	0	0	90	0	0	0	0	0	0	0	0	0	0	0	0	39	170	1	0	0	0	1	0	0	0	0	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+15.33	Jacques-Louis de Beaulieu	2	0	0	2	0	2	33	0	0	0	0	3	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	1	0	0	20	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	33	150	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+15.34	Jacques-Louis de Beaulieu	2	0	0	0	0	5	35	0	0	0	0	2	0	1	1	0	0	3	0	1	0	0	0	1	0	0	0	0	4	0	0	26	0	0	0	0	45	0	0	0	0	0	0	0	1	0	0	0	0	30	145	0	0	0	0	1	0	0	0	0	3	0	0	0	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15.35	Jacques-Louis de Beaulieu	3	0	0	3	0	3	26	0	0	0	0	3	0	2	0	0	0	0	2	0	2	0	0	0	0	0	0	0	1	0	0	22	0	0	0	0	32	2	0	0	0	0	0	0	0	0	0	0	0	37	130	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.37	Maurice Reille	5	0	0	3	0	0	41	0	0	0	0	2	0	2	0	0	0	0	1	0	2	0	0	0	0	0	0	0	3	0	0	10	0	0	0	0	284	0	0	0	0	0	0	0	0	0	0	0	0	67	118	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+15.40	Jacques-Louis de Beaulieu	7	0	0	4	0	1	34	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	13	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	70	83	0	0	0	0	1	0	0	0	0	6	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.41	Maurice Reille	16	0	0	3	0	1	27	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	11	0	0	1	0	230	0	0	0	0	0	0	0	0	1	0	0	0	97	116	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+15.42	Jacques-Louis de Beaulieu	20	0	0	5	0	1	30	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	1	0	0	1	1	0	0	0	8	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	62	90	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.43	Jacques-Louis de Beaulieu	26	0	0	2	0	0	26	0	0	0	0	0	0	1	0	0	0	0	0	0	5	0	0	0	0	0	0	1	0	0	0	8	0	0	0	0	60	0	0	0	0	0	0	0	1	0	0	0	0	111	90	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0
+15.44	Maurice Reille	13	0	0	2	0	0	44	0	0	0	0	4	0	5	0	0	0	1	0	0	3	0	0	4	0	0	1	0	1	0	0	12	0	0	0	0	332	0	0	0	0	0	0	0	0	1	0	0	0	117	134	0	0	0	0	0	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0
+15.45	Jacques-Louis de Beaulieu	10	0	0	3	0	2	40	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	10	0	0	0	0	21	1	0	0	0	0	0	0	0	0	0	0	0	50	80	1	0	0	0	0	0	0	0	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+15.46	Maurice Reille	8	0	0	1	0	3	35	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	2	0	0	1	0	0	2	0	3	0	0	0	0	105	1	0	0	0	0	0	0	0	0	0	0	0	122	137	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.47	Maurice Reille	13	0	0	6	0	0	82	0	0	0	0	1	0	1	0	0	0	0	0	0	2	0	0	1	0	0	1	0	1	0	0	19	0	0	1	0	100	1	0	0	0	0	0	0	0	0	0	0	0	118	185	0	0	0	0	0	0	0	0	0	11	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+15.49	Jacques-Louis de Beaulieu	8	0	0	1	0	1	52	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	2	1	0	0	0	11	0	0	0	0	12	1	0	0	0	0	0	0	1	17	0	0	0	87	150	0	0	0	0	0	0	0	0	0	5	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+15.50	Jacques-Louis de Beaulieu	3	0	0	4	0	2	32	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	13	0	0	0	0	20	2	0	0	0	0	0	0	0	0	0	0	0	31	115	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+15.51	Jacques-Louis de Beaulieu	6	0	0	2	0	1	40	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	0	1	0	0	17	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	54	175	0	0	0	0	0	0	0	0	0	5	0	0	0	0	1	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+15.52	Jacques-Louis de Beaulieu	0	0	0	1	0	1	36	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	145	0	0	0	0	1	0	0	0	0	2	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0
+15.54	Maurice Reille	20	0	0	0	0	0	27	0	0	0	1	2	0	4	0	0	1	2	1	0	0	0	0	4	0	0	0	0	0	0	0	21	0	0	0	0	83	3	0	0	0	0	0	0	0	0	0	0	0	94	190	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	4	0	0	0	0	0	1	2	0	2	0
+15.55	Jacques-Louis de Beaulieu	6	0	0	6	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	8	0	0	0	0	7	1	0	0	0	0	0	0	0	0	0	0	0	50	180	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.56	Jacques-Louis de Beaulieu	17	0	0	2	0	0	32	0	1	0	0	2	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	91	121	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15.57	Jacques-Louis de Beaulieu	15	0	0	1	0	0	24	0	0	0	1	2	0	1	0	0	0	1	0	0	0	0	0	3	1	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	110	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+15.58	Jacques-Louis de Beaulieu	4	0	0	2	0	1	40	0	0	0	0	3	0	3	0	0	0	0	1	0	0	0	0	6	0	0	0	0	2	0	0	17	0	0	0	0	350	1	0	0	0	0	0	0	0	0	0	0	0	57	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+15.59	Maurice Reille	19	0	0	5	0	1	44	0	0	0	1	2	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	12	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	73	120	0	0	0	0	0	0	0	0	0	4	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15.60	Jacques-Louis de Beaulieu	28	1	0	1	0	0	40	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	1	0	10	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	70	85	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15.61	Maurice Reille	20	0	0	7	0	0	100	0	0	0	0	0	0	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	97	135	0	0	0	0	0	0	1	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0
+15.62	Jacques-Louis de Beaulieu	20	0	0	2	0	1	30	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	10	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	70	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+15.63	Jacques-Louis de Beaulieu	33	0	0	7	0	0	62	0	0	0	0	0	0	5	0	0	0	1	0	0	1	0	0	3	0	0	1	0	0	1	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	63	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+15.64	Maurice Reille	48	0	0	2	0	1	59	0	0	0	2	0	0	3	0	0	0	0	2	0	2	0	0	2	0	0	0	0	0	0	0	13	0	0	0	0	6	0	0	0	0	0	0	0	0	1	0	0	0	76	94	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	0	4	0	0	0	0	0	0	2	0	0	0	0	1	1	0	0	0
+15.65	Jacques-Louis de Beaulieu	31	0	0	5	0	1	55	0	0	0	0	0	0	2	0	0	0	0	1	0	3	0	0	0	0	0	0	0	1	0	0	11	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	72	52	0	0	0	0	0	0	0	0	1	4	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+15.66	Maurice Reille	34	0	0	5	0	1	44	0	0	0	1	1	0	20	0	0	0	0	1	0	5	0	1	0	0	0	0	0	0	1	0	9	0	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0	86	89	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+15.67	Maurice Reille	28	1	0	8	0	0	43	0	0	0	1	0	0	7	0	0	0	1	0	1	0	0	0	2	0	0	0	0	0	2	0	11	0	0	0	1	16	0	0	0	0	0	0	0	0	1	0	1	0	110	72	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0
+15.68	Jacques-Louis de Beaulieu	50	0	1	11	0	0	34	0	0	0	1	0	0	6	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	21	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+15.69	Jacques-Louis de Beaulieu	48	0	0	15	0	0	35	0	0	0	0	1	0	8	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	1	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	83	32	0	0	0	0	0	1	0	0	0	10	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+15.70	Jacques-Louis de Beaulieu	53	0	0	17	0	2	16	0	0	0	1	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	70	16	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+15.71	Maurice Reille	75	1	0	14	0	0	16	0	0	0	2	0	0	16	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	130	29	0	1	0	0	0	0	0	0	0	9	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+15.74	Jacques-Louis de Beaulieu	81	0	0	6	0	0	12	0	0	0	1	1	0	22	0	0	0	0	0	1	4	0	0	0	0	1	1	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	119	27	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	2	0	3	1	0	1	0
+15.80	Jacques-Louis de Beaulieu	70	1	0	15	0	1	5	0	0	0	1	0	1	21	0	0	0	0	0	0	5	0	0	0	0	0	1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	11	0	0	0	0	0	0	0	0	1	10	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0
+15.84	Maurice Reille	130	1	0	30	0	0	7	0	0	0	3	0	0	64	0	0	0	0	0	0	6	0	0	1	0	0	0	0	0	2	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	57	15	0	0	0	0	0	0	1	1	0	29	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+15.85	Jacques-Louis de Beaulieu	66	0	0	20	0	0	8	0	0	0	4	0	0	40	0	0	0	0	1	0	8	0	0	1	0	0	0	0	0	1	0	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	33	6	0	0	0	0	0	1	0	0	0	28	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0
+15.88	Jacques-Louis de Beaulieu	33	3	0	50	0	1	4	0	0	0	8	0	0	95	0	0	0	0	0	0	6	0	0	0	0	0	0	0	1	1	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	6	1	0	0	31	2	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	1	0	0	0	0
+15.90	Maurice Reille	48	0	0	48	0	0	5	0	0	0	5	0	0	66	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0	2	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	1	33	4	0	0	0	0	0	0	0	0	0	26	0	0	0	1	0	0	0	0	0	0	0	0	0	5	0	0	0	1	2	0	0	0	0
+15.94	Jacques-Louis de Beaulieu	47	1	0	37	0	1	2	0	0	0	2	0	1	65	0	0	0	0	1	1	0	0	0	2	0	0	1	0	0	3	0	3	1	0	0	1	1	0	0	0	1	0	0	0	0	7	0	0	1	41	4	0	0	0	0	0	0	0	0	0	13	1	0	1	0	0	0	0	0	0	0	0	0	2	4	0	0	0	0	1	0	0	1	0
+15.95	Jacques-Louis de Beaulieu	24	1	0	40	0	0	4	0	0	0	5	0	0	61	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	1	0	7	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	22	2	0	0	0	0	0	0	0	0	1	24	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	0	0	0	0
+15.96	Jacques-Louis de Beaulieu	24	0	0	39	0	0	6	0	0	0	5	0	0	67	0	0	0	0	0	0	11	0	0	1	0	0	0	0	0	2	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	30	5	0	0	0	0	0	0	0	0	0	30	0	0	0	2	0	1	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0
+15.97	Jacques-Louis de Beaulieu	36	0	0	50	0	0	7	0	0	0	5	0	0	70	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	2	0	1	22	2	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	2	0	0	1	0
+15.99	Jacques-Louis de Beaulieu	26	0	0	46	0	0	8	0	0	0	3	0	0	71	0	0	0	0	0	0	8	0	0	3	0	0	0	0	0	3	0	6	0	0	0	2	0	0	0	0	0	0	0	0	0	4	0	0	1	20	4	0	0	0	0	0	0	0	0	0	28	0	1	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	3	0	0	0	0
+16.00	Jacques-Louis de Beaulieu	35	0	0	34	0	0	10	0	0	0	3	0	0	84	0	0	0	0	0	0	14	0	0	1	0	0	0	0	0	1	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	5	1	0	1	24	2	0	0	0	0	0	0	0	0	1	27	0	0	1	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	1	0	0	0	0
+16.04	Maurice Reille	103	1	0	40	0	0	3	0	0	0	3	0	0	106	0	0	0	0	0	0	7	0	0	1	0	0	0	0	0	4	0	1	1	0	0	2	8	0	0	0	0	0	0	0	0	9	0	0	0	36	10	0	1	0	0	0	0	0	0	0	23	1	0	1	0	0	0	0	0	0	0	0	0	1	3	0	1	0	0	2	0	0	0	0
+16.05	Jacques-Louis de Beaulieu	33	1	0	36	0	0	6	0	0	0	4	0	0	86	0	0	0	0	0	0	14	0	0	1	0	0	0	0	0	3	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	4	0	0	1	7	1	0	0	0	0	0	1	0	0	0	17	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0
+16.10	Jacques-Louis de Beaulieu	55	0	0	40	0	0	4	0	0	0	4	1	0	80	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	30	1	0	0	0	0	0	0	0	0	1	11	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+16.14	Maurice Reille	133	0	0	28	0	0	0	0	0	0	5	0	0	72	0	0	0	0	0	0	23	0	0	3	0	0	0	0	0	2	0	2	0	0	0	0	6	0	0	0	0	0	0	0	0	2	0	0	0	15	1	0	0	0	0	0	0	0	0	0	13	2	0	1	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	1	0	0	0	0
+16.15	Jacques-Louis de Beaulieu	72	0	0	27	0	1	7	0	0	0	3	0	0	85	0	0	0	0	0	0	31	0	0	1	0	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	14	3	0	0	0	0	0	1	0	0	0	12	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+16.20	Jacques-Louis de Beaulieu	56	0	0	28	0	0	4	0	0	0	5	0	0	77	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	10	2	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	0	0	0	0
+16.24	Maurice Reille	150	0	0	17	0	0	2	0	0	0	10	0	0	75	0	0	0	0	0	0	28	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	2	19	3	0	0	0	0	0	1	0	1	0	12	0	0	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2	0
+16.25	Jacques-Louis de Beaulieu	52	0	0	26	0	0	2	0	0	0	5	0	0	107	0	0	0	0	0	0	50	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	13	1	0	0	0	0	0	0	0	0	0	6	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+16.30	Jacques-Louis de Beaulieu	62	0	0	43	0	0	7	0	0	0	5	0	0	90	0	0	0	1	0	0	43	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	10	1	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16.34	Maurice Reille	105	0	0	11	0	0	4	0	0	0	2	0	0	78	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	11	5	0	0	0	0	0	0	0	0	0	18	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0
+16.35	Jacques-Louis de Beaulieu	62	0	0	30	0	0	1	0	0	0	9	0	0	90	1	0	0	0	0	0	56	0	0	2	0	0	1	0	1	5	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	9	2	0	0	0	0	0	0	0	0	1	20	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+16.40	Jacques-Louis de Beaulieu	65	1	0	17	0	0	2	0	0	0	3	0	0	90	0	0	0	0	0	0	43	0	0	0	0	0	1	0	0	3	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+16.44	Jacques-Louis de Beaulieu	55	0	0	18	0	0	1	0	0	0	2	0	0	62	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	1	3	3	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+16.45	Jacques-Louis de Beaulieu	31	0	0	27	0	0	2	0	0	0	6	0	0	80	0	0	0	0	0	0	42	0	0	1	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+16.50	Jacques-Louis de Beaulieu	45	1	0	24	0	0	5	0	0	0	3	0	0	80	0	0	0	0	0	0	52	0	0	1	0	0	0	0	0	2	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	5	3	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+16.54	Maurice Reille	48	1	0	25	0	0	0	0	0	0	3	0	0	129	0	0	0	0	0	0	64	0	0	0	0	0	0	0	1	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	1	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	2	0	0	0	0
+16.55	Jacques-Louis de Beaulieu	24	0	0	28	0	0	1	0	0	0	1	0	0	83	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	5	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	9	1	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+16.60	Jacques-Louis de Beaulieu	9	0	0	22	0	0	11	0	0	0	3	1	0	87	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	0	0	0	0
+16.64	Maurice Reille	10	3	0	44	0	0	2	0	0	0	0	0	0	127	2	0	0	0	0	0	58	0	0	0	0	0	0	0	1	2	0	3	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	11	2	0	0	0	0	0	0	0	1	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	3	0	0	0	0
+16.65	Jacques-Louis de Beaulieu	7	0	0	40	0	0	3	0	0	0	2	0	0	115	0	0	0	0	0	0	50	0	0	1	0	0	1	0	0	4	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	0	1	0	0	0	1	0	0	1	21	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+16.70	Jacques-Louis de Beaulieu	6	1	0	40	0	0	12	0	0	0	0	0	0	105	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	26	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+16.74	Maurice Reille	19	3	0	42	0	0	3	0	0	0	2	0	0	152	0	0	0	0	0	0	60	0	0	2	0	0	0	0	0	7	0	4	1	0	0	1	15	0	0	0	0	0	0	0	0	4	0	0	0	10	8	0	0	0	0	0	0	0	0	0	39	0	0	1	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	3	0	0	2	0
+16.75	Jacques-Louis de Beaulieu	3	2	0	16	0	1	7	0	0	0	0	0	0	120	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	5	0	0	0	14	0	0	0	0	0	0	0	0	0	0	28	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+16.80	Maurice Reille	10	1	0	40	0	0	5	0	0	0	1	0	0	111	0	0	0	0	0	0	85	0	0	1	0	0	0	0	1	4	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	1	0	0	0	0
+16.84	Maurice Reille	2	1	0	20	0	0	0	0	0	0	0	1	0	62	0	0	0	0	0	1	59	0	0	1	0	0	1	0	0	5	0	5	1	0	0	1	8	0	0	0	0	0	0	0	0	1	0	0	0	6	0	0	1	0	0	0	0	0	0	0	45	1	0	1	0	0	0	0	0	0	0	0	1	1	10	0	1	0	0	5	0	0	1	0
+16.85	Maurice Reille	1	1	0	13	0	0	2	0	0	0	1	0	0	75	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	8	0	2	2	0	0	0	2	1	0	0	0	0	0	0	0	1	0	0	0	11	1	0	0	0	0	0	0	0	0	1	51	0	0	1	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	2	0	0	0	0
+16.95	Maurice Reille	5	2	0	20	0	0	7	0	0	0	2	0	1	40	0	0	0	0	0	0	174	0	0	1	0	0	0	0	0	12	0	2	1	0	0	0	18	1	0	0	0	0	0	0	0	0	0	0	0	8	7	0	1	0	0	0	0	0	0	0	166	0	0	0	2	0	0	0	0	0	0	0	0	0	40	0	0	0	0	4	0	0	0	0
+17.00	Maurice Reille	2	0	0	23	0	1	2	0	0	0	0	0	0	3	0	0	0	0	0	0	113	0	0	0	0	0	0	0	0	6	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	4	1	0	0	0	0	0	0	0	0	0	51	1	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	2	0	0	0	0
+17.04	Maurice Reille	4	1	0	18	0	0	3	0	0	0	1	0	0	6	0	0	0	0	0	0	140	0	0	0	0	0	0	0	0	6	0	4	1	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	14	7	0	0	0	0	0	0	0	0	0	101	0	0	1	0	1	0	0	0	0	0	0	0	0	52	0	0	1	0	5	0	0	2	0
+17.05	Maurice Reille	0	3	0	21	0	0	1	0	0	0	1	0	0	11	0	0	0	0	0	0	120	0	0	1	0	0	0	0	1	18	0	3	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	6	2	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	75	1	0	0	0	3	0	0	0	0
+17.10	Maurice Reille	3	2	0	18	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	126	0	1	5	0	0	0	0	1	6	0	1	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	4	84	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	4	0	0	0	1
+17.14	Maurice Reille	1	0	0	8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	122	0	0	0	0	0	1	0	0	1	0	1	1	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	6	2	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	5	0	0	1	0
+17.15	Maurice Reille	3	3	0	12	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	112	0	0	0	0	0	0	0	0	7	0	1	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	2	0	0	0	0
+17.20	Maurice Reille	0	0	0	12	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	120	0	0	0	0	0	0	0	0	11	0	1	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	3	1	0	0	0	0	0	0	0	0	2	55	0	0	0	0	0	0	0	0	0	0	0	0	1	22	0	0	0	0	9	0	0	0	0
+17.25	Maurice Reille	2	1	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	130	0	0	2	0	0	0	0	0	14	0	5	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	3	4	0	0	1	1	1	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	4	0	0	1	0
+17.26	Maurice Reille	0	3	0	16	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	142	0	0	1	0	0	0	0	1	9	0	3	1	0	0	0	0	1	0	0	0	0	0	0	1	6	0	0	0	4	2	0	0	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	1	0	0	0	0	0	0	0
+17.30	Maurice Reille	0	0	0	18	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	110	0	0	1	0	0	0	0	0	10	0	4	1	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	56	0	0	0	0	0	1	0	0	0	0	0	0	0	69	0	0	0	0	3	0	0	0	0
+17.34	Maurice Reille	1	2	0	13	0	0	0	0	0	0	1	0	1	1	1	0	0	0	0	0	98	0	0	0	0	0	1	0	0	4	0	2	2	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	5	3	0	0	0	0	0	0	1	1	1	64	1	0	1	1	0	0	0	1	1	0	0	0	1	42	0	0	0	0	2	0	0	1	0
+17.35	Maurice Reille	0	3	0	9	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	90	0	0	0	0	0	0	0	0	8	0	5	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	4	5	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	1	106	0	0	1	0	1	0	0	0	0
+17.40	Maurice Reille	0	2	0	7	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	110	0	0	1	0	0	0	0	0	8	0	7	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	3	0	1	0	0	0	0	0	0	0	54	0	0	0	1	0	1	1	0	0	0	0	0	0	96	0	0	0	0	0	0	0	0	0
+17.44	Maurice Reille	1	3	0	5	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	125	0	0	2	0	0	0	0	0	9	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	2	3	0	0	0	0	0	0	0	0	0	27	0	0	1	0	0	0	0	0	0	0	0	0	0	37	0	1	0	0	1	1	0	0	0
+17.50	Maurice Reille	0	2	0	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	157	0	0	1	0	0	0	0	0	6	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	1	1	1	0	0	0	0	46	0	0	0	0	0	1	0	0	0	0	0	0	0	6	0	0	0	0	6	0	0	0	0
+17.54	Maurice Reille	1	7	0	4	0	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	315	0	0	2	0	0	0	0	0	5	0	1	0	0	0	0	6	1	0	0	0	0	0	0	0	2	0	0	0	5	5	0	1	0	0	0	0	0	0	2	105	0	0	1	0	0	2	0	0	0	0	0	0	1	1	0	1	0	0	6	1	0	0	0
+17.55	Maurice Reille	0	1	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	191	0	0	3	0	0	0	0	0	6	0	2	0	0	0	0	8	3	0	1	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	71	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+17.60	Maurice Reille	2	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	231	0	0	0	0	0	0	0	0	14	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	4	5	0	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	1	0	0	0
+17.64	Maurice Reille	0	2	0	1	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	316	0	0	3	0	0	0	0	0	12	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0	4	6	0	0	0	0	0	0	0	1	0	112	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	7	2	0	1	0
+17.65	Maurice Reille	0	2	0	1	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	250	0	0	0	0	0	0	0	2	17	0	3	0	0	0	0	3	1	0	0	0	0	0	0	1	2	0	0	0	0	12	0	0	0	0	0	0	0	0	0	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	0	0
+17.70	Maurice Reille	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	11	0	0	0	0
+17.74	Maurice Reille	0	1	0	0	0	0	4	0	0	0	0	0	1	0	0	0	0	0	0	0	227	0	0	0	0	0	0	0	0	22	0	4	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	1	0	0	120	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	2	0
+17.75	Maurice Reille	0	5	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	153	0	0	0	0	0	0	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	131	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0
+17.78	Jacques-Louis de Beaulieu	0	1	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	3	0	0	0	0	0	15	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	5	0	0	0	0	0	0	0	0	0	123	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0
+17.80	Jacques-Louis de Beaulieu	0	0	0	0	0	2	22	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	9	0	3	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	6	0	0	0	0	0	0	0	0	1	145	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	15	0	0	0	0
+17.85	Jacques-Louis de Beaulieu	0	0	1	0	0	4	28	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	2	0	0	0	0	0	15	0	2	2	1	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	40	0	0	0	0	0	0	0	0	0	115	0	1	0	0	1	2	1	0	0	0	0	0	0	0	0	1	0	0	30	0	0	0	0
+17.90	Jacques-Louis de Beaulieu	0	1	0	1	0	3	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	8	0	12	1	1	0	0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	45	0	0	0	0	1	0	0	0	0	63	0	1	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	25	1	0	0	0
+17.95	Jacques-Louis de Beaulieu	0	0	0	0	0	3	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	8	0	0	1	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	68	0	0	0	0	0	0	0	0	0	56	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0
+18.00	Jacques-Louis de Beaulieu	0	0	0	0	0	6	91	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	1	0	9	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	140	0	0	0	0	1	0	0	0	0	3	0	1	0	1	0	2	2	0	0	0	0	0	0	0	1	0	0	0	95	1	0	0	0
+18.05	Jacques-Louis de Beaulieu	0	0	0	0	0	6	145	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	2	2	0	24	0	1	0	0	0	1	0	1	0	0	0	0	0	7	0	0	0	0	88	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	4	5	1	1	0	0	0	0	0	0	0	0	0	3	1	0	0	0
+18.10	Jacques-Louis de Beaulieu	0	0	0	0	0	17	150	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	0	6	0	1	0	0	0	0	0	13	0	1	1	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+18.16	Jacques-Louis de Beaulieu	0	0	0	0	0	23	40	0	1	0	0	0	2	0	0	0	0	1	2	2	0	0	0	25	0	1	0	0	0	0	0	80	0	10	1	0	3	26	0	0	0	0	0	0	1	0	2	0	0	0	38	1	0	0	0	4	0	0	0	0	0	0	4	0	0	2	0	0	0	0	1	0	0	0	0	7	0	0	0	0	0	0	0	0
+18.21	Jacques-Louis de Beaulieu	0	0	0	0	0	8	8	0	0	0	0	0	0	1	1	0	0	3	1	0	1	0	0	26	1	2	0	0	0	0	0	26	0	1	2	0	0	15	0	0	0	0	0	0	0	0	2	0	0	1	50	2	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+18.24	Maurice Reille	0	0	0	0	0	28	22	0	1	0	0	0	1	0	0	0	0	5	0	0	0	0	0	45	1	0	0	0	0	0	0	91	0	4	1	0	1	194	0	0	2	0	0	0	0	0	1	0	0	0	14	2	0	0	0	1	0	0	0	0	1	0	0	0	0	1	7	12	0	0	2	0	0	0	0	7	0	0	0	1	2	0	0	0
+18.28	Jacques-Louis de Beaulieu	0	0	0	0	0	24	10	0	0	0	0	0	0	0	1	0	0	7	4	0	0	0	2	33	0	3	1	0	0	0	0	67	0	8	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	1	20	0	0	0	0	0	0	0	0	0	0	0	3	0	2	3	4	21	0	0	1	0	1	0	0	4	0	0	0	0	2	0	0	0
+18.34	Maurice Reille	0	0	0	0	0	6	15	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	20	1	0	0	0	0	0	0	90	0	2	2	0	0	5	0	0	0	0	0	0	0	0	13	0	0	0	8	1	0	0	0	0	0	0	0	0	0	0	3	0	0	1	3	4	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0
+18.38	Jacques-Louis de Beaulieu	0	0	0	1	0	21	24	0	3	0	0	0	0	0	1	0	0	12	1	0	0	0	1	95	0	1	0	0	0	0	0	53	0	4	1	0	1	12	0	0	4	0	0	0	0	2	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	2	8	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+18.41	Jacques-Louis de Beaulieu	0	0	0	0	0	39	27	0	2	0	0	0	1	0	4	1	0	10	4	0	0	1	6	96	0	2	0	0	0	0	0	108	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	1	0	3	1	2	3	0	0	1	0	1	0	0	15	0	0	0	0	1	0	0	0
+18.51	Jacques-Louis de Beaulieu	0	0	0	0	0	11	3	0	1	0	0	1	0	0	1	0	0	3	1	1	0	0	2	25	0	3	2	0	0	0	0	23	0	4	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0
+18.56	Jacques-Louis de Beaulieu	1	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	63	0	2	0	0	0	0	0	32	0	2	4	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	57	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0
+18.61	Jacques-Louis de Beaulieu	0	0	0	0	0	2	3	0	1	0	0	0	0	0	0	0	0	3	1	1	0	0	1	53	0	0	1	0	0	0	0	42	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	80	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	2	2	0	0	0	0	6	0	0	3	0	0	0	0	0	0	0	0
+18.64	Jacques-Louis de Beaulieu	0	0	0	0	0	8	0	0	2	0	0	0	0	0	3	0	0	3	0	0	0	0	3	17	0	1	0	0	0	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	67	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	1	0	0	0	0	3	0	0	5	0	0	0	0	0	0	0	0
+18.71	Jacques-Louis de Beaulieu	0	0	0	0	0	2	2	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	2	95	0	0	0	0	0	0	0	70	0	3	4	0	0	3	0	0	0	0	0	0	0	0	1	0	0	1	51	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+18.75	Jacques-Louis de Beaulieu	0	0	0	1	0	6	4	0	1	0	0	0	0	0	1	0	0	2	1	2	0	2	3	58	0	0	0	0	0	0	0	58	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	1	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	3	0	0	2	0	2	0	0	12	0	0	0	0	1	0	0	0
+18.86	Jacques-Louis de Beaulieu	0	0	0	0	0	4	3	0	6	0	0	0	0	0	1	2	0	4	1	4	0	1	1	53	0	0	0	0	0	0	1	86	0	2	6	0	0	1	0	0	0	0	0	0	0	2	0	0	0	1	20	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	8	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+18.89	Jacques-Louis de Beaulieu	0	0	0	0	1	4	2	0	1	0	0	0	0	0	2	0	0	1	2	0	1	1	0	14	0	0	0	0	0	0	0	58	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0

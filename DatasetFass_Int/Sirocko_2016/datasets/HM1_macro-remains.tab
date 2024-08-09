@@ -1,0 +1,242 @@
+/* DATA DESCRIPTION:
+Citation:	Sirocko, Frank; Knapp, Hannes; Dreher, Frank; Förster, Michael W; Albert, Johannes; Brunck, Heiko; Veres, Daniel; Dietrich, Stephan; Zech, Michael; Hambach, Ulrich; Röhner, Marieke; Rudert, Saskia; Schwiebus, Klaus; Adams, Christel; Sigl, Petra (2016): Macro remains of combined sediment record ELSA. PANGAEA, https://doi.org/10.1594/PANGAEA.868669, 
+	In supplement to: Sirocko, F et al. (2016): The ELSA-Vegetation-Stack: Reconstruction of Landscape Evolution Zones (LEZ) from laminated Eifel maar sediments of the last 60,000years. Global and Planetary Change, 142, 108-135, https://doi.org/10.1016/j.gloplacha.2016.03.005
+Related to:	Brunck, Heiko; Sirocko, Frank; Albert, Johannes (2016): The ELSA-Flood-Stack: A reconstruction from the laminated sediments of Eifel maar structures during the last 60000 years. Global and Planetary Change, 142, 136-146, https://doi.org/10.1016/j.gloplacha.2015.12.003
+	Förster, Michael W; Sirocko, Frank (2016): The ELSA tephra stack: Volcanic activity in the Eifel during the last 500,000 years. Global and Planetary Change, 142, 100-107, https://doi.org/10.1016/j.gloplacha.2015.07.012
+	Sirocko, Frank (2016): The ELSA - Stacks (Eifel-Laminated-Sediment-Archive): An introduction. Global and Planetary Change, 142, 96-99, https://doi.org/10.1016/j.gloplacha.2016.03.011
+Other version:	The ELSA Stacks - Online Resouce University of Mainz, Germany (URI: https://elsa-project.de/)
+Coverage:	MEDIAN LATITUDE: 50.202065 * MEDIAN LONGITUDE: 6.737685 * SOUTH-BOUND LATITUDE: 50.120300 * WEST-BOUND LONGITUDE: 6.595740 * NORTH-BOUND LATITUDE: 50.283830 * EAST-BOUND LONGITUDE: 6.879630
+	MINIMUM ELEVATION: 425.0 m * MAXIMUM ELEVATION: 453.0 m
+Event(s):	ELSA_AU2 (AU2) * LATITUDE: 50.283830 * LONGITUDE: 6.595740 * ELEVATION: 453.0 m * Recovery: 123 m * LOCATION: Aueler Maar, Eifel, Germany * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: Gauß-Krüger coordinate system: 2542455/5572017
+	ELSA_HM1 (HM1) * LATITUDE: 50.120300 * LONGITUDE: 6.879630 * ELEVATION: 425.0 m * Recovery: 10 m * LOCATION: Holzmaar, Eifel, Germany * METHOD/DEVICE: Piston corer, UWITEC (PCUWI) * COMMENT: Gauß-Krüger coordinate system: 2562900/5554030
+Parameter(s):	Event label (Event) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Age [ka b2k] (Age) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Moss remains [#] (mos.rem) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Alnus glutinosa [#] (Aln.g) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Betula pendula [#] (Bet.p) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Betula sp. [#] (Betula sp.) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Caryophyllaceae [#] (Cphae) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Cerealia sp. [#] (Cel.sp) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Charcoal [#] (Charcoal) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Cenococcum [#] (Cenococcum) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Cyperaceae [#] (Cypae) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ephippia [#] (Ephip) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Indeterminata [#] (Indet) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Insect remains [#] (Insect rem) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Linum usitatissimum [#] (Lin.u) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Oogonia [#] (Oogonia) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ostracoda [#] (Ostrac) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Picea, needles [#] (Picea needle) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ranunculaceae [#] (Ranae) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ranunculus aquatilis [#] (Rau.a) * PI: Sirocko, Frank (sirocko@uni-mainz.de) * COMMENT: agg.
+	Ranunculus flammula [#] (Ran.f) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ranunculus repens [#] (Ran.rep) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ranunculus sp. [#] (Ranunculus sp.) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Wood remains [#] (Wood) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Betula [#] (Bet) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Ranunculus [#] (Ran) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Woodland [%] (Woodland) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+	Heliophytes [#] (Heliophytes) * PI: Sirocko, Frank (sirocko@uni-mainz.de)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	3806 data points
+*/
+Event	Age [ka b2k]	mos.rem [#]	Aln.g [#]	Bet.p [#]	Betula sp. [#]	Cphae [#]	Cel.sp [#]	Charcoal [#]	Cenococcum [#]	Cypae [#]	Ephip [#]	Indet [#]	Insect rem [#]	Lin.u [#]	Oogonia [#]	Ostrac [#]	Picea needle [#]	Ranae [#]	Rau.a [#]	Ran.f [#]	Ran.rep [#]	Ranunculus sp. [#]	Wood [#]	Bet [#]	Ran [#]	Woodland [%]	Heliophytes [#]
+ELSA_HM1	0.000	0	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.036	0	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.072	0	0	0	0	0	0	0				0	1	0	0	0			1	0	0	0		0	1		
+ELSA_HM1	0.108	0	0	0	0	0	0	0				0	1	0	0	0			1	0	0	0		0	1		
+ELSA_HM1	0.144	1	0	0	0	0	0	0				0	1	0	0	0			1	0	0	0		0	1		
+ELSA_HM1	0.180	0	0	0	0	0	0	0				0	1	0	0	0			10	0	0	0		0	10		
+ELSA_HM1	0.216	0	0	0	0	0	0	0				0	0	0	0	0			1	0	0	0		0	1		
+ELSA_HM1	0.252	0	0	0	0	0	0	0				0	1	0	0	0			0	1	0	0		0	1		
+ELSA_HM1	0.288	0	0	0	0	0	0	0				0	0	1	0	0			2	1	0	1		0	4		
+ELSA_HM1	0.324	1	0	0	0	0	0	1				0	1	3	0	0			7	0	0	0		0	7		
+ELSA_HM1	0.360	0	0	0	0	0	0	0				0	1	0	0	0			1	1	0	0		0	2		
+ELSA_HM1	0.396	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.431	1	0	0	0	0	0	0				0	1	0	1	0			10	0	0	0		0	10		
+ELSA_HM1	0.467	0	0	0	0	0	0	0				0	0	0	1	0			9	0	0	0		0	9		
+ELSA_HM1	0.503	1	0	0	0	0	0	0				0	0	0	0	0			8	0	0	0		0	8		
+ELSA_HM1	0.539	0	0	0	0	0	0	0				0	0	0	0	0			7	0	0	0		0	7		
+ELSA_HM1	0.575	1	0	0	0	0	0	1				0	1	0	1	0			11	2	0	1		0	14		
+ELSA_HM1	0.611	1	0	0	0	0	0	1				0	1	2	2	0			23	11	0	1		0	35		
+ELSA_HM1	0.647	1	1	0	0	0	0	1				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.703	0	0	0	0	0	0	0				0	0	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.768	1	0	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	0.833	1	1	0	0	0	1	1				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	0.898	1	0	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	0.963	1	1	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	1.028	1	1	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	1.093	1	0	0	0	0	0	0				0	1	0	0	0			0	1	0	0		0	1		
+ELSA_HM1	1.158	1	1	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	1.223	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	1.288	0	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	1.353	1	0	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	1.418	1	0	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	1.483	1	1	4	0	0	0	0				0	1	0	1	0			0	0	0	0		4	0		
+ELSA_HM1	1.548	1	2	2	0	0	0	0				0	1	0	0	0			0	0	0	0		2	0		
+ELSA_HM1	1.625	0	3	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	1.748	1	1	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	1.872	1	1	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	1.996	0	0	0	0	0	0	1				0	1	0	1	0			1	0	0	0		0	1		
+ELSA_HM1	2.120	1	1	0	0	0	0	0				0	1	0	0	0			1	0	0	0		0	1		
+ELSA_HM1	2.243	1	0	0	0	0	0	0				0	0	0	1	0			1	0	0	0		0	1		
+ELSA_HM1	2.367	0	1	1	0	0	0	0				0	0	0	0	0			0	1	0	0		1	1		
+ELSA_HM1	2.491	1	3	1	0	0	0	1				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	2.614	1	1	0	0	1	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	2.738	1	16	2	0	0	0	1				1	1	0	0	0			0	0	1	0		2	1		
+ELSA_HM1	2.895	1	3	1	0	1	0	1				0	1	0	2	0			0	0	0	0		1	0		
+ELSA_HM1	3.086	1	6	2	0	0	0	1				0	1	0	1	0			0	0	0	0		2	0		
+ELSA_HM1	3.277	1	8	6	0	0	0	1				0	1	0	0	0			0	0	0	0		6	0		
+ELSA_HM1	3.468	1	10	7	0	0	0	0				0	1	0	2	0			0	0	0	0		7	0		
+ELSA_HM1	3.659	1	1	3	0	0	0	1				0	1	0	1	0			0	0	0	0		3	0		
+ELSA_HM1	3.850	1	7	2	0	0	0	1				0	1	0	0	0			0	0	0	0		2	0		
+ELSA_HM1	4.054	1	4	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	4.258	1	1	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	4.463	1	10	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	4.667	1	8	8	0	0	0	0				0	1	0	0	0			0	0	0	0		8	0		
+ELSA_HM1	4.871	1	3	1	0	0	0	1				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	5.075	0	3	0	0	0	0	0				1	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	5.279	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	5.483	1	0	0	0	0	0	0				0	1	0	4	0			0	0	0	0		0	0		
+ELSA_HM1	5.688	0	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	5.892	0	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	6.096	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	6.300	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	6.492	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	6.683	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	6.875	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	7.067	1	0	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	7.258	1	0	0	0	0	0	0				0	1	0	2	0			0	0	0	0		0	0		
+ELSA_HM1	7.450	1	0	0	0	0	0	0				0	1	0	0	0			0	0	0	0		0	0		
+ELSA_HM1	7.642	1	0	0	0	0	0	0				0	1	0	2	0			0	0	0	0		0	0		
+ELSA_HM1	7.833	1	0	0	0	0	0	0				0	1	0	1	0			0	0	0	0		0	0		
+ELSA_HM1	8.025	1	0	0	0	0	0	0				0	1	0	5	0			0	0	0	0		0	0		
+ELSA_HM1	8.217	1	0	0	0	0	0	0				0	1	0	47	0			0	0	0	0		0	0		
+ELSA_HM1	8.408	1	0	0	0	0	0	0				1	1	0	13	0			0	0	0	0		0	0		
+ELSA_HM1	8.600	1	0	1	1	0	0	0				0	1	0	3	0			0	0	0	0		2	0		
+ELSA_HM1	8.783	0	0	0	0	0	0	0				0	1	0	4	0			0	0	0	0		0	0		
+ELSA_HM1	8.966	1	0	4	0	0	0	0				0	1	0	2	0			0	0	0	0		4	0		
+ELSA_HM1	9.150	1	0	2	0	0	0	0				0	1	0	0	0			0	0	0	0		2	0		
+ELSA_HM1	9.333	1	0	2	0	0	0	0				0	1	0	0	0			0	0	0	0		2	0		
+ELSA_HM1	9.516	1	0	1	0	0	0	0				0	1	0	5	0			0	0	0	0		1	0		
+ELSA_HM1	9.699	1	0	1	1	0	0	0				0	1	0	4	0			0	0	0	0		2	0		
+ELSA_HM1	9.882	1	0	1	2	0	0	0				0	1	0	1	0			0	0	0	0		3	0		
+ELSA_HM1	10.066	1	0	0	2	0	0	0				0	1	0	0	0			0	0	0	0		2	0		
+ELSA_HM1	10.249	1	0	1	0	0	0	0				0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	10.432	1	0	7	0	0	0	0				0	1	0	0	0			1	0	0	0		7	1		
+ELSA_HM1	10.615	1	0	0	3	0	0	0				0	1	0	0	0			0	0	0	0		3	0		
+ELSA_HM1	10.798	1	0	0	6	0	0	0				1	1	0	0	0			0	0	0	0		6	0		
+ELSA_HM1	10.982	1	0	2	2	0	0	0				1	1	0	0	0			0	0	0	0		4	0		
+ELSA_HM1	11.163	1	0	5	5	0	0	0				0	1	0	0	0			0	0	0	0		10	0		
+ELSA_HM1	11.344	1	0	3	0	0	0	0	0	0	0	1	0	0	0	0			0	0	0	0		3	0		
+ELSA_HM1	11.525	1	0	8	4	0	0	1	0	0	0	1	1	0	1	0			0	0	0	0		12	0		
+ELSA_HM1	11.706	1	0	0	1	0	0	1	0	0	0	2	1	0	11	0			0	0	0	0		1	0		
+ELSA_HM1	11.887	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	12.068	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	12.249	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	12.430	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0			0	0	0	0		1	0		
+ELSA_HM1	12.610	0	0	0	1		0	0	0	0	0	6	0	0	1	0			0	0	0	0		1	0		
+ELSA_HM1	12.791	0	0	0	1	0	0	0	0	0	0	1	0	0		0			0	0	0	0		1	0		
+ELSA_AU2	13.246	0		0		0		0	0	0	0	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	13.803	3		0		0		2	6	1	0	0	2		0	78	0	0	0				0		0	0.0	0
+ELSA_AU2	14.361	0		1		0		1	3	1	9	0	1		0	30	0	0	0				0		0	50.0	0
+ELSA_AU2	15.224	2		1		0		1	22	0	2	0	0		0	14	0	0	0				0		0	100.0	0
+ELSA_AU2	16.188	0		0		0		0	5	0	0	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	17.153	2		0		2		1	33	0	1	0	1		0	16	0	0	0				1		0	0.0	0
+ELSA_AU2	18.118	2		0		0		1	15	1	4	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	19.082	1		0		1		1	8	0	3	0	0		0	5	0	0	0				0		0	0.0	0
+ELSA_AU2	20.047	3		1		0		2	32	0	19	0	2		9	0	0	0	1				2		1	50.0	0
+ELSA_AU2	21.012	3		0		1		9	33	0	10	0	2		1	0	0	0	0				3		0	0.0	0
+ELSA_AU2	21.976	3		0		0		0	95	0	4	0	70		12	0	0	4	0				12		4	0.0	0
+ELSA_AU2	22.829	3		1		1		0	92	0	45	0	103		9	0	0	3	0				5		3	4.3	0
+ELSA_AU2	23.346	3		0		0		5	44	0	3	0	2		0	0	0	1	0				3		1	0.0	1
+ELSA_AU2	23.862	3		0		0		0	56	1	38	0	3		0	0	0	0	2				5		2	0.0	2
+ELSA_AU2	24.379	1		0		2		0	21	0	40	0	21		0	0	0	2	0				2		2	0.0	0
+ELSA_AU2	24.895	2		0		0		0	8	0	35	0	2		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	25.412	2		0		0		0	7	0	5	0	5		0	0	0	0	0				2		0	0.0	0
+ELSA_AU2	25.928	3		0		0		0	76	4	4	0	4		1	0	0	4	0				3		4	0.0	1
+ELSA_AU2	26.445	3		0		0		0	72	0	53	0	72		0	0	2	9	0				6		9	11.1	0
+ELSA_AU2	26.961	3		1		0		3	72	0	46	1	7		7	0	0	1	7				10		8	5.6	0
+ELSA_AU2	27.431	3		0		0		0	5	1	0	1	12		59	0	0	5	0				7		5	0.0	0
+ELSA_AU2	27.640	3		0		0		2	42	2	5	1	6		0	0	0	3	0				5		3	0.0	1
+ELSA_AU2	27.848	3		0		5		0	90	0	215	0	95		4	0	0	4	0				18		4	0.0	5
+ELSA_AU2	28.050	2		0		0		0	52	5	0	0	0		0	0	0	14	0				42		14	0.0	3
+ELSA_AU2	28.250	3		0		8		0	144	0	270	0	190		14	0	0	11	0				28		11	0.0	3
+ELSA_AU2	28.450	3		0		1		0	12	0	300	1	7		17	0	0	4	0				1		4	0.0	0
+ELSA_AU2	28.689	1		0		0		0	0	0	556	0	0		5	0	0	0	0				2		0	0.0	0
+ELSA_AU2	28.940	2		0		0		0	26	4	174	0	2		0	0	0	1	0				1		1	0.0	2
+ELSA_AU2	29.192	0		0		0		0	4	2	5	0	0		0	0	0	0	0				2		0	0.0	2
+ELSA_AU2	29.443	0		0		0		0	0	0	10	0	0		0	0	0	1	0				0		1	0.0	1
+ELSA_AU2	29.695	3		0		2		0	2	7	30	0	0		0	0	0	2	0				30		2	0.0	5
+ELSA_AU2	29.946	1		0		0		0	0	0	54	1	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	30.197	2		0		0		2	1	0	48	0	1		0	0	0	1	0				0		1	16.7	1
+ELSA_AU2	30.438	0		0		0		0	4	2	0	0	1		0	0	0	0	0				4		0	0.0	0
+ELSA_AU2	30.678	2		0		0		0	5	0	50	0	0		0	2	0	1	0				0		1	0.0	3
+ELSA_AU2	30.918	3		0		0		2	6	0	42	0	0		0	0	0	0	0				0		0	0.0	1
+ELSA_AU2	31.158	3		0		0		6	34	0	1	0	1		0	1	0	1	0				6		1	0.0	1
+ELSA_AU2	31.398	3		0		2		15	9	0	7	0	2		0	0	0	0	0				9		0	0.0	0
+ELSA_AU2	31.638	3		0		0		0	108	4	12	0	5		8	0	0	0	0				3		0	0.0	2
+ELSA_AU2	31.878	3		0		0		0	24	0	19	0	0		2	0	0	0	0				7		0	0.0	0
+ELSA_AU2	32.118	3		0		0		0	53	3	313	0	7		1	0	0	0	0				16		0	0.0	3
+ELSA_AU2	32.543	0		0		0		0	56	1	394	0	1		5	0	0	3	0				5		3	0.0	0
+ELSA_AU2	33.193	2		0		0		5	35	2	428	0	4		4	0	0	0	0				3		0	0.0	1
+ELSA_AU2	33.683	0		0		1		8	2	0	53	0	0		47	0	0	0	0				4		0	50.0	1
+ELSA_AU2	33.980	3		0		0		3	5	0	0	1	12		2	0	0	0	0				14		0	0.0	1
+ELSA_AU2	34.277	1		0		0		0	31	1	9	0	0		0	0	0	0	0				2		0	0.0	1
+ELSA_AU2	34.573	3		0		0		0	46	5	0	0	10		3	0	0	2	0				40		2	0.0	6
+ELSA_AU2	34.870	3		0		1		93	24	0	0	1	37		0	0	0	1	0				6		1	44.4	1
+ELSA_AU2	35.167	0		0		0		11	116	0	0	0	11		3	0	1	0	0				6		0	33.3	0
+ELSA_AU2	35.777	2		0		3		8	92	1	2	1	43		35	0	0	0	0				3		0	0.0	1
+ELSA_AU2	36.645	1		0		0		3	3	0	6	0	12		22	0	0	0	0				0		0	0.0	0
+ELSA_AU2	37.513	0		1		0		3	0	0	0	2	6		38	0	0	0	0				1		0	100.0	0
+ELSA_AU2	38.353	0		0		0		0	0	0	71	0	0		5	0	0	1	0				0		1	0.0	0
+ELSA_AU2	39.036	0		0		1		0	3	0	0	0	0		2	0	0	0	0				124		0	0.0	0
+ELSA_AU2	39.719	0		0		0		4	18	0	0	0	6		2	0	0	0	0				30		0	25.0	1
+ELSA_AU2	40.358	0		0		0		7	9	0	5	0	4		10	0	0	0	0				38		0	0.0	0
+ELSA_AU2	40.745	1		0		0		1	3	0	3	0	0		14	0	0	0	0				1		0	0.0	0
+ELSA_AU2	41.120	2		0		0		31	11	5	6	0	1		28	0	0	1	2				2		3	0.0	0
+ELSA_AU2	41.471	1		0		1		10	5	1	14	1	4		80	0	0	0	0				2		0	0.0	0
+ELSA_AU2	41.835	1		0		4		9	10	0	6	1	72		319	0	2	0	0				88		0	38.5	1
+ELSA_AU2	42.222	2		0		1		48	18	1	5	0	3		31	0	1	0	0				11		0	33.3	0
+ELSA_AU2	42.608	1		0		0		14	7	1	18	1	2		47	0	0	0	0				10		0	0.0	0
+ELSA_AU2	42.994	1		1		1		19	5	2	10	1	6		118	0	1	1	0				2		1	33.3	0
+ELSA_AU2	43.381	1		0		0		2	0	1	4	1	5		173	0	2	0	0				3		0	66.7	0
+ELSA_AU2	43.516	0		0		0		1	4	0	10	0	6		25	0	6	0	4				3		4	42.9	1
+ELSA_AU2	43.639	0		0		0		3	3	0	0	1	0		24	0	0	0	0				114		0	50.0	0
+ELSA_AU2	43.762	3		0		0		15	9	0	2	0	4		72	0	0	0	0				2		0	0.0	0
+ELSA_AU2	43.884	3		0		0		13	8	5	0	0	0		19	0	0	0	0				14		0	0.0	0
+ELSA_AU2	44.011	3		0		0		12	7	0	0	0	2		75	0	0	1	1				67		2	30.0	0
+ELSA_AU2	44.138	3		0		1		69	13	2	3	1	5		161	0	1	2	1				25		3	15.4	0
+ELSA_AU2	44.265	3		0		0		115	17	5	0	7	4		118	0	1	1	4				11		5	6.3	0
+ELSA_AU2	44.392	3		1		0		37	20	5	0	2	13		217	0	3	0	2				104		2	35.0	0
+ELSA_AU2	44.519	3		0		0		85	12	4	0	5	6		57	0	2	3	6				32		9	30.8	0
+ELSA_AU2	44.646	3		0		3		60	12	2	0	1	4		261	0	2	0	2				1		2	16.7	0
+ELSA_AU2	44.773	3		0		0		7	0	0	0	0	3		179	0	0	1	0				0		1	0.0	0
+ELSA_AU2	44.900	3		1		0		13	0	0	0	0	3		2	0	0	1	0				0		1	50.0	0
+ELSA_AU2	45.450	3		2		0		13	0	0	4	0	14		76	0	1	1	0				4		1	30.0	4
+ELSA_AU2	46.000	0		0		0		1	0	0	0	0	0		1	0	0	0	0				0		0	0.0	0
+ELSA_AU2	47.350	0		0		0		0	0	0	20	0	0		1	0	0	0	0				1		0	100.0	0
+ELSA_AU2	48.310	1		1		0		3	0	0	0	0	14		14	0	0	1	0				0		1	50.0	0
+ELSA_AU2	49.270	1		0		0		16	0	0	3	0	25		7	0	3	0	0				0		0	100.0	0
+ELSA_AU2	50.433	1		2		0		11	0	1	0	0	27		73	0	17	4	1				2		5	70.4	0
+ELSA_AU2	51.800	0		1		0		10	0	1	0	0	41		2	0	2	2	0				1		2	30.0	3
+ELSA_AU2	53.167	0		75		0		7	4	2	0	4	65		28	0	2	7	3				27		10	80.2	0
+ELSA_AU2	54.533	0		15		0		17	0	0	0	0	44		13	0	0	3	0				2		3	65.2	0
+ELSA_AU2	55.900	0		26		0		10	2	0	0	5	40		15	0	5	1	0				0		1	93.9	1
+ELSA_AU2	57.267	0		2		0		5	0	0	0	0	50		21	0	0	1	0				1		1	66.7	0
+ELSA_AU2	58.633	0		2		0		3	0	0	0	0	11		2	0	0	0	0				1		0	100.0	0
+ELSA_AU2	60.000	3		7		0		5	0	0	0	0	5		93	0	0	0	0				0		0	100.0	0
+ELSA_AU2	60.800	3		2		1		2	3	0	0	0	0		210	0	0	0	1				1		1	22.2	1
+ELSA_AU2	62.400	0		0		0		0	5	0	0	0	3		2	0	0	0	0				8		0	0.0	0
+ELSA_AU2	63.200	0		0		0		0	2	0	2	0	2		0	0	0	0	0				6		0	0.0	1
+ELSA_AU2	64.000	1		0		1		2	4	0	0	0	2		0	0	0	0	0				1		0	0.0	0
+ELSA_AU2	64.800	1		0		0		19	8	0	0	0	0		0	0	0	1	1				0		2	0.0	0
+ELSA_AU2	65.600	0		0		0		4	1	0	0	0	4		0	0	0	0	0				21		0	25.0	2
+ELSA_AU2	66.400	0		0		0		2	1	1	0	2	3		0	0	0	1	0				1		1	0.0	0
+ELSA_AU2	67.200	0		0		0		3	2	0	0	0	2		0	0	0	0	0				0		0	100.0	0
+ELSA_AU2	68.000	0		0		0		7	5	0	0	1	4		0	0	0	1	0				0		1	0.0	0
+ELSA_AU2	68.800	0		0		0		2	2	0	0	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	72.000	0		0		0		13	0	0	0	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	73.600	0		0		0		0	0	0	0	0	0		0	0	0	0	0				0		0	0.0	0
+ELSA_AU2	75.200	0		1		0		0	0	0	0	0	0		0	0	0	0	0				0		0	100.0	0
+ELSA_AU2	76.000	0		0		0		0	0	0	0	0	0		0	0	0	0	0				0		0	0.0	0
