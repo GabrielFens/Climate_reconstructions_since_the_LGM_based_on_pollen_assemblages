@@ -1,0 +1,22 @@
+Names
+Abies
+Acer campestre-type
+Artemisia
+Betula
+Carpinus
+Chenopodiaceae/Amaranthaceae
+Corylus
+Cyperaceae
+Fagus
+Filipendula
+Fraxinus
+Helianthemum
+Hippophae rhamnoides
+Juniperus
+Picea
+Pinus
+Poaceae
+Quercus robur-type
+Rumex
+Thalictrum
+Ulmus
