@@ -1,0 +1,14 @@
+;bog moss;grass graminoid;sedge graminoid;rush graminoid;rosette or cushion forb;arctic forb;boreal or temperate drought-tolerant forb;arctic cold-deciduous malacophyll broad-leaved prostrate dwarf shrub;arctic evergreen malacophyll broad-leaved prostrate dwarf shrub;arcto-boreal evergreen needle-leaved prostrate dwarf shrub;arcto-boreal cold-deciduous malacophyll broad-leaved erect dwarf shrub;arcto-boreal evergreen malacophyll broad-leaved erect dwarf shrub;arcto-boreal cold-deciduous malacophyll broad-leaved low or high shrub;arcto-boreal evergreen malacophyll broad-leaved low or high shrub;arcto-boreal evergreen needle-leaved low or high shrub;boreal cold-deciduous malacophyll broad-leaved low or high shrub;boreal evergreen malacophyll broad-leaved low or high shrub;boreal/ temperate drought-tolerant cold-deciduous/evergreen malacophyll broad-leaved low/high shrub;boreal evergreen needle-leaved tree;boreal cold-deciduous needle-leaved tree;boreal cold-deciduous malacophyll broad-leaved tree;eurythermic evergreen needle-leaved tree;temperate evergreen needle-leaved tree;maritime evergreen needle-leaved tree;cool-temperate evergreen needle-leaved tree;temperate (spring-frost avoiding) cold-deciduous malacophyll broad-leaved tree;temperate (spring-frost tolerant) cold-deciduous malacophyll broad-leaved tree;temperate (spring-frost intolerant) cold-deciduous malacophyll broad-leaved tree;temperate evergreen malacophyll broad-leaved woody plants;desert forb/shrub
+DESE;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+CUSH;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+DRYT;0;1;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+PROS;0;1;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+DWAR;0;1;1;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+SHRU;1;0;1;0;0;0;0;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+STEP;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+CLDE;1;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+TAIG;1;0;0;0;0;0;0;0;0;0;1;1;1;1;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0
+COCO;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;1;0;0;1;0;0;0
+CLMX;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;1;0;0;0
+TEDE;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;1;1;1;0
+COMX;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;1;1;0;0;0

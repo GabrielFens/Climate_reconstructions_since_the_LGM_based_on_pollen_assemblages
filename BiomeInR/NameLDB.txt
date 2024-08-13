@@ -1,0 +1,57 @@
+Names
+Abies
+Acer campestre-type
+Alnus
+Apiaceae
+Armeria-type
+Artemisia
+Asteraceae subf. Cichorioideae
+Asteraceae subf. Asteroideae
+Betula
+Boraginaceae
+Botrychium
+Brassicaceae
+Buxus
+Calluna vulgaris
+Campanulaceae
+Carpinus
+Caryophyllaceae (periporate excl. Paronychioideae)
+Cedrus
+Centaurea
+Chenopodiaceae/Amaranthaceae
+Corylus
+Cyperaceae
+Dipsacaceae
+Ephedra
+Ericaceae
+Euphorbia
+Fabaceae
+Fagus
+Filipendula
+Fraxinus
+Hedera
+Helianthemum
+Hippophae rhamnoides
+Juniperus
+Lamiaceae
+Olea europaea
+Picea
+Pinus
+Plantago
+Plantago lanceolata-type
+Poaceae
+Polygonum
+Quercus robur-type
+Quercus ilex-type
+Ranunculaceae
+Rosaceae
+Rubiaceae
+Rumex
+Salix
+Saxifraga
+Scrophulariaceae
+Thalictrum
+Thymelaeaceae
+Tilia
+Ulmus
+Urticaceae
